@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Plataforma de modelado de Rational (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BusinessModeling="http:///schemas/BusinessModeling/2" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.2/Umlnotation" xsi:schemaLocation="http:///schemas/BusinessModeling/2 pathmap://BM_PROFILES/BM.epx#_biXOMFSlEduDJ7xushbBPA?Business%20Modeling/BusinessModeling?">
+  <uml:Package xmi:id="_cpxmgyE1Ed-uUcphoFyw8g" name="BusinessModel">
+    <eAnnotations xmi:id="_cpxmhCE1Ed-uUcphoFyw8g" source="uml2.diagrams"/>
+    <packageImport xmi:id="_cpxmhyE1Ed-uUcphoFyw8g">
+      <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+    </packageImport>
+    <packagedElement xmi:type="uml:Package" xmi:id="_1ISHUCE2Ed-uUcphoFyw8g" name="BusinessUseCaseModel">
+      <eAnnotations xmi:id="_1ISHUSE2Ed-uUcphoFyw8g" source="uml2.diagrams"/>
+      <packagedElement xmi:type="uml:Package" xmi:id="_-i4ZgCE2Ed-uUcphoFyw8g" name="Actors">
+        <eAnnotations xmi:id="_-i4ZgSE2Ed-uUcphoFyw8g" source="uml2.diagrams"/>
+        <packagedElement xmi:type="uml:Actor" xmi:id="_EEoK0CE3Ed-uUcphoFyw8g" name="Actor"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Package" xmi:id="_Gng-UCE3Ed-uUcphoFyw8g" name="UseCases">
+        <eAnnotations xmi:id="_Gng-USE3Ed-uUcphoFyw8g" source="uml2.diagrams"/>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_PdfggCE3Ed-uUcphoFyw8g" name="UseCase"/>
+      </packagedElement>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_eDZZ8CE3Ed-uUcphoFyw8g" name="BusinessObjectModel">
+      <eAnnotations xmi:id="_eDZZ8SE3Ed-uUcphoFyw8g" source="uml2.diagrams"/>
+      <packagedElement xmi:type="uml:Package" xmi:id="_mKvUgCE3Ed-uUcphoFyw8g" name="BusinessSystems">
+        <eAnnotations xmi:id="_mK4ecCE3Ed-uUcphoFyw8g" source="uml2.diagrams"/>
+        <packagedElement xmi:type="uml:Package" xmi:id="_Ibyi4CE4Ed-uUcphoFyw8g" name="System">
+          <eAnnotations xmi:id="_Ibyi4SE4Ed-uUcphoFyw8g" source="uml2.diagrams"/>
+          <packagedElement xmi:type="uml:Component" xmi:id="_PylfYCE6Ed-uUcphoFyw8g" name="Worker"/>
+          <packagedElement xmi:type="uml:Component" xmi:id="_bgIEkCE6Ed-uUcphoFyw8g" name="Entity"/>
+        </packagedElement>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Package" xmi:id="_gnl_kCE4Ed-uUcphoFyw8g" name="BusinessUseCaseRealizations">
+        <eAnnotations xmi:id="_gnl_kSE4Ed-uUcphoFyw8g" source="uml2.diagrams"/>
+        <packagedElement xmi:type="uml:Collaboration" xmi:id="_2VOUMCE5Ed-uUcphoFyw8g" name="UseCaseRealization">
+          <eAnnotations xmi:id="_nSSEACE6Ed-uUcphoFyw8g" source="uml2.diagrams"/>
+          <ownedBehavior xmi:type="uml:Activity" xmi:id="_kaa0ICE8Ed-VfMoRokmK6Q" name="Actividad1">
+            <eAnnotations xmi:id="_kbBRECE8Ed-VfMoRokmK6Q" source="uml2.diagrams">
+              <contents xmi:type="notation:Diagram" xmi:id="_kbBRESE8Ed-VfMoRokmK6Q" type="Activity" element="_kaa0ICE8Ed-VfMoRokmK6Q" name="DiagramaDeActividad" measurementUnit="Himetric">
+                <children xmi:id="_kbBREiE8Ed-VfMoRokmK6Q" type="Activity Frame" element="_kaa0ICE8Ed-VfMoRokmK6Q">
+                  <children xmi:id="_kbBREyE8Ed-VfMoRokmK6Q" type="ActivityCompartment">
+                    <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_kbBRFCE8Ed-VfMoRokmK6Q"/>
+                  </children>
+                  <children xmi:id="_kbBRFSE8Ed-VfMoRokmK6Q" type="Name"/>
+                  <styles xmi:type="umlnotation:UMLFrameStyle" xmi:id="_kbBRFiE8Ed-VfMoRokmK6Q" showStereotype="Label"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kbBRFyE8Ed-VfMoRokmK6Q" x="793" y="793"/>
+                </children>
+                <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_kbBRGCE8Ed-VfMoRokmK6Q"/>
+                <styles xmi:type="notation:BooleanValueStyle" xmi:id="_kbBRGSE8Ed-VfMoRokmK6Q" name="support_hide_pins"/>
+              </contents>
+            </eAnnotations>
+          </ownedBehavior>
+        </packagedElement>
+      </packagedElement>
+    </packagedElement>
+    <profileApplication xmi:id="_cpxmiCE1Ed-uUcphoFyw8g">
+      <eAnnotations xmi:id="_cpxmiSE1Ed-uUcphoFyw8g" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
+    </profileApplication>
+    <profileApplication xmi:id="_cpxmiiE1Ed-uUcphoFyw8g">
+      <eAnnotations xmi:id="_cpxmiyE1Ed-uUcphoFyw8g" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Default.epx#_IN8k8MmBEdqBcN1R6EvWUw?Default/Default?"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://UML2_MSL_PROFILES/Default.epx#_a_S3wNWLEdiy4IqP8whjFA?Default?"/>
+    </profileApplication>
+    <profileApplication xmi:id="_cpxmjCE1Ed-uUcphoFyw8g">
+      <eAnnotations xmi:id="_cpxmjSE1Ed-uUcphoFyw8g" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_IrdAUMmBEdqBcN1R6EvWUw?Deployment/Deployment?"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_vjbuwOvHEdiDX5bji0iVSA?Deployment?"/>
+    </profileApplication>
+    <profileApplication xmi:id="_WzJU4CE2Ed-uUcphoFyw8g">
+      <eAnnotations xmi:id="_WzJU4SE2Ed-uUcphoFyw8g" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="pathmap://BM_PROFILES/BM.epx#_biXOMFSlEduDJ7xushbBPA?Business%20Modeling/BusinessModeling?"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://BM_PROFILES/BM.epx#_vWDZcTB4EdmD3LtL1d2JnQ?Business%20Modeling?"/>
+    </profileApplication>
+  </uml:Package>
+  <BusinessModeling:BusinessUseCaseModel xmi:id="_73z6YCE2Ed-uUcphoFyw8g" base_Package="_1ISHUCE2Ed-uUcphoFyw8g"/>
+  <BusinessModeling:BusinessActor xmi:id="_F6NMYCE3Ed-uUcphoFyw8g" base_Actor="_EEoK0CE3Ed-uUcphoFyw8g"/>
+  <BusinessModeling:BusinessUseCase xmi:id="_SmhG8CE3Ed-uUcphoFyw8g" base_UseCase="_PdfggCE3Ed-uUcphoFyw8g"/>
+  <BusinessModeling:BusinessSystem xmi:id="_K6MfACE4Ed-uUcphoFyw8g" base_Package="_Ibyi4CE4Ed-uUcphoFyw8g"/>
+  <BusinessModeling:BusinessUseCaseRealization xmi:id="_4jil4CE5Ed-uUcphoFyw8g" base_Collaboration="_2VOUMCE5Ed-uUcphoFyw8g"/>
+  <BusinessModeling:BusinessWorker xmi:id="_SK4McCE6Ed-uUcphoFyw8g" base_Class="_PylfYCE6Ed-uUcphoFyw8g"/>
+  <BusinessModeling:BusinessEntity xmi:id="_fv7F0CE6Ed-uUcphoFyw8g" base_Class="_bgIEkCE6Ed-uUcphoFyw8g"/>
+</xmi:XMI>
