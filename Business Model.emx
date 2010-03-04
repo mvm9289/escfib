@@ -4010,7 +4010,7 @@
               </ownedEnd>
             </packagedElement>
           </packagedElement>
-          <packagedElement xmi:type="uml:Component" xmi:id="_53QNQCH5Ed-iNvavC_XeGw" name="Presupuesto">
+          <packagedElement xmi:type="uml:Component" xmi:id="_53QNQCH5Ed-iNvavC_XeGw" name="Presupuesto del pack">
             <ownedAttribute xmi:id="_HYKccCSKEd-0kuQrzq7JKw" name="cliente" visibility="private" type="_8qaQwCJOEd-FaYnD7yQdbw" association="_HYIAMCSKEd-0kuQrzq7JKw">
               <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_HYLqkCSKEd-0kuQrzq7JKw" value="1"/>
               <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_HYLDgCSKEd-0kuQrzq7JKw" value="1"/>
@@ -4611,11 +4611,11 @@
                           <children xmi:id="_iYlhJiUfEd-vOLX4BHPWAw" type="Description">
                             <element xsi:nil="true"/>
                           </children>
-                          <styles xmi:type="notation:ShapeStyle" xmi:id="_iYlhISUfEd-vOLX4BHPWAw" description="Pack seleccionado" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+                          <styles xmi:type="notation:ShapeStyle" xmi:id="_iYlhISUfEd-vOLX4BHPWAw" description="Pack cliente" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
                           <styles xmi:type="notation:TextStyle" xmi:id="_iYlhIiUfEd-vOLX4BHPWAw"/>
                           <styles xmi:type="notation:LineTypeStyle" xmi:id="_iYlhIyUfEd-vOLX4BHPWAw"/>
                           <element xsi:nil="true"/>
-                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iYlhJCUfEd-vOLX4BHPWAw" x="3299" y="526"/>
+                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iYlhJCUfEd-vOLX4BHPWAw" x="3299" y="526" width="1957"/>
                         </children>
                         <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_foFAGCH4Ed-iNvavC_XeGw"/>
                       </children>
@@ -4736,7 +4736,7 @@
             <node xmi:type="uml:ActivityFinalNode" xmi:id="_SnyZkCH4Ed-iNvavC_XeGw" name="Fin: Fin relación cliente"/>
             <node xmi:type="uml:DecisionNode" xmi:id="_6UTTYCUfEd-vOLX4BHPWAw" name="Aceptación del presupuesto"/>
             <group xmi:type="uml:ActivityPartition" xmi:id="_foFAECH4Ed-iNvavC_XeGw" name="Asesor"/>
-            <group xmi:type="uml:ActivityPartition" xmi:id="_6-61YCH4Ed-iNvavC_XeGw" name="Presupuestador" node="_4n5wICH3Ed-iNvavC_XeGw"/>
+            <group xmi:type="uml:ActivityPartition" xmi:id="_6-61YCH4Ed-iNvavC_XeGw" name="Gestor Presupuestario" node="_4n5wICH3Ed-iNvavC_XeGw"/>
           </ownedBehavior>
         </packagedElement>
         <packagedElement xmi:type="uml:Collaboration" xmi:id="_Ol_o4COJEd-ka_VwDe2W0w" name="Alta">
@@ -4827,7 +4827,7 @@
                           <children xmi:id="_LigiYSOMEd-ka_VwDe2W0w" type="Description">
                             <element xsi:nil="true"/>
                           </children>
-                          <styles xmi:type="notation:ShapeStyle" xmi:id="_Lif7USOMEd-ka_VwDe2W0w" fontName="Segoe UI" description="Petición inscripción" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+                          <styles xmi:type="notation:ShapeStyle" xmi:id="_Lif7USOMEd-ka_VwDe2W0w" fontName="Segoe UI" description="Petición de inscripción" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
                           <styles xmi:type="notation:TextStyle" xmi:id="_Lif7UiOMEd-ka_VwDe2W0w"/>
                           <styles xmi:type="notation:LineTypeStyle" xmi:id="_Lif7UyOMEd-ka_VwDe2W0w"/>
                           <element xsi:nil="true"/>
@@ -5318,7 +5318,7 @@
                   <children xmi:id="_0GoF0ie0Ed-YAZTAYN5EWA" type="ToMultiplicity"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_0GoF0Se0Ed-YAZTAYN5EWA" y="396"/>
                 </children>
-                <children xmi:id="_0Gos4Ce0Ed-YAZTAYN5EWA" visible="false" type="ToRoleLabel" element="_CZTq4CSMEd-0kuQrzq7JKw">
+                <children xmi:id="_0Gos4Ce0Ed-YAZTAYN5EWA" type="ToRoleLabel" element="_CZTq4CSMEd-0kuQrzq7JKw">
                   <children xmi:id="_0Gos4ie0Ed-YAZTAYN5EWA" type="ToRole"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_0Gos4Se0Ed-YAZTAYN5EWA" x="1687" y="-1082"/>
                 </children>
@@ -6044,11 +6044,11 @@
                           <children xmi:id="_d5LiJiUVEd-vOLX4BHPWAw" type="Description">
                             <element xsi:nil="true"/>
                           </children>
-                          <styles xmi:type="notation:ShapeStyle" xmi:id="_d5LiISUVEd-vOLX4BHPWAw" description="Informe de solución del problema" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+                          <styles xmi:type="notation:ShapeStyle" xmi:id="_d5LiISUVEd-vOLX4BHPWAw" description="Informe de la solución del problema" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
                           <styles xmi:type="notation:TextStyle" xmi:id="_d5LiIiUVEd-vOLX4BHPWAw"/>
                           <styles xmi:type="notation:LineTypeStyle" xmi:id="_d5LiIyUVEd-vOLX4BHPWAw"/>
                           <element xsi:nil="true"/>
-                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d5LiJCUVEd-vOLX4BHPWAw" x="8924" y="8815" width="3810" height="1852"/>
+                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d5LiJCUVEd-vOLX4BHPWAw" x="8924" y="8947" width="3333" height="1560"/>
                         </children>
                         <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_UX4tPSSIEd-m-N-EMqeA-g"/>
                       </children>
