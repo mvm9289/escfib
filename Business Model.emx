@@ -5757,17 +5757,17 @@
                 <children xmi:id="_kghCkCkzEd-BzOkrDdZ2oA" visible="false" type="RealizationListCompartment">
                   <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_kghCkSkzEd-BzOkrDdZ2oA"/>
                 </children>
-                <children xmi:id="_kghCkikzEd-BzOkrDdZ2oA" type="RequiredInterfaceListCompartment">
+                <children xmi:id="_kghCkikzEd-BzOkrDdZ2oA" visible="false" type="RequiredInterfaceListCompartment">
                   <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_kghCkykzEd-BzOkrDdZ2oA"/>
                 </children>
-                <children xmi:id="_kghClCkzEd-BzOkrDdZ2oA" type="ProvidedInterfaceListCompartment">
+                <children xmi:id="_kghClCkzEd-BzOkrDdZ2oA" visible="false" type="ProvidedInterfaceListCompartment">
                   <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_kghClSkzEd-BzOkrDdZ2oA" collapsed="true"/>
                 </children>
                 <children xmi:id="_kghpoCkzEd-BzOkrDdZ2oA" visible="false" type="StructureCompartment">
                   <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_kghpoSkzEd-BzOkrDdZ2oA"/>
                 </children>
                 <styles xmi:type="umlnotation:UMLComponentStyle" xmi:id="_kgQj4SkzEd-BzOkrDdZ2oA" fontName="Segoe UI" showStereotype="Image"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kgQj4ikzEd-BzOkrDdZ2oA" x="1716" y="3168" width="2115" height="2458"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kgQj4ikzEd-BzOkrDdZ2oA" x="1716" y="3168" width="2115" height="1955"/>
               </children>
               <children xmi:id="_yeeyQCkzEd-BzOkrDdZ2oA" element="_eV4sYCONEd-ka_VwDe2W0w">
                 <children xmi:id="_yefZUCkzEd-BzOkrDdZ2oA" type="ImageCompartment">
@@ -5786,10 +5786,10 @@
                 <children xmi:id="_yegndCkzEd-BzOkrDdZ2oA" visible="false" type="RealizationListCompartment">
                   <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_yegndSkzEd-BzOkrDdZ2oA"/>
                 </children>
-                <children xmi:id="_yehOgCkzEd-BzOkrDdZ2oA" type="RequiredInterfaceListCompartment">
+                <children xmi:id="_yehOgCkzEd-BzOkrDdZ2oA" visible="false" type="RequiredInterfaceListCompartment">
                   <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_yehOgSkzEd-BzOkrDdZ2oA"/>
                 </children>
-                <children xmi:id="_yehOgikzEd-BzOkrDdZ2oA" type="ProvidedInterfaceListCompartment">
+                <children xmi:id="_yehOgikzEd-BzOkrDdZ2oA" visible="false" type="ProvidedInterfaceListCompartment">
                   <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_yehOgykzEd-BzOkrDdZ2oA"/>
                 </children>
                 <children xmi:id="_yeh1kCkzEd-BzOkrDdZ2oA" visible="false" type="StructureCompartment">
@@ -5815,10 +5815,10 @@
                 <children xmi:id="_8FTikikzEd-BzOkrDdZ2oA" visible="false" type="RealizationListCompartment">
                   <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_8FTikykzEd-BzOkrDdZ2oA"/>
                 </children>
-                <children xmi:id="_8FTilCkzEd-BzOkrDdZ2oA" type="RequiredInterfaceListCompartment">
+                <children xmi:id="_8FTilCkzEd-BzOkrDdZ2oA" visible="false" type="RequiredInterfaceListCompartment">
                   <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_8FTilSkzEd-BzOkrDdZ2oA"/>
                 </children>
-                <children xmi:id="_8FUJoCkzEd-BzOkrDdZ2oA" type="ProvidedInterfaceListCompartment">
+                <children xmi:id="_8FUJoCkzEd-BzOkrDdZ2oA" visible="false" type="ProvidedInterfaceListCompartment">
                   <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_8FUJoSkzEd-BzOkrDdZ2oA"/>
                 </children>
                 <children xmi:id="_8FUJoikzEd-BzOkrDdZ2oA" visible="false" type="StructureCompartment">
@@ -6109,10 +6109,10 @@
                 <children xmi:id="_HFOz0ik0Ed-BzOkrDdZ2oA" visible="false" type="RealizationListCompartment">
                   <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_HFOz0yk0Ed-BzOkrDdZ2oA"/>
                 </children>
-                <children xmi:id="_HFPa4Ck0Ed-BzOkrDdZ2oA" type="RequiredInterfaceListCompartment">
+                <children xmi:id="_HFPa4Ck0Ed-BzOkrDdZ2oA" visible="false" type="RequiredInterfaceListCompartment">
                   <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_HFPa4Sk0Ed-BzOkrDdZ2oA"/>
                 </children>
-                <children xmi:id="_HFPa4ik0Ed-BzOkrDdZ2oA" type="ProvidedInterfaceListCompartment">
+                <children xmi:id="_HFPa4ik0Ed-BzOkrDdZ2oA" visible="false" type="ProvidedInterfaceListCompartment">
                   <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_HFPa4yk0Ed-BzOkrDdZ2oA"/>
                 </children>
                 <children xmi:id="_HFPa5Ck0Ed-BzOkrDdZ2oA" visible="false" type="StructureCompartment">
@@ -6138,10 +6138,10 @@
                 <children xmi:id="_MIQBwik0Ed-BzOkrDdZ2oA" visible="false" type="RealizationListCompartment">
                   <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_MIQBwyk0Ed-BzOkrDdZ2oA"/>
                 </children>
-                <children xmi:id="_MIQBxCk0Ed-BzOkrDdZ2oA" type="RequiredInterfaceListCompartment">
+                <children xmi:id="_MIQBxCk0Ed-BzOkrDdZ2oA" visible="false" type="RequiredInterfaceListCompartment">
                   <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_MIQBxSk0Ed-BzOkrDdZ2oA"/>
                 </children>
-                <children xmi:id="_MIQo0Ck0Ed-BzOkrDdZ2oA" type="ProvidedInterfaceListCompartment">
+                <children xmi:id="_MIQo0Ck0Ed-BzOkrDdZ2oA" visible="false" type="ProvidedInterfaceListCompartment">
                   <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_MIQo0Sk0Ed-BzOkrDdZ2oA"/>
                 </children>
                 <children xmi:id="_MIQo0ik0Ed-BzOkrDdZ2oA" visible="false" type="StructureCompartment">
