@@ -6871,6 +6871,9 @@
       <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Kbe4cUCiEd-2-oL0344xMg" value="*"/>
       <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Kbe4cECiEd-2-oL0344xMg"/>
     </ownedAttribute>
+    <ownedAttribute xmi:id="_DF9TwEFPEd-gndZ0O4LF0w" name="pagaYseñal" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+    </ownedAttribute>
   </packagedElement>
   <packagedElement xmi:type="uml:Association" xmi:id="_R3_NoECfEd-2-oL0344xMg" memberEnd="_R4Bp4ECfEd-2-oL0344xMg _R4EtMECfEd-2-oL0344xMg"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_bPKYYECfEd-2-oL0344xMg" memberEnd="_bPM0oECfEd-2-oL0344xMg _bPP38ECfEd-2-oL0344xMg"/>
