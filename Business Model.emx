@@ -32,6 +32,123 @@
           <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_sy-v8SJMEd-FaYnD7yQdbw" fontName="Segoe UI" showStereotype="Label"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sy-v8iJMEd-FaYnD7yQdbw" x="1056" y="1056"/>
         </children>
+        <children xmi:id="_qMVroEFKEd-2RKxAw9ERhA">
+          <eAnnotations xmi:id="_qMVroUFKEd-2RKxAw9ERhA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+            <details xmi:id="_qMVrokFKEd-2RKxAw9ERhA" key="ImageModeStyle" value="true"/>
+          </eAnnotations>
+          <children xmi:id="_qMVro0FKEd-2RKxAw9ERhA" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_qMVrpEFKEd-2RKxAw9ERhA" width="1296" height="1296"/>
+          </children>
+          <children xmi:id="_qMVrpUFKEd-2RKxAw9ERhA" type="Stereotype"/>
+          <children xmi:id="_qMVrpkFKEd-2RKxAw9ERhA" type="CommentBody"/>
+          <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_qMVrp0FKEd-2RKxAw9ERhA" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+          <element xmi:type="uml:Comment" href="Analysis%20Model.emx#_aHdSwEFKEd-2RKxAw9ERhA?Analysis%20Model/%3CComentario%3E?"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qMVrqEFKEd-2RKxAw9ERhA" x="792" y="13345" width="9207" height="1057"/>
+        </children>
+        <children xmi:id="_qMVrqUFKEd-2RKxAw9ERhA">
+          <eAnnotations xmi:id="_qMVrqkFKEd-2RKxAw9ERhA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+            <details xmi:id="_qMVrq0FKEd-2RKxAw9ERhA" key="ImageModeStyle" value="true"/>
+          </eAnnotations>
+          <children xmi:id="_qMVrrEFKEd-2RKxAw9ERhA" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_qMVrrUFKEd-2RKxAw9ERhA" width="1296" height="1296"/>
+          </children>
+          <children xmi:id="_qMVrrkFKEd-2RKxAw9ERhA" type="Stereotype"/>
+          <children xmi:id="_qMVrr0FKEd-2RKxAw9ERhA" type="CommentBody"/>
+          <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_qMVrsEFKEd-2RKxAw9ERhA" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+          <element xmi:type="uml:Comment" href="Analysis%20Model.emx#_d6-nsEFKEd-2RKxAw9ERhA?Analysis%20Model/%3CComentario%3E?"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qMVrsUFKEd-2RKxAw9ERhA" x="792" y="14403" width="9207" height="1057"/>
+        </children>
+        <children xmi:id="_qMVrskFKEd-2RKxAw9ERhA">
+          <eAnnotations xmi:id="_qMVrs0FKEd-2RKxAw9ERhA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+            <details xmi:id="_qMVrtEFKEd-2RKxAw9ERhA" key="ImageModeStyle" value="true"/>
+          </eAnnotations>
+          <children xmi:id="_qMVrtUFKEd-2RKxAw9ERhA" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_qMVrtkFKEd-2RKxAw9ERhA" width="1296" height="1296"/>
+          </children>
+          <children xmi:id="_qMVrt0FKEd-2RKxAw9ERhA" type="Stereotype"/>
+          <children xmi:id="_qMVruEFKEd-2RKxAw9ERhA" type="CommentBody"/>
+          <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_qMVruUFKEd-2RKxAw9ERhA" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+          <element xmi:type="uml:Comment" href="Analysis%20Model.emx#_MHbGgEFKEd-2RKxAw9ERhA?Analysis%20Model/%3CComentario%3E?"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qMVrukFKEd-2RKxAw9ERhA" x="792" y="11228" width="9207" height="1057"/>
+        </children>
+        <children xmi:id="_qMVru0FKEd-2RKxAw9ERhA">
+          <eAnnotations xmi:id="_qMVrvEFKEd-2RKxAw9ERhA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+            <details xmi:id="_qMVrvUFKEd-2RKxAw9ERhA" key="ImageModeStyle" value="true"/>
+          </eAnnotations>
+          <children xmi:id="_qMVrvkFKEd-2RKxAw9ERhA" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_qMVrv0FKEd-2RKxAw9ERhA" width="1296" height="1296"/>
+          </children>
+          <children xmi:id="_qMVrwEFKEd-2RKxAw9ERhA" type="Stereotype"/>
+          <children xmi:id="_qMVrwUFKEd-2RKxAw9ERhA" type="CommentBody"/>
+          <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_qMVrwkFKEd-2RKxAw9ERhA" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+          <element xmi:type="uml:Comment" href="Analysis%20Model.emx#_V-CmUEFKEd-2RKxAw9ERhA?Analysis%20Model/%3CComentario%3E?"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qMVrw0FKEd-2RKxAw9ERhA" x="792" y="12287" width="9207" height="1057"/>
+        </children>
+        <children xmi:id="_qMVrxEFKEd-2RKxAw9ERhA">
+          <eAnnotations xmi:id="_qMVrxUFKEd-2RKxAw9ERhA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+            <details xmi:id="_qMVrxkFKEd-2RKxAw9ERhA" key="ImageModeStyle" value="true"/>
+          </eAnnotations>
+          <children xmi:id="_qMVrx0FKEd-2RKxAw9ERhA" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_qMVryEFKEd-2RKxAw9ERhA" width="1296" height="1296"/>
+          </children>
+          <children xmi:id="_qMVryUFKEd-2RKxAw9ERhA" type="Stereotype"/>
+          <children xmi:id="_qMVrykFKEd-2RKxAw9ERhA" type="CommentBody"/>
+          <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_qMVry0FKEd-2RKxAw9ERhA" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+          <element xmi:type="uml:Comment" href="Analysis%20Model.emx#_edcRAEFJEd-2RKxAw9ERhA?Analysis%20Model/%3CComentario%3E?"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qMVrzEFKEd-2RKxAw9ERhA" x="792" y="7656" width="9207" height="1057"/>
+        </children>
+        <children xmi:id="_qMVrzUFKEd-2RKxAw9ERhA">
+          <eAnnotations xmi:id="_qMVrzkFKEd-2RKxAw9ERhA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+            <details xmi:id="_qMVrz0FKEd-2RKxAw9ERhA" key="ImageModeStyle" value="true"/>
+          </eAnnotations>
+          <children xmi:id="_qMVr0EFKEd-2RKxAw9ERhA" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_qMVr0UFKEd-2RKxAw9ERhA" width="1296" height="1296"/>
+          </children>
+          <children xmi:id="_qMVr0kFKEd-2RKxAw9ERhA" type="Stereotype"/>
+          <children xmi:id="_qMVr00FKEd-2RKxAw9ERhA" type="CommentBody"/>
+          <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_qMVr1EFKEd-2RKxAw9ERhA" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+          <element xmi:type="uml:Comment" href="Analysis%20Model.emx#_xCPB4EFJEd-2RKxAw9ERhA?Analysis%20Model/%3CComentario%3E?"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qMVr1UFKEd-2RKxAw9ERhA" x="792" y="10170" width="9207" height="1057"/>
+        </children>
+        <children xmi:id="_qMVr1kFKEd-2RKxAw9ERhA">
+          <eAnnotations xmi:id="_qMVr10FKEd-2RKxAw9ERhA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+            <details xmi:id="_qMVr2EFKEd-2RKxAw9ERhA" key="ImageModeStyle" value="true"/>
+          </eAnnotations>
+          <children xmi:id="_qMVr2UFKEd-2RKxAw9ERhA" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_qMVr2kFKEd-2RKxAw9ERhA" width="1296" height="1296"/>
+          </children>
+          <children xmi:id="_qMVr20FKEd-2RKxAw9ERhA" type="Stereotype"/>
+          <children xmi:id="_qMVr3EFKEd-2RKxAw9ERhA" type="CommentBody"/>
+          <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_qMVr3UFKEd-2RKxAw9ERhA" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+          <element xmi:type="uml:Comment" href="Analysis%20Model.emx#_I1TD4EFJEd-2RKxAw9ERhA?Analysis%20Model/%3CComentario%3E?"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qMVr3kFKEd-2RKxAw9ERhA" x="792" y="6598" width="9207" height="1057"/>
+        </children>
+        <children xmi:id="_qMVr30FKEd-2RKxAw9ERhA">
+          <eAnnotations xmi:id="_qMVr4EFKEd-2RKxAw9ERhA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+            <details xmi:id="_qMVr4UFKEd-2RKxAw9ERhA" key="ImageModeStyle" value="true"/>
+          </eAnnotations>
+          <children xmi:id="_qMVr4kFKEd-2RKxAw9ERhA" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_qMVr40FKEd-2RKxAw9ERhA" width="1296" height="1296"/>
+          </children>
+          <children xmi:id="_qMVr5EFKEd-2RKxAw9ERhA" type="Stereotype"/>
+          <children xmi:id="_qMVr5UFKEd-2RKxAw9ERhA" type="CommentBody"/>
+          <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_qMVr5kFKEd-2RKxAw9ERhA" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+          <element xmi:type="uml:Comment" href="Analysis%20Model.emx#_nBy3sEFJEd-2RKxAw9ERhA?Analysis%20Model/%3CComentario%3E?"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qMVr50FKEd-2RKxAw9ERhA" x="792" y="8715" width="9207" height="1057"/>
+        </children>
+        <children xmi:id="_qMVr6EFKEd-2RKxAw9ERhA">
+          <eAnnotations xmi:id="_qMVr6UFKEd-2RKxAw9ERhA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+            <details xmi:id="_qMVr6kFKEd-2RKxAw9ERhA" key="ImageModeStyle" value="true"/>
+          </eAnnotations>
+          <children xmi:id="_qMVr60FKEd-2RKxAw9ERhA" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_qMVr7EFKEd-2RKxAw9ERhA" width="1296" height="1296"/>
+          </children>
+          <children xmi:id="_qMVr7UFKEd-2RKxAw9ERhA" type="Stereotype"/>
+          <children xmi:id="_qMVr7kFKEd-2RKxAw9ERhA" type="CommentBody"/>
+          <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_qMVr70FKEd-2RKxAw9ERhA" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+          <element xmi:type="uml:Comment" href="Analysis%20Model.emx#_kZ7BEEFKEd-2RKxAw9ERhA?Analysis%20Model/%3CComentario%3E?"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qMVr8EFKEd-2RKxAw9ERhA" x="792" y="15462" width="9207" height="1057"/>
+        </children>
         <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_XSlbgyJKEd-FaYnD7yQdbw"/>
       </contents>
     </eAnnotations>
