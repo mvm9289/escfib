@@ -3125,7 +3125,7 @@
           <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_IcWB0T9bEd-6bus5KnA1QA"/>
         </children>
         <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_IcOtET9bEd-6bus5KnA1QA" fontName="Segoe UI" showStereotype="Label"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IcOtEj9bEd-6bus5KnA1QA" x="61512" y="13332" width="3939" height="2487"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IcOtEj9bEd-6bus5KnA1QA" x="61512" y="13332" width="3939" height="3079"/>
       </children>
       <children xmi:id="_NemawD9bEd-6bus5KnA1QA" element="_NejXcD9bEd-6bus5KnA1QA">
         <children xmi:id="_Neno4D9bEd-6bus5KnA1QA" type="ImageCompartment">
@@ -3215,7 +3215,7 @@
           <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_gm_A4j9bEd-6bus5KnA1QA"/>
         </children>
         <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_gm9LsD9bEd-6bus5KnA1QA" fontName="Segoe UI" showStereotype="Label"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gm9LsT9bEd-6bus5KnA1QA" x="26268" y="6468"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gm9LsT9bEd-6bus5KnA1QA" x="26268" y="6468" height="3218"/>
       </children>
       <children xmi:id="__X2GAD9bEd-6bus5KnA1QA" element="__XzpwD9bEd-6bus5KnA1QA">
         <children xmi:id="__X2tED9bEd-6bus5KnA1QA" type="ImageCompartment">
@@ -6276,6 +6276,9 @@
       <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_o5zSsEC7Ed-1Zosb8UlY6Q" value="*"/>
       <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_o5yroEC7Ed-1Zosb8UlY6Q"/>
     </ownedAttribute>
+    <ownedAttribute xmi:id="_zlnq0Eh_Ed-dGZI-a8orlQ" name="password" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
   </packagedElement>
   <packagedElement xmi:type="uml:Class" xmi:id="_NejXcD9bEd-6bus5KnA1QA" name="Problema">
     <ownedAttribute xmi:id="_PmetQD9bEd-6bus5KnA1QA" name="cliente" visibility="private" type="_Iba0wD9bEd-6bus5KnA1QA" association="_PmWKYD9bEd-6bus5KnA1QA">
@@ -6330,6 +6333,12 @@
       <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
     </ownedAttribute>
     <ownedAttribute xmi:id="_PIwocEC5Ed-1Zosb8UlY6Q" name="dirección" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_6jXkQEh4Ed-dGZI-a8orlQ" name="nif" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_byjJIEh9Ed-dGZI-a8orlQ" name="password" visibility="private">
       <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
     </ownedAttribute>
   </packagedElement>
