@@ -683,6 +683,7 @@
       <ownedOperation xmi:id="_h9YeAEuOEd-SP-1CbSVAJQ" name="bajaProveedor()"/>
       <ownedOperation xmi:id="_9nlz4EuREd-SP-1CbSVAJQ" name="bajaServicio(tipo,info)"/>
       <ownedOperation xmi:id="_pwZqMEuVEd-SP-1CbSVAJQ" name="desactivaServicio(nombreServicio)"/>
+      <ownedOperation xmi:id="_Jl-UoEuWEd-SP-1CbSVAJQ" name="desactivaProveedor()"/>
     </packagedElement>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_qMm_YC0oEd-gY4Rh_cAxfg" name="Use Cases">
@@ -5625,17 +5626,19 @@
             </guard>
           </operand>
         </fragment>
-        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_H32l8UuWEd-SP-1CbSVAJQ" covered="_6u1hQEuVEd-SP-1CbSVAJQ" event="_UWqRQEh7Ed-dGZI-a8orlQ" message="_H32l8EuWEd-SP-1CbSVAJQ"/>
-        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_H32l8kuWEd-SP-1CbSVAJQ" covered="_7EmV4EuVEd-SP-1CbSVAJQ" event="_UWqRQkh7Ed-dGZI-a8orlQ" message="_H32l8EuWEd-SP-1CbSVAJQ"/>
+        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_H32l8UuWEd-SP-1CbSVAJQ" covered="_6u1hQEuVEd-SP-1CbSVAJQ" event="_Jl-UoUuWEd-SP-1CbSVAJQ" message="_H32l8EuWEd-SP-1CbSVAJQ"/>
+        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_H32l8kuWEd-SP-1CbSVAJQ" covered="_7EmV4EuVEd-SP-1CbSVAJQ" event="_Jl-UokuWEd-SP-1CbSVAJQ" message="_H32l8EuWEd-SP-1CbSVAJQ"/>
         <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_H32l80uWEd-SP-1CbSVAJQ" covered="_7EmV4EuVEd-SP-1CbSVAJQ" start="_H32l8kuWEd-SP-1CbSVAJQ" finish="_H32l9EuWEd-SP-1CbSVAJQ"/>
-        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_H32l9EuWEd-SP-1CbSVAJQ" covered="_7EmV4EuVEd-SP-1CbSVAJQ" event="_UWqRQEh7Ed-dGZI-a8orlQ" message="_H32l9UuWEd-SP-1CbSVAJQ"/>
-        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_H32l9kuWEd-SP-1CbSVAJQ" covered="_6u1hQEuVEd-SP-1CbSVAJQ" event="_UWqRQkh7Ed-dGZI-a8orlQ" message="_H32l9UuWEd-SP-1CbSVAJQ"/>
-        <message xmi:id="_H32l8EuWEd-SP-1CbSVAJQ" name="\Sin especificar\" receiveEvent="_H32l8kuWEd-SP-1CbSVAJQ" sendEvent="_H32l8UuWEd-SP-1CbSVAJQ" connector="_H32l90uWEd-SP-1CbSVAJQ"/>
-        <message xmi:id="_H32l9UuWEd-SP-1CbSVAJQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_H32l9kuWEd-SP-1CbSVAJQ" sendEvent="_H32l9EuWEd-SP-1CbSVAJQ" connector="_H32l90uWEd-SP-1CbSVAJQ"/>
+        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_H32l9EuWEd-SP-1CbSVAJQ" covered="_7EmV4EuVEd-SP-1CbSVAJQ" event="_Jl-UoUuWEd-SP-1CbSVAJQ" message="_H32l9UuWEd-SP-1CbSVAJQ"/>
+        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_H32l9kuWEd-SP-1CbSVAJQ" covered="_6u1hQEuVEd-SP-1CbSVAJQ" event="_Jl-UokuWEd-SP-1CbSVAJQ" message="_H32l9UuWEd-SP-1CbSVAJQ"/>
+        <message xmi:id="_H32l8EuWEd-SP-1CbSVAJQ" name="deactivaProveedor()" receiveEvent="_H32l8kuWEd-SP-1CbSVAJQ" sendEvent="_H32l8UuWEd-SP-1CbSVAJQ" connector="_H32l90uWEd-SP-1CbSVAJQ"/>
+        <message xmi:id="_H32l9UuWEd-SP-1CbSVAJQ" name="deactivaProveedor()" messageSort="reply" receiveEvent="_H32l9kuWEd-SP-1CbSVAJQ" sendEvent="_H32l9EuWEd-SP-1CbSVAJQ" connector="_H32l90uWEd-SP-1CbSVAJQ"/>
       </ownedBehavior>
       <ownedAttribute xmi:id="_6u1hQUuVEd-SP-1CbSVAJQ" name="comercial" type="_G40T4C0jEd-gY4Rh_cAxfg"/>
       <ownedAttribute xmi:id="_7EmV4UuVEd-SP-1CbSVAJQ" name="sistema" type="_bln5sEh4Ed-dGZI-a8orlQ"/>
     </packagedElement>
+    <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_Jl-UoUuWEd-SP-1CbSVAJQ" name="Eventodeoperacióndeenvío27" operation="_Jl-UoEuWEd-SP-1CbSVAJQ"/>
+    <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_Jl-UokuWEd-SP-1CbSVAJQ" name="Eventodeoperaciónderecepción27" operation="_Jl-UoEuWEd-SP-1CbSVAJQ"/>
   </packagedElement>
   <profileApplication xmi:id="_AUqnNS0fEd-KDLlLZTduXg">
     <eAnnotations xmi:id="_AUqnNi0fEd-KDLlLZTduXg" source="http://www.eclipse.org/uml2/2.0.0/UML">
