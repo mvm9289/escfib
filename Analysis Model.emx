@@ -3215,7 +3215,7 @@
           <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_gm_A4j9bEd-6bus5KnA1QA"/>
         </children>
         <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_gm9LsD9bEd-6bus5KnA1QA" fontName="Segoe UI" showStereotype="Label"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gm9LsT9bEd-6bus5KnA1QA" x="26268" y="6468" height="3218"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gm9LsT9bEd-6bus5KnA1QA" x="26268" y="6468" width="3516" height="3614"/>
       </children>
       <children xmi:id="__X2GAD9bEd-6bus5KnA1QA" element="__XzpwD9bEd-6bus5KnA1QA">
         <children xmi:id="__X2tED9bEd-6bus5KnA1QA" type="ImageCompartment">
@@ -6320,6 +6320,9 @@
       <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_gIOIUEC7Ed-1Zosb8UlY6Q" value="*"/>
       <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_gINhQEC7Ed-1Zosb8UlY6Q"/>
     </ownedAttribute>
+    <ownedAttribute xmi:id="_fv1EgEuSEd-SP-1CbSVAJQ" name="activo" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+    </ownedAttribute>
   </packagedElement>
   <packagedElement xmi:type="uml:Class" xmi:id="_gm6vcD9bEd-6bus5KnA1QA" name="Proveedor">
     <ownedAttribute xmi:id="_3BMHoD9cEd-6bus5KnA1QA" name="servicio" visibility="private" type="_fN9_gD9bEd-6bus5KnA1QA" association="_3BKScD9cEd-6bus5KnA1QA">
@@ -6340,6 +6343,9 @@
     </ownedAttribute>
     <ownedAttribute xmi:id="_byjJIEh9Ed-dGZI-a8orlQ" name="password" visibility="private">
       <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_b75f4EuSEd-SP-1CbSVAJQ" name="activo" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
     </ownedAttribute>
   </packagedElement>
   <packagedElement xmi:type="uml:Class" xmi:id="__XzpwD9bEd-6bus5KnA1QA" name="Factura">
