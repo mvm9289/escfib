@@ -5141,11 +5141,6 @@
         <message xmi:id="_0BLdYEmbEd-p8fVccU0e2Q" name="escogePack(id:String): infoPack" receiveEvent="_0BMEcEmbEd-p8fVccU0e2Q" sendEvent="_0BLdYUmbEd-p8fVccU0e2Q" connector="_0BNSkEmbEd-p8fVccU0e2Q"/>
         <message xmi:id="_0BMrgUmbEd-p8fVccU0e2Q" name="escogePack(id:String): infoPack" messageSort="reply" receiveEvent="_0BMrgkmbEd-p8fVccU0e2Q" sendEvent="_0BMrgEmbEd-p8fVccU0e2Q" connector="_0BNSkEmbEd-p8fVccU0e2Q"/>
       </ownedBehavior>
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_ytj9MEu7Ed-5jtpk8J4GsA" name="Interacción1">
-        <eAnnotations xmi:id="_ytj9M0u7Ed-5jtpk8J4GsA" source="uml2.diagrams"/>
-        <lifeline xmi:id="_ytj9MUu7Ed-5jtpk8J4GsA" represents="_LbPwkEmbEd-p8fVccU0e2Q"/>
-        <lifeline xmi:id="_ytj9Mku7Ed-5jtpk8J4GsA" represents="_K9HqIUmbEd-p8fVccU0e2Q"/>
-      </ownedBehavior>
       <ownedAttribute xmi:id="_K9HqIUmbEd-p8fVccU0e2Q" name="cliente" type="_K2V2MC0fEd-KDLlLZTduXg"/>
       <ownedAttribute xmi:id="_LbPwkEmbEd-p8fVccU0e2Q" name="sistema" type="_bln5sEh4Ed-dGZI-a8orlQ"/>
       <ownedAttribute xmi:id="_aTok8Uu7Ed-5jtpk8J4GsA" name="Propiedad"/>
@@ -5711,8 +5706,8 @@
         <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_GOdpo0u_Ed-5jtpk8J4GsA" covered="_8vueUEu-Ed-5jtpk8J4GsA" start="_GOdpoku_Ed-5jtpk8J4GsA" finish="_GOdppEu_Ed-5jtpk8J4GsA"/>
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_GOdppEu_Ed-5jtpk8J4GsA" covered="_8vueUEu-Ed-5jtpk8J4GsA" event="_UWqRQEh7Ed-dGZI-a8orlQ" message="_GOdppUu_Ed-5jtpk8J4GsA"/>
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_GOdppku_Ed-5jtpk8J4GsA" covered="_5ZxPIEu-Ed-5jtpk8J4GsA" event="_UWqRQkh7Ed-dGZI-a8orlQ" message="_GOdppUu_Ed-5jtpk8J4GsA"/>
-        <message xmi:id="_EVWy8Eu_Ed-5jtpk8J4GsA" name="efectuaReserva(id:String)" receiveEvent="_EVWy8ku_Ed-5jtpk8J4GsA" sendEvent="_EVWy8Uu_Ed-5jtpk8J4GsA" connector="_EVWy90u_Ed-5jtpk8J4GsA"/>
-        <message xmi:id="_EVWy9Uu_Ed-5jtpk8J4GsA" name="efectuaReserva(id:String)" messageSort="reply" receiveEvent="_EVWy9ku_Ed-5jtpk8J4GsA" sendEvent="_EVWy9Eu_Ed-5jtpk8J4GsA" connector="_EVWy90u_Ed-5jtpk8J4GsA"/>
+        <message xmi:id="_EVWy8Eu_Ed-5jtpk8J4GsA" name="indicaReservA(id:String)" receiveEvent="_EVWy8ku_Ed-5jtpk8J4GsA" sendEvent="_EVWy8Uu_Ed-5jtpk8J4GsA" connector="_EVWy90u_Ed-5jtpk8J4GsA"/>
+        <message xmi:id="_EVWy9Uu_Ed-5jtpk8J4GsA" name="indicaReservA(id:String)" messageSort="reply" receiveEvent="_EVWy9ku_Ed-5jtpk8J4GsA" sendEvent="_EVWy9Eu_Ed-5jtpk8J4GsA" connector="_EVWy90u_Ed-5jtpk8J4GsA"/>
         <message xmi:id="_GOdpoEu_Ed-5jtpk8J4GsA" name="efectuaPago(importe:int, tipoPago:String)" receiveEvent="_GOdpoku_Ed-5jtpk8J4GsA" sendEvent="_GOdpoUu_Ed-5jtpk8J4GsA" connector="_EVWy90u_Ed-5jtpk8J4GsA"/>
         <message xmi:id="_GOdppUu_Ed-5jtpk8J4GsA" name="efectuaPago(importe:int, tipoPago:String)" messageSort="reply" receiveEvent="_GOdppku_Ed-5jtpk8J4GsA" sendEvent="_GOdppEu_Ed-5jtpk8J4GsA" connector="_EVWy90u_Ed-5jtpk8J4GsA"/>
       </ownedBehavior>
