@@ -1,0 +1,79 @@
+body {
+	background-color: #CCCCCC;
+}
+#header {
+	position:relative;
+	width:750px;
+	height:194px;
+	z-index:1;
+	left: 0px;
+	top: 0px;
+}
+#menu {
+	background-color:#333333;
+	position:relative;
+	width:750px;
+	height:34px;
+	z-index:1;
+	left: 0px;
+	top: 0px;
+}
+#content {
+	position:relative;
+	width:750px;
+	z-index:1;
+	left: 0px;
+	top: 0px;
+}
+#content2 {
+	background-image:url(images/content_bgMID.png);
+	background-repeat:repeat-y;
+	position:relative;
+	width:750px;
+	z-index:2;
+	left: 0px;
+	top: 0px;
+}
+#textContent {
+	position:relative;
+	width:500px;
+	z-index:1;
+	left: 220px;
+	top: 0px;
+}
+#mainMenu {
+	position:absolute;
+	width:155px;
+	z-index:1;
+	left: 20px;
+	top: 5px;
+}
+#Main {
+	position:absolute;
+	width:750px;
+	z-index:1;
+	left: 50%;
+	margin-left:-375px;
+	top: 8px;
+}
+.links a:link{
+	color: #990000;
+	font-size: 14px;
+	font-style:normal;
+	font-family: "Verdana", "Arial";
+}
+.links a:visited{
+	color: #993300;
+	font-size: 14px;
+	font-style:italic;
+	font-family: "Verdana", "Arial";
+}
+.Estilo1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #0000FF;
+}
+.Estilo2 {
+	font-size: 16px;
+	color: #000000;
+}
