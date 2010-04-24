@@ -3479,7 +3479,7 @@
           <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_wGiRUUAaEd-hs9cNs--BSw"/>
         </children>
         <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_wGWrIUAaEd-hs9cNs--BSw" fontName="Segoe UI" showStereotype="Label"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wGWrIkAaEd-hs9cNs--BSw" x="6996" y="13860"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wGWrIkAaEd-hs9cNs--BSw" x="6996" y="15312"/>
       </children>
       <children xmi:id="_xvDHQEAaEd-hs9cNs--BSw" element="_xu7ygEAaEd-hs9cNs--BSw">
         <children xmi:id="_xvEVYEAaEd-hs9cNs--BSw" type="ImageCompartment">
@@ -3523,7 +3523,7 @@
           <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_AeNDU0AbEd-hs9cNs--BSw"/>
         </children>
         <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_AeKAAUAbEd-hs9cNs--BSw" fontName="Segoe UI" showStereotype="Label"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AeKAAkAbEd-hs9cNs--BSw" x="2112" y="19404"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AeKAAkAbEd-hs9cNs--BSw" x="2112" y="20856"/>
       </children>
       <children xmi:id="_ByHiQEAbEd-hs9cNs--BSw" element="_ByBboEAbEd-hs9cNs--BSw">
         <children xmi:id="_ByJXcEAbEd-hs9cNs--BSw" type="ImageCompartment">
@@ -3545,7 +3545,7 @@
           <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_ByOP8UAbEd-hs9cNs--BSw"/>
         </children>
         <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_ByHiQUAbEd-hs9cNs--BSw" fontName="Segoe UI" showStereotype="Label"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ByHiQkAbEd-hs9cNs--BSw" x="6732" y="19140"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ByHiQkAbEd-hs9cNs--BSw" x="6732" y="20592"/>
       </children>
       <children xmi:id="_C0BEIEAbEd-hs9cNs--BSw" element="_Cz69gEAbEd-hs9cNs--BSw">
         <children xmi:id="_C0CSQEAbEd-hs9cNs--BSw" type="ImageCompartment">
@@ -3567,7 +3567,7 @@
           <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_C0EugUAbEd-hs9cNs--BSw"/>
         </children>
         <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_C0BEIUAbEd-hs9cNs--BSw" fontName="Segoe UI" showStereotype="Label"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_C0BEIkAbEd-hs9cNs--BSw" x="11088" y="19272"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_C0BEIkAbEd-hs9cNs--BSw" x="11088" y="20724"/>
       </children>
       <children xmi:id="_IKREwECXEd-2-oL0344xMg" element="_IJu5QECXEd-2-oL0344xMg">
         <children xmi:id="_IKVWMECXEd-2-oL0344xMg" type="ImageCompartment">
@@ -3633,7 +3633,7 @@
           <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_7E1DEUCXEd-2-oL0344xMg"/>
         </children>
         <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_7ExYsUCXEd-2-oL0344xMg" fontName="Segoe UI" showStereotype="Label"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7ExYskCXEd-2-oL0344xMg" x="13200" y="26784"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7ExYskCXEd-2-oL0344xMg" x="13200" y="30756"/>
       </children>
       <children xmi:id="_CwnDAECYEd-2-oL0344xMg" element="_CwfuQECYEd-2-oL0344xMg">
         <children xmi:id="_CwoRIECYEd-2-oL0344xMg" type="ImageCompartment">
@@ -3932,7 +3932,7 @@
         <styles xmi:type="notation:TextStyle" xmi:id="_nL-ABEFMEd-ha8Hj4kDrVA"/>
         <styles xmi:type="notation:LineTypeStyle" xmi:id="_nL-ABUFMEd-ha8Hj4kDrVA"/>
         <element xsi:nil="true"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nL-ABkFMEd-ha8Hj4kDrVA" x="3564" y="34962" width="20979" height="660"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nL-ABkFMEd-ha8Hj4kDrVA" x="3564" y="36413" width="20979" height="660"/>
       </children>
       <children xmi:id="_nL-AB0FMEd-ha8Hj4kDrVA" type="Note">
         <children xmi:id="_nL-ACEFMEd-ha8Hj4kDrVA" type="DiagramName">
@@ -3945,7 +3945,7 @@
         <styles xmi:type="notation:TextStyle" xmi:id="_nL-AC0FMEd-ha8Hj4kDrVA"/>
         <styles xmi:type="notation:LineTypeStyle" xmi:id="_nL-ADEFMEd-ha8Hj4kDrVA"/>
         <element xsi:nil="true"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nL-ADUFMEd-ha8Hj4kDrVA" x="3564" y="34327" width="13255" height="660"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nL-ADUFMEd-ha8Hj4kDrVA" x="3564" y="35778" width="20980" height="660"/>
       </children>
       <children xmi:id="_nL-AFUFMEd-ha8Hj4kDrVA" type="Note">
         <children xmi:id="_nL-AFkFMEd-ha8Hj4kDrVA" type="DiagramName">
@@ -3958,7 +3958,7 @@
         <styles xmi:type="notation:TextStyle" xmi:id="_nL-AGUFMEd-ha8Hj4kDrVA"/>
         <styles xmi:type="notation:LineTypeStyle" xmi:id="_nL-AGkFMEd-ha8Hj4kDrVA"/>
         <element xsi:nil="true"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nL-AG0FMEd-ha8Hj4kDrVA" x="3564" y="35623" width="13255" height="660"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nL-AG0FMEd-ha8Hj4kDrVA" x="3564" y="37074" width="20980" height="660"/>
       </children>
       <children xmi:id="_nL-AHEFMEd-ha8Hj4kDrVA" type="Note">
         <children xmi:id="_nL-AHUFMEd-ha8Hj4kDrVA" type="DiagramName">
@@ -3971,7 +3971,7 @@
         <styles xmi:type="notation:TextStyle" xmi:id="_nL-AIEFMEd-ha8Hj4kDrVA"/>
         <styles xmi:type="notation:LineTypeStyle" xmi:id="_nL-AIUFMEd-ha8Hj4kDrVA"/>
         <element xsi:nil="true"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nL-AIkFMEd-ha8Hj4kDrVA" x="3564" y="33665" width="13255" height="660"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nL-AIkFMEd-ha8Hj4kDrVA" x="3564" y="35116" width="20980" height="660"/>
       </children>
       <children xmi:id="_nL-AI0FMEd-ha8Hj4kDrVA" type="Note">
         <children xmi:id="_nL-AJEFMEd-ha8Hj4kDrVA" type="DiagramName">
@@ -3984,7 +3984,7 @@
         <styles xmi:type="notation:TextStyle" xmi:id="_nL-AJ0FMEd-ha8Hj4kDrVA"/>
         <styles xmi:type="notation:LineTypeStyle" xmi:id="_nL-AKEFMEd-ha8Hj4kDrVA"/>
         <element xsi:nil="true"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nL-AKUFMEd-ha8Hj4kDrVA" x="3564" y="36285" height="635"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nL-AKUFMEd-ha8Hj4kDrVA" x="3564" y="37736" width="20980" height="635"/>
       </children>
       <children xmi:id="_nL-AKkFMEd-ha8Hj4kDrVA" type="Note">
         <children xmi:id="_nL-AK0FMEd-ha8Hj4kDrVA" type="DiagramName">
@@ -3997,7 +3997,7 @@
         <styles xmi:type="notation:TextStyle" xmi:id="_nL-ALkFMEd-ha8Hj4kDrVA"/>
         <styles xmi:type="notation:LineTypeStyle" xmi:id="_nL-AL0FMEd-ha8Hj4kDrVA"/>
         <element xsi:nil="true"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nL-AMEFMEd-ha8Hj4kDrVA" x="3564" y="32343" width="13282" height="660"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nL-AMEFMEd-ha8Hj4kDrVA" x="3564" y="33794" width="20980" height="660"/>
       </children>
       <children xmi:id="_nL-AMUFMEd-ha8Hj4kDrVA" type="Note">
         <children xmi:id="_nL-AMkFMEd-ha8Hj4kDrVA" type="DiagramName">
@@ -4010,7 +4010,7 @@
         <styles xmi:type="notation:TextStyle" xmi:id="_nL-ANUFMEd-ha8Hj4kDrVA"/>
         <styles xmi:type="notation:LineTypeStyle" xmi:id="_nL-ANkFMEd-ha8Hj4kDrVA"/>
         <element xsi:nil="true"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nL-AN0FMEd-ha8Hj4kDrVA" x="3564" y="33004" width="13255" height="660"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nL-AN0FMEd-ha8Hj4kDrVA" x="3564" y="34455" width="20980" height="660"/>
       </children>
       <children xmi:id="_nL-AOEFMEd-ha8Hj4kDrVA" type="Note">
         <children xmi:id="_nL-AOUFMEd-ha8Hj4kDrVA" type="DiagramName">
@@ -4023,7 +4023,7 @@
         <styles xmi:type="notation:TextStyle" xmi:id="_nL-APEFMEd-ha8Hj4kDrVA"/>
         <styles xmi:type="notation:LineTypeStyle" xmi:id="_nL-APUFMEd-ha8Hj4kDrVA"/>
         <element xsi:nil="true"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nL-APkFMEd-ha8Hj4kDrVA" x="3564" y="31681" width="13282" height="660"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nL-APkFMEd-ha8Hj4kDrVA" x="3564" y="33132" width="20981" height="660"/>
       </children>
       <children xmi:id="_ppo8UEFMEd-ha8Hj4kDrVA" element="_xCPB4EFJEd-2RKxAw9ERhA">
         <eAnnotations xmi:id="_ppo8UUFMEd-ha8Hj4kDrVA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
@@ -4445,7 +4445,8 @@
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7GU_sUAaEd-hs9cNs--BSw" y="-186"/>
         </children>
         <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_7GTKgUAaEd-hs9cNs--BSw" fontName="Segoe UI" showStereotype="Text"/>
-        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_7GTKgkAaEd-hs9cNs--BSw" points="[-35, -596, -5819, 1877]$[-35, -1177, -5819, 1296]$[5784, -1177, 0, 1296]$[5784, -2306, 0, 167]"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_7GTKgkAaEd-hs9cNs--BSw" points="[0, -111, -5739, 1745]$[0, -766, -5739, 1090]$[5754, -766, 15, 1090]$[5754, -1689, 15, 167]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_nRqB0E-xEd-iMZwS2jRkQQ" id="(0.4683272,0.026042867)"/>
         <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5bwMcECXEd-2-oL0344xMg" id="(0.39915967,0.87445575)"/>
       </edges>
       <edges xmi:id="_7wq9MEAaEd-hs9cNs--BSw" element="_7wn54EAaEd-hs9cNs--BSw" source="_xvDHQEAaEd-hs9cNs--BSw" target="_O2uO0D9cEd-6bus5KnA1QA">
@@ -4455,7 +4456,7 @@
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7wrkQUAaEd-hs9cNs--BSw" y="-186"/>
         </children>
         <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_7wq9MUAaEd-hs9cNs--BSw" fontName="Segoe UI" showStereotype="Text"/>
-        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_7wq9MkAaEd-hs9cNs--BSw" points="[0, -596, 5975, 1719]$[0, -1061, 5975, 1254]$[-5924, -1017, 51, 1298]$[-5975, -1017, 0, 1298]$[-5975, -2174, 0, 141]"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_7wq9MkAaEd-hs9cNs--BSw" points="[0, -663, 6015, 1719]$[0, -1344, 6015, 1038]$[-6015, -1344, 0, 1038]$[-6015, -2241, 0, 141]"/>
         <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5-Tf4ECXEd-2-oL0344xMg" id="(0.39915967,0.89404935)"/>
       </edges>
       <edges xmi:id="_IbTcwEAbEd-hs9cNs--BSw" element="_Ia50IEAbEd-hs9cNs--BSw" source="_AeKAAEAbEd-hs9cNs--BSw" target="_wGWrIEAaEd-hs9cNs--BSw">
@@ -6282,9 +6283,21 @@
         <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
       </ownedParameter>
     </ownedOperation>
-    <ownedOperation xmi:id="_8RnZEE36Ed-TludRAdKq1g" name="GetPassword"/>
-    <ownedOperation xmi:id="_FfQ0YE37Ed-TludRAdKq1g" name="SetPassword"/>
-    <ownedOperation xmi:id="_LnUXwE37Ed-TludRAdKq1g" name="GetDni"/>
+    <ownedOperation xmi:id="_8RnZEE36Ed-TludRAdKq1g" name="GetPassword">
+      <ownedParameter xmi:id="_IQwu4E-sEd-iMZwS2jRkQQ" name="password" direction="return">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_FfQ0YE37Ed-TludRAdKq1g" name="SetPassword">
+      <ownedParameter xmi:id="_OOqQsE-sEd-iMZwS2jRkQQ" name="password">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_LnUXwE37Ed-TludRAdKq1g" name="GetDni">
+      <ownedParameter xmi:id="_Ux7JYE-sEd-iMZwS2jRkQQ" name="dni" direction="return">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
   </packagedElement>
   <packagedElement xmi:type="uml:Class" xmi:id="_NejXcD9bEd-6bus5KnA1QA" name="Problema">
     <ownedAttribute xmi:id="_PmetQD9bEd-6bus5KnA1QA" name="cliente" visibility="private" type="_Iba0wD9bEd-6bus5KnA1QA" association="_PmWKYD9bEd-6bus5KnA1QA">
@@ -6332,12 +6345,42 @@
     </ownedAttribute>
     <ownedAttribute xmi:id="_fv1EgEuSEd-SP-1CbSVAJQ" name="activo" visibility="private">
       <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+      <defaultValue xmi:type="uml:LiteralBoolean" xmi:id="_29s2ME-sEd-iMZwS2jRkQQ" value="true">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+      </defaultValue>
     </ownedAttribute>
     <ownedOperation xmi:id="__JtLEE37Ed-TludRAdKq1g" name="Servicio">
-      <ownedParameter xmi:id="_TpTmUE39Ed-TludRAdKq1g" name="Parámetro1" type="_fN9_gD9bEd-6bus5KnA1QA" direction="return"/>
+      <ownedParameter xmi:id="_TpTmUE39Ed-TludRAdKq1g" name="servicio" type="_fN9_gD9bEd-6bus5KnA1QA" direction="return"/>
+      <ownedParameter xmi:id="_hzydME-sEd-iMZwS2jRkQQ" name="descripcion">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+      <ownedParameter xmi:id="_kxlrEE-sEd-iMZwS2jRkQQ" name="nombre">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+      <ownedParameter xmi:id="_sPAe4E-sEd-iMZwS2jRkQQ" name="condiciones">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+      <ownedParameter xmi:id="_8HfagE-sEd-iMZwS2jRkQQ" name="fotos">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_-wDYME-sEd-iMZwS2jRkQQ" value="*"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_-wCxIE-sEd-iMZwS2jRkQQ"/>
+      </ownedParameter>
+      <ownedParameter xmi:id="__v32cE-sEd-iMZwS2jRkQQ" name="videos">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_CSngAU-tEd-iMZwS2jRkQQ" value="*"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_CSngAE-tEd-iMZwS2jRkQQ"/>
+      </ownedParameter>
     </ownedOperation>
-    <ownedOperation xmi:id="_pfUFwE38Ed-TludRAdKq1g" name="BajaServicio"/>
-    <ownedOperation xmi:id="_X3L30E4EEd-TludRAdKq1g" name="EstaActivo"/>
+    <ownedOperation xmi:id="_pfUFwE38Ed-TludRAdKq1g" name="BajaServicio">
+      <ownedParameter xmi:id="_22XCoE-tEd-iMZwS2jRkQQ" name="nombreServicio">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_X3L30E4EEd-TludRAdKq1g" name="EstaActivo">
+      <ownedParameter xmi:id="_NVpIkE-tEd-iMZwS2jRkQQ" name="activo" direction="return">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+      </ownedParameter>
+    </ownedOperation>
     <ownedOperation xmi:id="_aHlNIE4EEd-TludRAdKq1g" name="Desactiva"/>
   </packagedElement>
   <packagedElement xmi:type="uml:Class" xmi:id="_gm6vcD9bEd-6bus5KnA1QA" name="Proveedor">
@@ -6381,18 +6424,60 @@
         <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
       </ownedParameter>
     </ownedOperation>
-    <ownedOperation xmi:id="_B6R1QE38Ed-TludRAdKq1g" name="AltaServicio"/>
+    <ownedOperation xmi:id="_B6R1QE38Ed-TludRAdKq1g" name="AltaServicio">
+      <ownedParameter xmi:id="_Yr_80E-tEd-iMZwS2jRkQQ" name="servicio" type="_fN9_gD9bEd-6bus5KnA1QA"/>
+    </ownedOperation>
     <ownedOperation xmi:id="_bwm6EE38Ed-TludRAdKq1g" name="BajaProveedor"/>
-    <ownedOperation xmi:id="_-h2rcE38Ed-TludRAdKq1g" name="BajaServicio"/>
-    <ownedOperation xmi:id="_V-U88E39Ed-TludRAdKq1g" name="getPassword"/>
-    <ownedOperation xmi:id="_Yl-UoE39Ed-TludRAdKq1g" name="setPassword"/>
-    <ownedOperation xmi:id="_ZoIVME39Ed-TludRAdKq1g" name="getNIF"/>
-    <ownedOperation xmi:id="_dwLvsE39Ed-TludRAdKq1g" name="getNombre"/>
-    <ownedOperation xmi:id="_hka2UE39Ed-TludRAdKq1g" name="getTelefono"/>
-    <ownedOperation xmi:id="_mp3tME39Ed-TludRAdKq1g" name="setTelefono"/>
-    <ownedOperation xmi:id="_n_s3sE39Ed-TludRAdKq1g" name="getDireccion"/>
-    <ownedOperation xmi:id="_oxBm8E39Ed-TludRAdKq1g" name="setDireccion"/>
-    <ownedOperation xmi:id="_41-RQE39Ed-TludRAdKq1g" name="EstaActivo"/>
+    <ownedOperation xmi:id="_-h2rcE38Ed-TludRAdKq1g" name="BajaServicio">
+      <ownedParameter xmi:id="_iQrioE-uEd-iMZwS2jRkQQ" name="nombreServicio">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_V-U88E39Ed-TludRAdKq1g" name="getPassword">
+      <ownedParameter xmi:id="_muJMcE-uEd-iMZwS2jRkQQ" name="password" direction="return">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_Yl-UoE39Ed-TludRAdKq1g" name="setPassword">
+      <ownedParameter xmi:id="_rslcYE-uEd-iMZwS2jRkQQ" name="password">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_ZoIVME39Ed-TludRAdKq1g" name="getNIF">
+      <ownedParameter xmi:id="_ubzbsE-uEd-iMZwS2jRkQQ" name="nif" direction="return">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_dwLvsE39Ed-TludRAdKq1g" name="getNombre">
+      <ownedParameter xmi:id="_yQPWoE-uEd-iMZwS2jRkQQ" name="nombre" direction="return">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_hka2UE39Ed-TludRAdKq1g" name="getTelefono">
+      <ownedParameter xmi:id="_7EGY8E-uEd-iMZwS2jRkQQ" name="telefono" direction="return">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_mp3tME39Ed-TludRAdKq1g" name="setTelefono">
+      <ownedParameter xmi:id="_ByTWUE-vEd-iMZwS2jRkQQ" name="telefono">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_n_s3sE39Ed-TludRAdKq1g" name="getDireccion">
+      <ownedParameter xmi:id="_JDbakE-vEd-iMZwS2jRkQQ" name="direccion" direction="return">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_oxBm8E39Ed-TludRAdKq1g" name="setDireccion">
+      <ownedParameter xmi:id="_PPnQAE-vEd-iMZwS2jRkQQ" name="direccion">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_41-RQE39Ed-TludRAdKq1g" name="EstaActivo">
+      <ownedParameter xmi:id="_VZkQ0E-vEd-iMZwS2jRkQQ" name="activo" direction="return">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+      </ownedParameter>
+    </ownedOperation>
     <ownedOperation xmi:id="_8hjyME39Ed-TludRAdKq1g" name="Desactiva"/>
   </packagedElement>
   <packagedElement xmi:type="uml:Class" xmi:id="__XzpwD9bEd-6bus5KnA1QA" name="Factura">
@@ -6583,12 +6668,30 @@
     </ownedAttribute>
     <ownedOperation xmi:id="_3xpJoE4BEd-TludRAdKq1g" name="Restaurante"/>
     <ownedOperation xmi:id="_ALABQE4CEd-TludRAdKq1g" name="ObtenInfo"/>
-    <ownedOperation xmi:id="_dvN3oE4DEd-TludRAdKq1g" name="AnadirMenu"/>
-    <ownedOperation xmi:id="_f90dME4DEd-TludRAdKq1g" name="EliminarMenu"/>
-    <ownedOperation xmi:id="_tmkx4E4DEd-TludRAdKq1g" name="AnadirPlato"/>
-    <ownedOperation xmi:id="_uusQgE4DEd-TludRAdKq1g" name="EliminarPlato"/>
-    <ownedOperation xmi:id="_wqX6EE4DEd-TludRAdKq1g" name="AnadirVino"/>
-    <ownedOperation xmi:id="_x7SIUE4DEd-TludRAdKq1g" name="EliminarVino"/>
+    <ownedOperation xmi:id="_dvN3oE4DEd-TludRAdKq1g" name="AnadirMenu">
+      <ownedParameter xmi:id="_65zGEE-xEd-iMZwS2jRkQQ" name="menu" type="_AeD5YEAbEd-hs9cNs--BSw"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_f90dME4DEd-TludRAdKq1g" name="EliminarMenu">
+      <ownedParameter xmi:id="_AMCbwE-yEd-iMZwS2jRkQQ" name="nombreMenu">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_tmkx4E4DEd-TludRAdKq1g" name="AnadirPlato">
+      <ownedParameter xmi:id="_FmPaoE-yEd-iMZwS2jRkQQ" name="plato" type="_ByBboEAbEd-hs9cNs--BSw"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_uusQgE4DEd-TludRAdKq1g" name="EliminarPlato">
+      <ownedParameter xmi:id="_I4lVIE-yEd-iMZwS2jRkQQ" name="nombrePlato">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_wqX6EE4DEd-TludRAdKq1g" name="AnadirVino">
+      <ownedParameter xmi:id="_VojnsE-yEd-iMZwS2jRkQQ" name="vino" type="_Cz69gEAbEd-hs9cNs--BSw"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_x7SIUE4DEd-TludRAdKq1g" name="EliminarVino">
+      <ownedParameter xmi:id="_cMZIIE-yEd-iMZwS2jRkQQ" name="nombreVino">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
   </packagedElement>
   <packagedElement xmi:type="uml:Class" xmi:id="_xu7ygEAaEd-hs9cNs--BSw" name="Bar">
     <generalization xmi:id="_7wn54EAaEd-hs9cNs--BSw" general="_O2p9YD9cEd-6bus5KnA1QA"/>
@@ -6944,13 +7047,44 @@
     <ownedAttribute xmi:id="_DF9TwEFPEd-gndZ0O4LF0w" name="pagaYsenal" visibility="private">
       <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
     </ownedAttribute>
-    <ownedOperation xmi:id="_MX4xsE3-Ed-TludRAdKq1g" name="Reserva"/>
+    <ownedOperation xmi:id="_MX4xsE3-Ed-TludRAdKq1g" name="Reserva">
+      <ownedParameter xmi:id="_yCCtIE-vEd-iMZwS2jRkQQ" name="reserva" type="_NTfuwECfEd-2-oL0344xMg" direction="return"/>
+      <ownedParameter xmi:id="_1y-oIE-vEd-iMZwS2jRkQQ" name="id">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+      <ownedParameter xmi:id="_DRgCwE-wEd-iMZwS2jRkQQ" name="precio">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+      </ownedParameter>
+      <ownedParameter xmi:id="_MZkagE-wEd-iMZwS2jRkQQ" name="pagaYsenal">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+      </ownedParameter>
+    </ownedOperation>
     <ownedOperation xmi:id="_NapPME3-Ed-TludRAdKq1g" name="BajaReserva"/>
-    <ownedOperation xmi:id="_uKStgE4EEd-TludRAdKq1g" name="estaPagada"/>
-    <ownedOperation xmi:id="_ytKbwE4EEd-TludRAdKq1g" name="getID"/>
-    <ownedOperation xmi:id="_0gNGsE4EEd-TludRAdKq1g" name="getPaga"/>
-    <ownedOperation xmi:id="_2dFDEE4EEd-TludRAdKq1g" name="getPrecio"/>
-    <ownedOperation xmi:id="_N7t3wE4FEd-TludRAdKq1g" name="incrementaPaga"/>
+    <ownedOperation xmi:id="_uKStgE4EEd-TludRAdKq1g" name="estaPagada">
+      <ownedParameter xmi:id="_T0svUE-wEd-iMZwS2jRkQQ" name="pagada" direction="return">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_ytKbwE4EEd-TludRAdKq1g" name="getID">
+      <ownedParameter xmi:id="_fbAEEE-wEd-iMZwS2jRkQQ" name="id" direction="return">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_0gNGsE4EEd-TludRAdKq1g" name="getPaga">
+      <ownedParameter xmi:id="_nxU10E-wEd-iMZwS2jRkQQ" name="pagaYsenal" direction="return">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_2dFDEE4EEd-TludRAdKq1g" name="getPrecio">
+      <ownedParameter xmi:id="_tcFZME-wEd-iMZwS2jRkQQ" name="precio" direction="return">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_N7t3wE4FEd-TludRAdKq1g" name="incrementaPaga">
+      <ownedParameter xmi:id="_xHNnIE-wEd-iMZwS2jRkQQ" name="pago">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+      </ownedParameter>
+    </ownedOperation>
   </packagedElement>
   <packagedElement xmi:type="uml:Association" xmi:id="_R3_NoECfEd-2-oL0344xMg" memberEnd="_R4Bp4ECfEd-2-oL0344xMg _R4EtMECfEd-2-oL0344xMg"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_bPKYYECfEd-2-oL0344xMg" memberEnd="_bPM0oECfEd-2-oL0344xMg _bPP38ECfEd-2-oL0344xMg"/>
