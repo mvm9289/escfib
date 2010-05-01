@@ -8670,6 +8670,126 @@
         <element xsi:nil="true"/>
       </contents>
     </eAnnotations>
+    <packagedElement xmi:type="uml:Package" xmi:id="_Gf3QkFVgEd-ZVbdER3xqpg" name="Alta cliente">
+      <eAnnotations xmi:id="_Gg-D0FVgEd-ZVbdER3xqpg" source="uml2.diagrams" references="_Gg-D0VVgEd-ZVbdER3xqpg">
+        <contents xmi:type="notation:Diagram" xmi:id="_Gg-D0VVgEd-ZVbdER3xqpg" type="Freeform" name="Principal">
+          <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_Gg-D0lVgEd-ZVbdER3xqpg"/>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_Ifp-EFVgEd-ZVbdER3xqpg" name="Baja cliente">
+      <eAnnotations xmi:id="_IfrzQFVgEd-ZVbdER3xqpg" source="uml2.diagrams" references="_IfrzQVVgEd-ZVbdER3xqpg">
+        <contents xmi:type="notation:Diagram" xmi:id="_IfrzQVVgEd-ZVbdER3xqpg" type="Freeform" name="Principal">
+          <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_IfrzQlVgEd-ZVbdER3xqpg"/>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_KVmMAFVgEd-ZVbdER3xqpg" name="Alta proveedor">
+      <eAnnotations xmi:id="_KVnaIFVgEd-ZVbdER3xqpg" source="uml2.diagrams" references="_KVnaIVVgEd-ZVbdER3xqpg">
+        <contents xmi:type="notation:Diagram" xmi:id="_KVnaIVVgEd-ZVbdER3xqpg" type="Freeform" name="Principal">
+          <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_KVnaIlVgEd-ZVbdER3xqpg"/>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_MZbE8FVgEd-ZVbdER3xqpg" name="Baja proveedor">
+      <eAnnotations xmi:id="_MZcTEFVgEd-ZVbdER3xqpg" source="uml2.diagrams" references="_MZcTEVVgEd-ZVbdER3xqpg">
+        <contents xmi:type="notation:Diagram" xmi:id="_MZcTEVVgEd-ZVbdER3xqpg" type="Freeform" name="Principal">
+          <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_MZcTElVgEd-ZVbdER3xqpg"/>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_Ogmz4FVgEd-ZVbdER3xqpg" name="Modificacion inscripcion proveedor">
+      <eAnnotations xmi:id="_OgoCAFVgEd-ZVbdER3xqpg" source="uml2.diagrams" references="_OgoCAVVgEd-ZVbdER3xqpg">
+        <contents xmi:type="notation:Diagram" xmi:id="_OgoCAVVgEd-ZVbdER3xqpg" type="Freeform" name="Principal">
+          <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_OgoCAlVgEd-ZVbdER3xqpg"/>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_Roo70FVgEd-ZVbdER3xqpg" name="Alta servicio">
+      <eAnnotations xmi:id="_RoqJ8FVgEd-ZVbdER3xqpg" source="uml2.diagrams" references="_RoqJ8VVgEd-ZVbdER3xqpg">
+        <contents xmi:type="notation:Diagram" xmi:id="_RoqJ8VVgEd-ZVbdER3xqpg" type="Freeform" name="Principal">
+          <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_RoqJ8lVgEd-ZVbdER3xqpg"/>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_TCqp0FVgEd-ZVbdER3xqpg" name="Baja servicio">
+      <eAnnotations xmi:id="_TCr38FVgEd-ZVbdER3xqpg" source="uml2.diagrams" references="_TCr38VVgEd-ZVbdER3xqpg">
+        <contents xmi:type="notation:Diagram" xmi:id="_TCr38VVgEd-ZVbdER3xqpg" type="Freeform" name="Principal">
+          <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_TCr38lVgEd-ZVbdER3xqpg"/>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_VwJjwFVgEd-ZVbdER3xqpg" name="Anular reserva">
+      <eAnnotations xmi:id="_VwKK0FVgEd-ZVbdER3xqpg" source="uml2.diagrams" references="_VwKK0VVgEd-ZVbdER3xqpg">
+        <contents xmi:type="notation:Diagram" xmi:id="_VwKK0VVgEd-ZVbdER3xqpg" type="Freeform" name="Principal">
+          <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_VwKK0lVgEd-ZVbdER3xqpg"/>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_YDnbMFVgEd-ZVbdER3xqpg" name="Autorizacion">
+      <eAnnotations xmi:id="_YDoCQFVgEd-ZVbdER3xqpg" source="uml2.diagrams" references="_YDoCQVVgEd-ZVbdER3xqpg">
+        <contents xmi:type="notation:Diagram" xmi:id="_YDoCQVVgEd-ZVbdER3xqpg" type="Freeform" name="Principal">
+          <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_YDoCQlVgEd-ZVbdER3xqpg"/>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_kd3VYFVgEd-ZVbdER3xqpg" name="Desactivar proveedor">
+      <eAnnotations xmi:id="_kd4jgFVgEd-ZVbdER3xqpg" source="uml2.diagrams" references="_kd4jgVVgEd-ZVbdER3xqpg">
+        <contents xmi:type="notation:Diagram" xmi:id="_kd4jgVVgEd-ZVbdER3xqpg" type="Freeform" name="Principal">
+          <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_kd4jglVgEd-ZVbdER3xqpg"/>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_qxzYoFVgEd-ZVbdER3xqpg" name="Desactivar servicio">
+      <eAnnotations xmi:id="_qxz_sFVgEd-ZVbdER3xqpg" source="uml2.diagrams" references="_qxz_sVVgEd-ZVbdER3xqpg">
+        <contents xmi:type="notation:Diagram" xmi:id="_qxz_sVVgEd-ZVbdER3xqpg" type="Freeform" name="Principal">
+          <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_qxz_slVgEd-ZVbdER3xqpg"/>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_tGCFEFVgEd-ZVbdER3xqpg" name="Pago">
+      <eAnnotations xmi:id="_tGDTMFVgEd-ZVbdER3xqpg" source="uml2.diagrams" references="_tGDTMVVgEd-ZVbdER3xqpg">
+        <contents xmi:type="notation:Diagram" xmi:id="_tGDTMVVgEd-ZVbdER3xqpg" type="Freeform" name="Principal">
+          <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_tGDTMlVgEd-ZVbdER3xqpg"/>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_wNOfgFVgEd-ZVbdER3xqpg" name="Reserva pack">
+      <eAnnotations xmi:id="_wNPGkFVgEd-ZVbdER3xqpg" source="uml2.diagrams" references="_wNPGkVVgEd-ZVbdER3xqpg">
+        <contents xmi:type="notation:Diagram" xmi:id="_wNPGkVVgEd-ZVbdER3xqpg" type="Freeform" name="Principal">
+          <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_wNPtoFVgEd-ZVbdER3xqpg"/>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_Iz7IcFVhEd-ZVbdER3xqpg" name="Consulta servicios">
+      <eAnnotations xmi:id="_Iz8WkFVhEd-ZVbdER3xqpg" source="uml2.diagrams" references="_Iz8WkVVhEd-ZVbdER3xqpg">
+        <contents xmi:type="notation:Diagram" xmi:id="_Iz8WkVVhEd-ZVbdER3xqpg" type="Freeform" name="Principal">
+          <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_Iz8WklVhEd-ZVbdER3xqpg"/>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_NbGH4FVhEd-ZVbdER3xqpg" name="Eleccion servicios">
+      <eAnnotations xmi:id="_NbH9EFVhEd-ZVbdER3xqpg" source="uml2.diagrams" references="_NbH9EVVhEd-ZVbdER3xqpg">
+        <contents xmi:type="notation:Diagram" xmi:id="_NbH9EVVhEd-ZVbdER3xqpg" type="Freeform" name="Principal">
+          <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_NbH9ElVhEd-ZVbdER3xqpg"/>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
   </packagedElement>
   <packagedElement xmi:type="uml:Class" xmi:id="_nX99gFEXEd-NRbgKrBZoTg" name="DTOPack">
     <ownedAttribute xmi:id="_p2hDkFEXEd-NRbgKrBZoTg" name="idPack" visibility="private"/>
