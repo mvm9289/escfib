@@ -8588,6 +8588,99 @@
             </edges>
           </contents>
         </eAnnotations>
+        <packagedElement xmi:type="uml:Collaboration" xmi:id="_Dwn9sFYREd-PTI9ImdBlDA" name="Alta cliente">
+          <ownedBehavior xmi:type="uml:Interaction" xmi:id="_Dwpy4FYREd-PTI9ImdBlDA" name="Alta cliente">
+            <eAnnotations xmi:id="_DwrBAFYREd-PTI9ImdBlDA" source="uml2.diagrams">
+              <contents xmi:type="notation:Diagram" xmi:id="_DwrBAVYREd-PTI9ImdBlDA" type="Sequence" element="_Dwpy4FYREd-PTI9ImdBlDA" name="Alta cliente" measurementUnit="Himetric">
+                <children xmi:id="_DwrBAlYREd-PTI9ImdBlDA" element="_Dwpy4FYREd-PTI9ImdBlDA">
+                  <children xmi:id="_DwrBA1YREd-PTI9ImdBlDA" type="interaction_compartment">
+                    <children xmi:id="_I8io8FYREd-PTI9ImdBlDA" element="_I8dJYFYREd-PTI9ImdBlDA">
+                      <eAnnotations xmi:id="_I8jQAFYREd-PTI9ImdBlDA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                        <details xmi:id="_I8jQAVYREd-PTI9ImdBlDA" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                      </eAnnotations>
+                      <children xmi:id="_I8j3EFYREd-PTI9ImdBlDA" type="Stereotype"/>
+                      <children xmi:id="_I8j3EVYREd-PTI9ImdBlDA" type="Name"/>
+                      <children xmi:id="_I8j3ElYREd-PTI9ImdBlDA" type="Parent"/>
+                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_I8io8VYREd-PTI9ImdBlDA" fontName="Segoe UI" showStereotype="Label"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_I8io8lYREd-PTI9ImdBlDA" x="264" y="4762"/>
+                    </children>
+                    <children xmi:id="_KXSvsFYREd-PTI9ImdBlDA" element="_KXPFUFYREd-PTI9ImdBlDA">
+                      <eAnnotations xmi:id="_KXTWwFYREd-PTI9ImdBlDA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                        <details xmi:id="_KXTWwVYREd-PTI9ImdBlDA" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                      </eAnnotations>
+                      <children xmi:id="_KXTWwlYREd-PTI9ImdBlDA" type="Stereotype"/>
+                      <children xmi:id="_KXT90FYREd-PTI9ImdBlDA" type="Name"/>
+                      <children xmi:id="_KXT90VYREd-PTI9ImdBlDA" type="Parent"/>
+                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_KXSvsVYREd-PTI9ImdBlDA" fontName="Segoe UI" showStereotype="Label"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KXSvslYREd-PTI9ImdBlDA" x="264" y="6125"/>
+                    </children>
+                    <children xmi:id="_OyTicFYREd-PTI9ImdBlDA" element="_Ox550FYREd-PTI9ImdBlDA">
+                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_OyTicVYREd-PTI9ImdBlDA" fontName="Segoe UI" showStereotype="Label"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OyTiclYREd-PTI9ImdBlDA" x="-1" y="1269"/>
+                    </children>
+                    <children xmi:id="_6ocJ0FYTEd-PTI9ImdBlDA" element="_6oVcIFYTEd-PTI9ImdBlDA">
+                      <eAnnotations xmi:id="_6ocw4FYTEd-PTI9ImdBlDA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                        <details xmi:id="_6ocw4VYTEd-PTI9ImdBlDA" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                      </eAnnotations>
+                      <children xmi:id="_6ocw4lYTEd-PTI9ImdBlDA" type="Stereotype"/>
+                      <children xmi:id="_6odX8FYTEd-PTI9ImdBlDA" type="Name"/>
+                      <children xmi:id="_6odX8VYTEd-PTI9ImdBlDA" type="Parent"/>
+                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_6ocJ0VYTEd-PTI9ImdBlDA" fontName="Segoe UI" showStereotype="Label"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6ocJ0lYTEd-PTI9ImdBlDA" x="782" y="2848" width="4392" height="7620"/>
+                    </children>
+                    <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_DwrBBFYREd-PTI9ImdBlDA"/>
+                    <layoutConstraint xmi:type="notation:Ratio" xmi:id="_9hid4FYTEd-PTI9ImdBlDA" value="0.9480196152395323"/>
+                  </children>
+                  <children xmi:id="_DwrBBVYREd-PTI9ImdBlDA" type="Name"/>
+                  <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_DwrBBlYREd-PTI9ImdBlDA" fontName="Segoe UI" showStereotype="Label"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DwrBB1YREd-PTI9ImdBlDA" x="793" y="793"/>
+                </children>
+                <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_DwrBCFYREd-PTI9ImdBlDA"/>
+                <edges xmi:id="_OyK_kFYREd-PTI9ImdBlDA" element="_Ox4EoFYREd-PTI9ImdBlDA" source="_I8io8FYREd-PTI9ImdBlDA" target="_KXSvsFYREd-PTI9ImdBlDA">
+                  <children xmi:id="_OyK_k1YREd-PTI9ImdBlDA" type="MessageNameLabel">
+                    <children xmi:id="_OyLmoFYREd-PTI9ImdBlDA" type="Stereotype"/>
+                    <children xmi:id="_OyLmoVYREd-PTI9ImdBlDA" type="Name"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OyK_lFYREd-PTI9ImdBlDA" y="-317"/>
+                  </children>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_OyK_kVYREd-PTI9ImdBlDA" fontName="Segoe UI" showStereotype="Text"/>
+                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_OyK_klYREd-PTI9ImdBlDA" points="[0, 0, -321, 0]$[321, 0, 0, 0]"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_OyPRAFYREd-PTI9ImdBlDA" id="11214:2037"/>
+                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_OyPRAVYREd-PTI9ImdBlDA" id="11295:0"/>
+                </edges>
+                <edges xmi:id="_OyV-sFYREd-PTI9ImdBlDA" element="_Ox6g4FYREd-PTI9ImdBlDA" source="_KXSvsFYREd-PTI9ImdBlDA" target="_I8io8FYREd-PTI9ImdBlDA">
+                  <children xmi:id="_OyWlwFYREd-PTI9ImdBlDA" type="MessageNameLabel">
+                    <children xmi:id="_OyWlwlYREd-PTI9ImdBlDA" type="Stereotype"/>
+                    <children xmi:id="_OyXM0FYREd-PTI9ImdBlDA" type="Name"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OyWlwVYREd-PTI9ImdBlDA" y="476"/>
+                  </children>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_OyV-sVYREd-PTI9ImdBlDA" fontName="Segoe UI" showStereotype="Text"/>
+                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_OyV-slYREd-PTI9ImdBlDA" points="[0, 0, 8494, 0]$[-8494, 0, 0, 0]"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_OyXM0VYREd-PTI9ImdBlDA" id="11296:3413"/>
+                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_OyXM0lYREd-PTI9ImdBlDA" id="11297:0"/>
+                </edges>
+              </contents>
+            </eAnnotations>
+            <ownedConnector xmi:id="_Ox7H8FYREd-PTI9ImdBlDA">
+              <end xmi:id="_Ox7H8VYREd-PTI9ImdBlDA" role="_KXPsYFYREd-PTI9ImdBlDA"/>
+              <end xmi:id="_Ox7H8lYREd-PTI9ImdBlDA" role="_I8dwcFYREd-PTI9ImdBlDA"/>
+            </ownedConnector>
+            <lifeline xmi:id="_I8dJYFYREd-PTI9ImdBlDA" name="pantallaAltaCliente" represents="_I8dwcFYREd-PTI9ImdBlDA" coveredBy="_Ox4rsFYREd-PTI9ImdBlDA _Ox6g4VYREd-PTI9ImdBlDA"/>
+            <lifeline xmi:id="_KXPFUFYREd-PTI9ImdBlDA" name="controladorAltaCliente" represents="_KXPsYFYREd-PTI9ImdBlDA" coveredBy="_Ox5SwFYREd-PTI9ImdBlDA _Ox550FYREd-PTI9ImdBlDA _Ox550VYREd-PTI9ImdBlDA"/>
+            <lifeline xmi:id="_6oVcIFYTEd-PTI9ImdBlDA" name="cliente" represents="_6oVcIVYTEd-PTI9ImdBlDA"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_Ox4rsFYREd-PTI9ImdBlDA" covered="_I8dJYFYREd-PTI9ImdBlDA" event="_Ox4rsVYREd-PTI9ImdBlDA" message="_Ox4EoFYREd-PTI9ImdBlDA"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_Ox5SwFYREd-PTI9ImdBlDA" covered="_KXPFUFYREd-PTI9ImdBlDA" event="_Ox5SwVYREd-PTI9ImdBlDA" message="_Ox4EoFYREd-PTI9ImdBlDA"/>
+            <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_Ox550FYREd-PTI9ImdBlDA" covered="_KXPFUFYREd-PTI9ImdBlDA" start="_Ox5SwFYREd-PTI9ImdBlDA" finish="_Ox550VYREd-PTI9ImdBlDA"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_Ox550VYREd-PTI9ImdBlDA" covered="_KXPFUFYREd-PTI9ImdBlDA" event="_Ox4rsVYREd-PTI9ImdBlDA" message="_Ox6g4FYREd-PTI9ImdBlDA"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_Ox6g4VYREd-PTI9ImdBlDA" covered="_I8dJYFYREd-PTI9ImdBlDA" event="_Ox5SwVYREd-PTI9ImdBlDA" message="_Ox6g4FYREd-PTI9ImdBlDA"/>
+            <message xmi:id="_Ox4EoFYREd-PTI9ImdBlDA" name="altaCliente" receiveEvent="_Ox5SwFYREd-PTI9ImdBlDA" sendEvent="_Ox4rsFYREd-PTI9ImdBlDA" connector="_Ox7H8FYREd-PTI9ImdBlDA"/>
+            <message xmi:id="_Ox6g4FYREd-PTI9ImdBlDA" name="altaCliente" messageSort="reply" receiveEvent="_Ox6g4VYREd-PTI9ImdBlDA" sendEvent="_Ox550VYREd-PTI9ImdBlDA" connector="_Ox7H8FYREd-PTI9ImdBlDA"/>
+          </ownedBehavior>
+          <ownedAttribute xmi:id="_I8dwcFYREd-PTI9ImdBlDA" name="pantallaAltaCliente" type="_xTkRUFW0Ed-cirjnF1yBfA"/>
+          <ownedAttribute xmi:id="_KXPsYFYREd-PTI9ImdBlDA" name="controladorAltaCliente" type="_-XVpoFW0Ed-cirjnF1yBfA"/>
+          <ownedAttribute xmi:id="_6oVcIVYTEd-PTI9ImdBlDA" name="cliente" type="_Iba0wD9bEd-6bus5KnA1QA"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_Ox4rsVYREd-PTI9ImdBlDA" name="Eventodeoperacióndeenvío1" operation="_PyRxsFYREd-PTI9ImdBlDA"/>
+        <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_Ox5SwVYREd-PTI9ImdBlDA" name="Eventodeoperaciónderecepción1" operation="_PyRxsFYREd-PTI9ImdBlDA"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_Ifp-EFVgEd-ZVbdER3xqpg" name="Baja cliente">
         <eAnnotations xmi:id="_IfrzQFVgEd-ZVbdER3xqpg" source="uml2.diagrams" references="_IfrzQVVgEd-ZVbdER3xqpg">
@@ -16823,7 +16916,23 @@
           </ownedParameter>
         </ownedOperation>
       </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_-XVpoFW0Ed-cirjnF1yBfA" name="ControladorAltaCliente"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_-XVpoFW0Ed-cirjnF1yBfA" name="ControladorAltaCliente">
+        <ownedOperation xmi:id="_PyRxsFYREd-PTI9ImdBlDA" name="altaCliente">
+          <ownedParameter xmi:id="_R0WXIFYREd-PTI9ImdBlDA" name="cliente" type="_Iba0wD9bEd-6bus5KnA1QA" direction="return"/>
+          <ownedParameter xmi:id="_VdOiUFYREd-PTI9ImdBlDA" name="nombre">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_WQhAcFYREd-PTI9ImdBlDA" name="apellidos">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_XQczcFYREd-PTI9ImdBlDA" name="dni">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_ZIw_8FYREd-PTI9ImdBlDA" name="password">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+        </ownedOperation>
+      </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_JP8x8FW1Ed-cirjnF1yBfA" name="ControladorBajaCliente"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_iUvsIFW1Ed-cirjnF1yBfA" name="ControladorAltaServicio"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_j_evoFW1Ed-cirjnF1yBfA" name="ControladorAltaProveedor"/>
