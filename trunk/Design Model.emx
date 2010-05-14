@@ -20317,10 +20317,4 @@
     </eAnnotations>
     <appliedProfile href="pathmap://RUP_PROFILES/RUPAnalysis.epx#_ptUk0NtREdi6_tWeNeG1pw?RUPAnalysis?"/>
   </profileApplication>
-  <profileApplication xmi:id="_7EtkgF52Ed-oNJA-AWfBjQ">
-    <eAnnotations xmi:id="_7E2ucF52Ed-oNJA-AWfBjQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
-      <references xmi:type="ecore:EPackage" href="file:/E:/Documents%20and%20Settings/jonathan.florido/Escritorio/plugin/plugins/com.ibm.rational.softsvc_6.0.0.1/profiles/SoftwareServices.epx#_XbyLoLWhEdm38YiXFzkfAA?Software%20Services%20Profile/SoftwareServicesProfile_25?"/>
-    </eAnnotations>
-    <appliedProfile href="file:/E:/Documents%20and%20Settings/jonathan.florido/Escritorio/plugin/plugins/com.ibm.rational.softsvc_6.0.0.1/profiles/SoftwareServices.epx#_8q5f0YpuEdmLb4SH9vO62g?Software%20Services%20Profile?"/>
-  </profileApplication>
 </uml:Package>
