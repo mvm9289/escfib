@@ -21448,7 +21448,7 @@ sino devuelve falso</body>
           <ownedParameter xmi:id="_FscJUGAFEd-WDKa1NRLkhw" name="nombreTour">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
-          <ownedParameter xmi:id="_MDPTUGAFEd-WDKa1NRLkhw" name="tour" type="_id8iAECZEd-2-oL0344xMg" direction="out"/>
+          <ownedParameter xmi:id="_MDPTUGAFEd-WDKa1NRLkhw" name="tour" type="_pw_B8FW6Ed-cirjnF1yBfA" direction="return"/>
         </ownedOperation>
         <ownedOperation xmi:id="_k8u0IF9PEd-0X6fNbLhFvg" name="tieneReservasPendientes()"/>
       </packagedElement>
@@ -21666,7 +21666,7 @@ sino devuelve falso</body>
           <ownedParameter xmi:id="_G_TGEGAKEd-WDKa1NRLkhw" name="numeroSala">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
           </ownedParameter>
-          <ownedParameter xmi:id="_kw1fYGAOEd-WDKa1NRLkhw" name="sala" type="_t_Z-ED9cEd-6bus5KnA1QA" direction="out"/>
+          <ownedParameter xmi:id="_kw1fYGAOEd-WDKa1NRLkhw" name="sala" type="_pxFvoFW6Ed-cirjnF1yBfA" direction="return"/>
         </ownedOperation>
         <ownedOperation xmi:id="_Nkqh0FaZEd-I58HZyOQ_4A" name="anadeSalaReservada">
           <ownedParameter xmi:id="_zYNVQGAKEd-WDKa1NRLkhw" name="salaReservada" type="_GXTgEECcEd-2-oL0344xMg"/>
@@ -21726,7 +21726,7 @@ sino devuelve falso</body>
           <ownedParameter xmi:id="_VSFPMGAKEd-WDKa1NRLkhw" name="numeroMesa">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
           </ownedParameter>
-          <ownedParameter xmi:id="_xIFv8GAOEd-WDKa1NRLkhw" name="mesa" type="_7EqD8ECXEd-2-oL0344xMg"/>
+          <ownedParameter xmi:id="_xIFv8GAOEd-WDKa1NRLkhw" name="mesa" type="_pxHk0FW6Ed-cirjnF1yBfA" direction="return"/>
         </ownedOperation>
         <ownedOperation xmi:id="_TYYAIFj6Ed-oio41hbM9sg" name="anadeReservaMesa">
           <ownedParameter xmi:id="_EhQrcGAMEd-WDKa1NRLkhw" name="mesaReservada" type="_BZddMFW9Ed-cirjnF1yBfA"/>
@@ -21806,7 +21806,7 @@ sino devuelve falso</body>
           <ownedParameter xmi:id="_dDxp4GAKEd-WDKa1NRLkhw" name="numeroHabitacion">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
           </ownedParameter>
-          <ownedParameter xmi:id="_1Gv94GAOEd-WDKa1NRLkhw" name="habitacion" type="_o21hwD9cEd-6bus5KnA1QA"/>
+          <ownedParameter xmi:id="_1Gv94GAOEd-WDKa1NRLkhw" name="habitacion" type="_BZfSYFW9Ed-cirjnF1yBfA" direction="return"/>
         </ownedOperation>
         <ownedOperation xmi:id="_Wb17sFj7Ed-oio41hbM9sg" name="anadeReservaHabitacion">
           <ownedParameter xmi:id="_kMHToGAMEd-WDKa1NRLkhw" name="habitacionReservada" type="_BZfSYFW9Ed-cirjnF1yBfA"/>
@@ -21867,7 +21867,7 @@ sino devuelve falso</body>
           <ownedParameter xmi:id="_PWGY8GAKEd-WDKa1NRLkhw" name="numeroAsiento">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
           </ownedParameter>
-          <ownedParameter xmi:id="_t4N6oGAOEd-WDKa1NRLkhw" name="asiento" type="_snTisD9cEd-6bus5KnA1QA"/>
+          <ownedParameter xmi:id="_t4N6oGAOEd-WDKa1NRLkhw" name="asiento" type="_pxLPMFW6Ed-cirjnF1yBfA" direction="return"/>
         </ownedOperation>
         <ownedOperation xmi:id="_0z46YFaZEd-I58HZyOQ_4A" name="anadeReservaAsiento">
           <ownedParameter xmi:id="_RA-J4GALEd-WDKa1NRLkhw" name="asientoReservado" type="_sxyXEECeEd-2-oL0344xMg"/>
