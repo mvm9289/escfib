@@ -20605,7 +20605,12 @@ sino devuelve falso</body>
         <details xmi:id="_KKA6QV54Ed-oNJA-AWfBjQ" key="JSP"/>
       </eAnnotations>
       <ownedOperation xmi:id="_aRGi8Fa_Ed-P0tyuGMn6bQ" name="PantallaAltaServicio"/>
-      <ownedOperation xmi:id="_fcHPQFa_Ed-P0tyuGMn6bQ" name="altaServicio"/>
+      <ownedOperation xmi:id="_fcHPQFa_Ed-P0tyuGMn6bQ" name="altaServicio">
+        <ownedParameter xmi:id="_PxDGsGPHEd-HT_zeF4yyDg" name="nifP">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_P3rTIGPHEd-HT_zeF4yyDg" name="datosS" type="_O0IKYFN_Ed-gAf87Mw65mQ"/>
+      </ownedOperation>
       <ownedOperation xmi:id="_4SalAFbAEd-P0tyuGMn6bQ" name="~PantallaAltaServicio"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Class" xmi:id="_tfFdoFW1Ed-cirjnF1yBfA" name="PantallaBajaProveedor">
@@ -20877,7 +20882,11 @@ sino devuelve falso</body>
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
         </ownedOperation>
-        <ownedOperation xmi:id="_jIoZwFa-Ed-P0tyuGMn6bQ" name="existeProveedor"/>
+        <ownedOperation xmi:id="_jIoZwFa-Ed-P0tyuGMn6bQ" name="existeProveedor">
+          <ownedParameter xmi:id="_4u52MGPFEd-HT_zeF4yyDg" name="nif">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+        </ownedOperation>
         <ownedOperation xmi:id="_zxynkFbCEd-P0tyuGMn6bQ" name="~Proveedor"/>
         <ownedOperation xmi:id="_sp5qQF9GEd-0X6fNbLhFvg" name="obten(nif)"/>
         <ownedOperation xmi:id="_G7aZwF9IEd-0X6fNbLhFvg" name="AltaServicio(datosS: DTOServicio)"/>
@@ -22057,14 +22066,34 @@ sino devuelve falso</body>
       <eAnnotations xmi:id="_0rKhIl55Ed-oNJA-AWfBjQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <details xmi:id="_0rKhI155Ed-oNJA-AWfBjQ" key="SessionBean"/>
       </eAnnotations>
-      <ownedOperation xmi:id="_QYCeAFa9Ed-P0tyuGMn6bQ" name="altaProveedor"/>
+      <ownedOperation xmi:id="_QYCeAFa9Ed-P0tyuGMn6bQ" name="altaProveedor">
+        <ownedParameter xmi:id="_aAWBsGPGEd-HT_zeF4yyDg" name="nombre">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_aNJuoGPGEd-HT_zeF4yyDg" name="telefono">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_aSpSoGPGEd-HT_zeF4yyDg" name="direccion">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_aXhyoGPGEd-HT_zeF4yyDg" name="nif">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_abfsoGPGEd-HT_zeF4yyDg" name="password">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+      </ownedOperation>
       <ownedOperation xmi:id="_PV6V0FbBEd-P0tyuGMn6bQ" name="~ControladorAltaProveedor"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Class" xmi:id="_xserIFW1Ed-cirjnF1yBfA" name="ControladorBajaProveedor">
       <eAnnotations xmi:id="_0rKhLF55Ed-oNJA-AWfBjQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <details xmi:id="_0rKhLV55Ed-oNJA-AWfBjQ" key="SessionBean"/>
       </eAnnotations>
-      <ownedOperation xmi:id="_01sxEFbBEd-P0tyuGMn6bQ" name="bajaProveedor"/>
+      <ownedOperation xmi:id="_01sxEFbBEd-P0tyuGMn6bQ" name="bajaProveedor">
+        <ownedParameter xmi:id="_XfAi0GPFEd-HT_zeF4yyDg" name="nif">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+      </ownedOperation>
       <ownedOperation xmi:id="_xZnZ0FbDEd-P0tyuGMn6bQ" name="~ControladorBajaProveedor"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Class" xmi:id="_zFNYoFW1Ed-cirjnF1yBfA" name="ControladorBajaServicio">
