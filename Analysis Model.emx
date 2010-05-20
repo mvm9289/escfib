@@ -6385,7 +6385,7 @@
       <generalization xmi:id="_k-Si4D9cEd-6bus5KnA1QA" general="_fN9_gD9bEd-6bus5KnA1QA"/>
       <ownedAttribute xmi:id="_8anDYD9cEd-6bus5KnA1QA" name="habitación" visibility="private" type="_o21hwD9cEd-6bus5KnA1QA" association="_8al1QD9cEd-6bus5KnA1QA">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8aoRgT9cEd-6bus5KnA1QA" value="*"/>
-        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8aoRgD9cEd-6bus5KnA1QA" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8aoRgD9cEd-6bus5KnA1QA"/>
       </ownedAttribute>
       <ownedAttribute xmi:id="_9snhsEC4Ed-1Zosb8UlY6Q" name="tipo" visibility="private">
         <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
@@ -6411,7 +6411,7 @@
       <generalization xmi:id="_lukwUD9cEd-6bus5KnA1QA" general="_fN9_gD9bEd-6bus5KnA1QA"/>
       <ownedAttribute xmi:id="_rxn3YFQiEd-JiLi8hI69CA" name="tour" visibility="private" type="_id8iAECZEd-2-oL0344xMg" association="_rxetcFQiEd-JiLi8hI69CA">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_rxn3YlQiEd-JiLi8hI69CA" value="*"/>
-        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_rxn3YVQiEd-JiLi8hI69CA" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_rxn3YVQiEd-JiLi8hI69CA"/>
       </ownedAttribute>
       <ownedOperation xmi:id="_NyOqkFUWEd-fH4arkD_w-Q" name="consultaDisponibilidad">
         <ownedParameter xmi:id="_QB4ZAFUWEd-fH4arkD_w-Q" name="disponible" direction="return">
@@ -6435,7 +6435,7 @@
       <generalization xmi:id="_mVj30D9cEd-6bus5KnA1QA" general="_fN9_gD9bEd-6bus5KnA1QA"/>
       <ownedAttribute xmi:id="_9Wp04D9cEd-6bus5KnA1QA" name="asiento" visibility="private" type="_snTisD9cEd-6bus5KnA1QA" association="_9WomwD9cEd-6bus5KnA1QA">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_9WrDAD9cEd-6bus5KnA1QA" value="*"/>
-        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_9Wqb8D9cEd-6bus5KnA1QA" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_9Wqb8D9cEd-6bus5KnA1QA"/>
       </ownedAttribute>
       <ownedAttribute xmi:id="_ErexQEC5Ed-1Zosb8UlY6Q" name="numVehiculos" visibility="private">
         <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
@@ -6462,7 +6462,7 @@
       <generalization xmi:id="_nC9JUD9cEd-6bus5KnA1QA" general="_fN9_gD9bEd-6bus5KnA1QA"/>
       <ownedAttribute xmi:id="_-l_84D9cEd-6bus5KnA1QA" name="sala" visibility="private" type="_t_Z-ED9cEd-6bus5KnA1QA" association="_-l-HsD9cEd-6bus5KnA1QA">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_-mAj8T9cEd-6bus5KnA1QA" value="*"/>
-        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_-mAj8D9cEd-6bus5KnA1QA" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_-mAj8D9cEd-6bus5KnA1QA"/>
       </ownedAttribute>
       <ownedAttribute xmi:id="_VlLtkFQmEd-JiLi8hI69CA" name="numeroSalas" visibility="private"/>
       <ownedOperation xmi:id="_lwPfkFQpEd-JiLi8hI69CA" name="anadirSala">
@@ -6607,7 +6607,7 @@
       </ownedAttribute>
       <ownedAttribute xmi:id="_Lv7PMEAbEd-hs9cNs--BSw" name="plato" visibility="private" type="_ByBboEAbEd-hs9cNs--BSw" association="_Lv0hgEAbEd-hs9cNs--BSw">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Lv8dUUAbEd-hs9cNs--BSw" value="*"/>
-        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Lv8dUEAbEd-hs9cNs--BSw" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Lv8dUEAbEd-hs9cNs--BSw"/>
       </ownedAttribute>
       <ownedAttribute xmi:id="_U5WR1EAbEd-hs9cNs--BSw" name="vino" visibility="private" type="_Cz69gEAbEd-hs9cNs--BSw" association="_U5WR0EAbEd-hs9cNs--BSw">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_U5WR1kAbEd-hs9cNs--BSw" value="*"/>
@@ -6644,11 +6644,11 @@
       <generalization xmi:id="_7wn54EAaEd-hs9cNs--BSw" general="_O2p9YD9cEd-6bus5KnA1QA"/>
       <ownedAttribute xmi:id="_PrxHUECXEd-2-oL0344xMg" name="horario" visibility="private" type="_IJu5QECXEd-2-oL0344xMg" association="_ProkcECXEd-2-oL0344xMg">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_PryVcUCXEd-2-oL0344xMg" value="*"/>
-        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_PryVcECXEd-2-oL0344xMg" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_PryVcECXEd-2-oL0344xMg"/>
       </ownedAttribute>
       <ownedAttribute xmi:id="_QQbTkECXEd-2-oL0344xMg" name="oferta" visibility="private" type="_Jw8HoECXEd-2-oL0344xMg" association="_QQVM8ECXEd-2-oL0344xMg">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_QQchsUCXEd-2-oL0344xMg" value="*"/>
-        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_QQchsECXEd-2-oL0344xMg" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_QQchsECXEd-2-oL0344xMg"/>
       </ownedAttribute>
       <ownedOperation xmi:id="_Gx6D0E4CEd-TludRAdKq1g" name="Bar"/>
       <ownedOperation xmi:id="_QZouYFQpEd-JiLi8hI69CA" name="anadirHorario">
@@ -6860,11 +6860,11 @@
       </ownedAttribute>
       <ownedAttribute xmi:id="_1t9ksECaEd-2-oL0344xMg" name="visita" visibility="private" type="_DeV2QECZEd-2-oL0344xMg" association="_1t7IcECaEd-2-oL0344xMg">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_1t-y0UCaEd-2-oL0344xMg" value="*"/>
-        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_1t-y0ECaEd-2-oL0344xMg" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_1t-y0ECaEd-2-oL0344xMg"/>
       </ownedAttribute>
       <ownedAttribute xmi:id="_QkY0kECbEd-2-oL0344xMg" name="grupo" visibility="private" type="_HXUoEECbEd-2-oL0344xMg" association="_QkWYUECbEd-2-oL0344xMg">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_QkaCsECbEd-2-oL0344xMg" value="*"/>
-        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_QkZboECbEd-2-oL0344xMg" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_QkZboECbEd-2-oL0344xMg"/>
       </ownedAttribute>
       <ownedAttribute xmi:id="_rxxoYFQiEd-JiLi8hI69CA" name="ocio" visibility="private" type="_VWMzsD9cEd-6bus5KnA1QA" association="_rxetcFQiEd-JiLi8hI69CA">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_rxxoYlQiEd-JiLi8hI69CA" value="1"/>
