@@ -3886,6 +3886,9 @@
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_KoxtIGgsEd-mdNn_ROZODw" value="1"/>
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_KoxGEWgsEd-mdNn_ROZODw" value="1"/>
           </ownedAttribute>
+          <ownedAttribute xmi:id="_naUXsG2DEd-RhIpACeS0mQ" name="identificador" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedAttribute>
           <ownedOperation xmi:id="_1S538G1eEd-yle_ekQci0w" name="Oferta">
             <ownedParameter xmi:id="_IFjg0G1uEd-yle_ekQci0w" name="oferta" type="_X2yk62d-Ed-wdYDqL5v8Ow" direction="return"/>
           </ownedOperation>
