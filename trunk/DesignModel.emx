@@ -4485,10 +4485,10 @@
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJTITGhsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío7"/>
       <packagedElement xmi:type="uml:DestructionEvent" xmi:id="_KJTITWhsEd-DOue_YMOOew" name="Eventodedestrucción3"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJTITmhsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío8" operation="_KM7ECWhsEd-DOue_YMOOew"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJTIT2hsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío9" operation="_KM8SZGhsEd-DOue_YMOOew"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJTIT2hsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío9"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJTIUGhsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío10"/>
       <packagedElement xmi:type="uml:DestructionEvent" xmi:id="_KJTIUWhsEd-DOue_YMOOew" name="Eventodedestrucción4"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJTIUmhsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío11" operation="_KM6cnGhsEd-DOue_YMOOew"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJTIUmhsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío11"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJTIU2hsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío12"/>
       <packagedElement xmi:type="uml:DestructionEvent" xmi:id="_KJTIVGhsEd-DOue_YMOOew" name="Eventodedestrucción5"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJTIVWhsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío13" operation="_KM08-mhsEd-DOue_YMOOew"/>
@@ -12139,6 +12139,19 @@ sino devuelve falso</body>
                     <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_KJhyKmhsEd-DOue_YMOOew" fontName="Segoe UI" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KJhyK2hsEd-DOue_YMOOew" x="13569" y="16576" width="1401" height="1189"/>
                   </children>
+                  <children xmi:id="_1KYt8G2GEd-y0PGmnhII5Q" type="Note">
+                    <children xmi:id="_1KYt9W2GEd-y0PGmnhII5Q" type="DiagramName">
+                      <element xsi:nil="true"/>
+                    </children>
+                    <children xmi:id="_1KYt9m2GEd-y0PGmnhII5Q" type="Description">
+                      <element xsi:nil="true"/>
+                    </children>
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="_1KYt8W2GEd-y0PGmnhII5Q" description="Repetir diagrama utilizando la operacion loginCorrecto como en Analysis Model" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+                    <styles xmi:type="notation:TextStyle" xmi:id="_1KYt8m2GEd-y0PGmnhII5Q"/>
+                    <styles xmi:type="notation:LineTypeStyle" xmi:id="_1KYt822GEd-y0PGmnhII5Q"/>
+                    <element xsi:nil="true"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1KYt9G2GEd-y0PGmnhII5Q" x="8421" y="6280" width="3175" height="3175"/>
+                  </children>
                   <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_KJhyLGhsEd-DOue_YMOOew"/>
                 </children>
                 <children xmi:id="_KJhyLWhsEd-DOue_YMOOew" type="Name"/>
@@ -16470,22 +16483,22 @@ sino devuelve falso</body>
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
         </ownedOperation>
-        <ownedOperation xmi:id="_KM6ci2hsEd-DOue_YMOOew" name="GetPassword">
+        <ownedOperation xmi:id="_KM6ci2hsEd-DOue_YMOOew" name="obtenPassword">
           <ownedParameter xmi:id="_KM6cjGhsEd-DOue_YMOOew" name="password" direction="return">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
         </ownedOperation>
-        <ownedOperation xmi:id="_KM6cjWhsEd-DOue_YMOOew" name="SetPassword">
+        <ownedOperation xmi:id="_KM6cjWhsEd-DOue_YMOOew" name="modificaPassword">
           <ownedParameter xmi:id="_KM6cjmhsEd-DOue_YMOOew" name="password">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
         </ownedOperation>
-        <ownedOperation xmi:id="_KM6cj2hsEd-DOue_YMOOew" name="GetDni">
+        <ownedOperation xmi:id="_KM6cj2hsEd-DOue_YMOOew" name="obtenDni">
           <ownedParameter xmi:id="_KM6ckGhsEd-DOue_YMOOew" name="dni" direction="return">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
         </ownedOperation>
-        <ownedOperation xmi:id="_KM6ckWhsEd-DOue_YMOOew" name="eliminaReserva">
+        <ownedOperation xmi:id="_KM6ckWhsEd-DOue_YMOOew" name="bajaReserva">
           <ownedParameter xmi:id="_KM6ckmhsEd-DOue_YMOOew" name="idReserva">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
@@ -16509,8 +16522,7 @@ sino devuelve falso</body>
           </ownedParameter>
           <ownedParameter xmi:id="_KM6cmmhsEd-DOue_YMOOew" name="cliente" type="_KM6ceGhsEd-DOue_YMOOew" direction="return"/>
         </ownedOperation>
-        <ownedOperation xmi:id="_KM6cm2hsEd-DOue_YMOOew" name="BajaCliente"/>
-        <ownedOperation xmi:id="_KM6cnGhsEd-DOue_YMOOew" name="~Cliente"/>
+        <ownedOperation xmi:id="_KM6cm2hsEd-DOue_YMOOew" name="eliminaCliente"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Association" xmi:id="_gXjjkGh1Ed--e4Yikx9W6Q" memberEnd="_gXkxsGh1Ed--e4Yikx9W6Q _gXlYwmh1Ed--e4Yikx9W6Q"/>
       <packagedElement xmi:type="uml:Association" xmi:id="_sBCvMGh1Ed--e4Yikx9W6Q" memberEnd="_sBDWQGh1Ed--e4Yikx9W6Q _sBEkYGh1Ed--e4Yikx9W6Q"/>
@@ -18141,6 +18153,8 @@ sino devuelve falso</body>
         <ownedAttribute xmi:id="_KM8SXGhsEd-DOue_YMOOew" name="solución" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedAttribute>
+        <ownedOperation xmi:id="_X0EUMG2GEd-y0PGmnhII5Q" name="Solucionado"/>
+        <ownedOperation xmi:id="_Y629IG2GEd-y0PGmnhII5Q" name="eliminaSolucionado"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM8SXWhsEd-DOue_YMOOew" name="Problema">
         <eAnnotations xmi:id="_KM8SXmhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -18153,8 +18167,8 @@ sino devuelve falso</body>
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_sBFLcWh1Ed--e4Yikx9W6Q" value="1"/>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_sBFLcGh1Ed--e4Yikx9W6Q" value="1"/>
         </ownedAttribute>
-        <ownedOperation xmi:id="_KM8SZGhsEd-DOue_YMOOew" name="~Problema"/>
-        <ownedOperation xmi:id="_ohGh0GyMEd-_9-SwQ5-rmw" name="BajaProblema"/>
+        <ownedOperation xmi:id="_ohGh0GyMEd-_9-SwQ5-rmw" name="eliminaProblema"/>
+        <ownedOperation xmi:id="_VuGGMG2GEd-y0PGmnhII5Q" name="Problema"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_1dhQsGh1Ed--e4Yikx9W6Q" name="Ayuda">
         <eAnnotations xmi:id="_3eaKYGh1Ed--e4Yikx9W6Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -18163,12 +18177,15 @@ sino devuelve falso</body>
         <ownedAttribute xmi:id="_1dhQsWh1Ed--e4Yikx9W6Q" name="descripción" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedAttribute>
-        <ownedOperation xmi:id="_1dhQsmh1Ed--e4Yikx9W6Q" name="Ayuda"/>
-        <ownedOperation xmi:id="_1dhQs2h1Ed--e4Yikx9W6Q" name="getDescripcion">
+        <ownedOperation xmi:id="_1dhQsmh1Ed--e4Yikx9W6Q" name="Ayuda">
+          <ownedParameter xmi:id="_8OT5IG2FEd-y0PGmnhII5Q" name="ayuda" type="_1dhQsGh1Ed--e4Yikx9W6Q" direction="return"/>
+        </ownedOperation>
+        <ownedOperation xmi:id="_1dhQs2h1Ed--e4Yikx9W6Q" name="obtenDescripcion">
           <ownedParameter xmi:id="_1dhQtGh1Ed--e4Yikx9W6Q" name="Parámetro1" direction="return">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
         </ownedOperation>
+        <ownedOperation xmi:id="_FoAzcG2GEd-y0PGmnhII5Q" name="eliminaAyuda"/>
       </packagedElement>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_BbYqgGhuEd-DOue_YMOOew" name="Tiempo">
