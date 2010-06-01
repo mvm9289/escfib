@@ -3232,7 +3232,7 @@
   </LogicalDataModel:Relationship>
   <LogicalDataModel:Entity xmi:id="_oPrCEF5_Ed-gfbbPaiOu_A" name="Horario" package="_H-hoMV56Ed-gfbbPaiOu_A" relationshipEnds="_tYrjQl5_Ed-gfbbPaiOu_A" relationships="_tYrjQF5_Ed-gfbbPaiOu_A">
     <attributes xmi:id="_tY0tMF5_Ed-gfbbPaiOu_A" name="nombreBar" dataType="VARCHAR(50)" required="true"/>
-    <attributes xmi:id="_ulacIF5_Ed-gfbbPaiOu_A" name="dia" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_ulacIF5_Ed-gfbbPaiOu_A" name="dias" dataType="INTEGER" required="true"/>
     <attributes xmi:id="_0npEUF5_Ed-gfbbPaiOu_A" name="horaApertura" dataType="TIME"/>
     <attributes xmi:id="_1IRsMF5_Ed-gfbbPaiOu_A" name="horaCierre" dataType="TIME"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_tYrjQ15_Ed-gfbbPaiOu_A" name="ForeignKey1" attributes="_tY0tMF5_Ed-gfbbPaiOu_A" relationshipEnds="_tYrjQl5_Ed-gfbbPaiOu_A"/>
