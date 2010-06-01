@@ -17547,6 +17547,9 @@ sino devuelve falso</body>
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_26ba8mhyEd--e4Yikx9W6Q" value="1"/>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_26ba8WhyEd--e4Yikx9W6Q" value="1"/>
         </ownedAttribute>
+        <ownedAttribute xmi:id="_ddT8AG2DEd-RhIpACeS0mQ" name="identificador" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </ownedAttribute>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM7rTWhsEd-DOue_YMOOew" name="Sala">
         <eAnnotations xmi:id="_KM7rTmhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -18049,6 +18052,9 @@ sino devuelve falso</body>
           <generalization xmi:id="_QzIPkWh5Ed-1L_waRTjuMg" general="_QzKr0Gh5Ed-1L_waRTjuMg"/>
           <ownedAttribute xmi:id="_QzIPkmh5Ed-1L_waRTjuMg" name="descripcion" visibility="private"/>
           <ownedAttribute xmi:id="_QzIPk2h5Ed-1L_waRTjuMg" name="precio" visibility="private"/>
+          <ownedAttribute xmi:id="_wLTsMG2DEd-RhIpACeS0mQ" name="identificador" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedAttribute>
         </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_QzIPlGh5Ed-1L_waRTjuMg" name="DTOHabitacion">
           <eAnnotations xmi:id="_bjsPIGh5Ed-1L_waRTjuMg" source="http://www.eclipse.org/uml2/2.0.0/UML">
