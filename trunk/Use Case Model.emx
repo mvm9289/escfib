@@ -31,122 +31,122 @@
         <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_ZxZRCD96Ed-AD4Q_LDTD_A" fontName="Segoe UI" showStereotype="Label"/>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZxZRCT96Ed-AD4Q_LDTD_A" x="4891" y="1716"/>
       </children>
-      <children xmi:id="_4N_BcEFKEd-2RKxAw9ERhA">
-        <eAnnotations xmi:id="_4N_BcUFKEd-2RKxAw9ERhA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
-          <details xmi:id="_4N_BckFKEd-2RKxAw9ERhA" key="ImageModeStyle" value="true"/>
+      <children xmi:id="_DS1LIG2OEd-VQPINpFKzKQ">
+        <eAnnotations xmi:id="_DS1LIW2OEd-VQPINpFKzKQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+          <details xmi:id="_DS1LIm2OEd-VQPINpFKzKQ" key="ImageModeStyle" value="true"/>
         </eAnnotations>
-        <children xmi:id="_4N_Bc0FKEd-2RKxAw9ERhA" type="ImageCompartment">
-          <layoutConstraint xmi:type="notation:Size" xmi:id="_4N_BdEFKEd-2RKxAw9ERhA" width="1296" height="1296"/>
+        <children xmi:id="_DS1LI22OEd-VQPINpFKzKQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_DS1LJG2OEd-VQPINpFKzKQ" width="1296" height="1296"/>
         </children>
-        <children xmi:id="_4N_BdUFKEd-2RKxAw9ERhA" type="Stereotype"/>
-        <children xmi:id="_4N_BdkFKEd-2RKxAw9ERhA" type="CommentBody"/>
-        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_4N_Bd0FKEd-2RKxAw9ERhA" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
-        <element xmi:type="uml:Comment" href="Analysis%20Model.emx#_aHdSwEFKEd-2RKxAw9ERhA?Analysis%20Model/%3CComentario%3E?"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4N_BeEFKEd-2RKxAw9ERhA" x="1056" y="12421" width="9207" height="1057"/>
+        <children xmi:id="_DS1LJW2OEd-VQPINpFKzKQ" type="Stereotype"/>
+        <children xmi:id="_DS1LJm2OEd-VQPINpFKzKQ" type="CommentBody"/>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_DS1LJ22OEd-VQPINpFKzKQ" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+        <element xmi:type="uml:Comment" href="Business%20Model.emx#_ZkXI8G2NEd-VQPINpFKzKQ?Business%20Model/%3CComentario%3E?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DS1LKG2OEd-VQPINpFKzKQ" x="1584" y="15044" width="6164" height="1057"/>
       </children>
-      <children xmi:id="_4N_BeUFKEd-2RKxAw9ERhA">
-        <eAnnotations xmi:id="_4N_BekFKEd-2RKxAw9ERhA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
-          <details xmi:id="_4N_Be0FKEd-2RKxAw9ERhA" key="ImageModeStyle" value="true"/>
+      <children xmi:id="_DS-8IG2OEd-VQPINpFKzKQ">
+        <eAnnotations xmi:id="_DS-8IW2OEd-VQPINpFKzKQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+          <details xmi:id="_DS-8Im2OEd-VQPINpFKzKQ" key="ImageModeStyle" value="true"/>
         </eAnnotations>
-        <children xmi:id="_4N_BfEFKEd-2RKxAw9ERhA" type="ImageCompartment">
-          <layoutConstraint xmi:type="notation:Size" xmi:id="_4N_BfUFKEd-2RKxAw9ERhA" width="1296" height="1296"/>
+        <children xmi:id="_DS-8I22OEd-VQPINpFKzKQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_DS-8JG2OEd-VQPINpFKzKQ" width="1296" height="1296"/>
         </children>
-        <children xmi:id="_4N_BfkFKEd-2RKxAw9ERhA" type="Stereotype"/>
-        <children xmi:id="_4N_Bf0FKEd-2RKxAw9ERhA" type="CommentBody"/>
-        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_4N_BgEFKEd-2RKxAw9ERhA" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
-        <element xmi:type="uml:Comment" href="Analysis%20Model.emx#_d6-nsEFKEd-2RKxAw9ERhA?Analysis%20Model/%3CComentario%3E?"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4N_BgUFKEd-2RKxAw9ERhA" x="1056" y="13479" width="9207" height="1057"/>
+        <children xmi:id="_DS-8JW2OEd-VQPINpFKzKQ" type="Stereotype"/>
+        <children xmi:id="_DS-8Jm2OEd-VQPINpFKzKQ" type="CommentBody"/>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_DS-8J22OEd-VQPINpFKzKQ" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+        <element xmi:type="uml:Comment" href="Business%20Model.emx#_IAKSYG2NEd-VQPINpFKzKQ?Business%20Model/%3CComentario%3E?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DS-8KG2OEd-VQPINpFKzKQ" x="1584" y="6207" width="6164" height="1428"/>
       </children>
-      <children xmi:id="_4N_BgkFKEd-2RKxAw9ERhA">
-        <eAnnotations xmi:id="_4N_Bg0FKEd-2RKxAw9ERhA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
-          <details xmi:id="_4N_BhEFKEd-2RKxAw9ERhA" key="ImageModeStyle" value="true"/>
+      <children xmi:id="_DS-8KW2OEd-VQPINpFKzKQ">
+        <eAnnotations xmi:id="_DS-8Km2OEd-VQPINpFKzKQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+          <details xmi:id="_DS-8K22OEd-VQPINpFKzKQ" key="ImageModeStyle" value="true"/>
         </eAnnotations>
-        <children xmi:id="_4N_BhUFKEd-2RKxAw9ERhA" type="ImageCompartment">
-          <layoutConstraint xmi:type="notation:Size" xmi:id="_4N_BhkFKEd-2RKxAw9ERhA" width="1296" height="1296"/>
+        <children xmi:id="_DS-8LG2OEd-VQPINpFKzKQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_DS-8LW2OEd-VQPINpFKzKQ" width="1296" height="1296"/>
         </children>
-        <children xmi:id="_4N_Bh0FKEd-2RKxAw9ERhA" type="Stereotype"/>
-        <children xmi:id="_4N_BiEFKEd-2RKxAw9ERhA" type="CommentBody"/>
-        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_4N_BiUFKEd-2RKxAw9ERhA" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
-        <element xmi:type="uml:Comment" href="Analysis%20Model.emx#_MHbGgEFKEd-2RKxAw9ERhA?Analysis%20Model/%3CComentario%3E?"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4N_BikFKEd-2RKxAw9ERhA" x="1056" y="10304" width="9207" height="1057"/>
+        <children xmi:id="_DS-8Lm2OEd-VQPINpFKzKQ" type="Stereotype"/>
+        <children xmi:id="_DS-8L22OEd-VQPINpFKzKQ" type="CommentBody"/>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_DS-8MG2OEd-VQPINpFKzKQ" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+        <element xmi:type="uml:Comment" href="Business%20Model.emx#_dhshMG2NEd-VQPINpFKzKQ?Business%20Model/%3CComentario%3E?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DS-8MW2OEd-VQPINpFKzKQ" x="1584" y="16102" width="6164" height="1137"/>
       </children>
-      <children xmi:id="_4N_Bi0FKEd-2RKxAw9ERhA">
-        <eAnnotations xmi:id="_4N_BjEFKEd-2RKxAw9ERhA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
-          <details xmi:id="_4N_BjUFKEd-2RKxAw9ERhA" key="ImageModeStyle" value="true"/>
+      <children xmi:id="_DS-8Mm2OEd-VQPINpFKzKQ">
+        <eAnnotations xmi:id="_DS-8M22OEd-VQPINpFKzKQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+          <details xmi:id="_DS-8NG2OEd-VQPINpFKzKQ" key="ImageModeStyle" value="true"/>
         </eAnnotations>
-        <children xmi:id="_4N_BjkFKEd-2RKxAw9ERhA" type="ImageCompartment">
-          <layoutConstraint xmi:type="notation:Size" xmi:id="_4N_Bj0FKEd-2RKxAw9ERhA" width="1296" height="1296"/>
+        <children xmi:id="_DS-8NW2OEd-VQPINpFKzKQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_DS-8Nm2OEd-VQPINpFKzKQ" width="1296" height="1296"/>
         </children>
-        <children xmi:id="_4N_BkEFKEd-2RKxAw9ERhA" type="Stereotype"/>
-        <children xmi:id="_4N_BkUFKEd-2RKxAw9ERhA" type="CommentBody"/>
-        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_4N_BkkFKEd-2RKxAw9ERhA" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
-        <element xmi:type="uml:Comment" href="Analysis%20Model.emx#_V-CmUEFKEd-2RKxAw9ERhA?Analysis%20Model/%3CComentario%3E?"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4N_Bk0FKEd-2RKxAw9ERhA" x="1056" y="11363" width="9207" height="1057"/>
+        <children xmi:id="_DS-8N22OEd-VQPINpFKzKQ" type="Stereotype"/>
+        <children xmi:id="_DS-8OG2OEd-VQPINpFKzKQ" type="CommentBody"/>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_DS-8OW2OEd-VQPINpFKzKQ" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+        <element xmi:type="uml:Comment" href="Business%20Model.emx#_XTNlsG2NEd-VQPINpFKzKQ?Business%20Model/%3CComentario%3E?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DS-8Om2OEd-VQPINpFKzKQ" x="1584" y="13986" width="6191" height="1057"/>
       </children>
-      <children xmi:id="_4N_BlEFKEd-2RKxAw9ERhA">
-        <eAnnotations xmi:id="_4N_BlUFKEd-2RKxAw9ERhA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
-          <details xmi:id="_4N_BlkFKEd-2RKxAw9ERhA" key="ImageModeStyle" value="true"/>
+      <children xmi:id="_DS-8O22OEd-VQPINpFKzKQ">
+        <eAnnotations xmi:id="_DS-8PG2OEd-VQPINpFKzKQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+          <details xmi:id="_DS-8PW2OEd-VQPINpFKzKQ" key="ImageModeStyle" value="true"/>
         </eAnnotations>
-        <children xmi:id="_4N_Bl0FKEd-2RKxAw9ERhA" type="ImageCompartment">
-          <layoutConstraint xmi:type="notation:Size" xmi:id="_4N_BmEFKEd-2RKxAw9ERhA" width="1296" height="1296"/>
+        <children xmi:id="_DS-8Pm2OEd-VQPINpFKzKQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_DS-8P22OEd-VQPINpFKzKQ" width="1296" height="1296"/>
         </children>
-        <children xmi:id="_4N_BmUFKEd-2RKxAw9ERhA" type="Stereotype"/>
-        <children xmi:id="_4N_BmkFKEd-2RKxAw9ERhA" type="CommentBody"/>
-        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_4N_Bm0FKEd-2RKxAw9ERhA" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
-        <element xmi:type="uml:Comment" href="Analysis%20Model.emx#_edcRAEFJEd-2RKxAw9ERhA?Analysis%20Model/%3CComentario%3E?"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4N_BnEFKEd-2RKxAw9ERhA" x="1056" y="6732" width="9207" height="1057"/>
+        <children xmi:id="_DS-8QG2OEd-VQPINpFKzKQ" type="Stereotype"/>
+        <children xmi:id="_DS-8QW2OEd-VQPINpFKzKQ" type="CommentBody"/>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_DS-8Qm2OEd-VQPINpFKzKQ" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+        <element xmi:type="uml:Comment" href="Business%20Model.emx#_LtZZIG2NEd-VQPINpFKzKQ?Business%20Model/%3CComentario%3E?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DS-8Q22OEd-VQPINpFKzKQ" x="1558" y="7662" width="6191" height="1428"/>
       </children>
-      <children xmi:id="_4N_BnUFKEd-2RKxAw9ERhA">
-        <eAnnotations xmi:id="_4N_BnkFKEd-2RKxAw9ERhA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
-          <details xmi:id="_4N_Bn0FKEd-2RKxAw9ERhA" key="ImageModeStyle" value="true"/>
+      <children xmi:id="_DS-8RG2OEd-VQPINpFKzKQ">
+        <eAnnotations xmi:id="_DS-8RW2OEd-VQPINpFKzKQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+          <details xmi:id="_DS-8Rm2OEd-VQPINpFKzKQ" key="ImageModeStyle" value="true"/>
         </eAnnotations>
-        <children xmi:id="_4N_BoEFKEd-2RKxAw9ERhA" type="ImageCompartment">
-          <layoutConstraint xmi:type="notation:Size" xmi:id="_4N_BoUFKEd-2RKxAw9ERhA" width="1296" height="1296"/>
+        <children xmi:id="_DS-8R22OEd-VQPINpFKzKQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_DS-8SG2OEd-VQPINpFKzKQ" width="1296" height="1296"/>
         </children>
-        <children xmi:id="_4N_BokFKEd-2RKxAw9ERhA" type="Stereotype"/>
-        <children xmi:id="_4N_Bo0FKEd-2RKxAw9ERhA" type="CommentBody"/>
-        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_4N_BpEFKEd-2RKxAw9ERhA" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
-        <element xmi:type="uml:Comment" href="Analysis%20Model.emx#_xCPB4EFJEd-2RKxAw9ERhA?Analysis%20Model/%3CComentario%3E?"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4N_BpUFKEd-2RKxAw9ERhA" x="1056" y="9246" width="9207" height="1057"/>
+        <children xmi:id="_DS-8SW2OEd-VQPINpFKzKQ" type="Stereotype"/>
+        <children xmi:id="_DS-8Sm2OEd-VQPINpFKzKQ" type="CommentBody"/>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_DS-8S22OEd-VQPINpFKzKQ" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+        <element xmi:type="uml:Comment" href="Business%20Model.emx#_VoODgG2NEd-VQPINpFKzKQ?Business%20Model/%3CComentario%3E?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DS-8TG2OEd-VQPINpFKzKQ" x="1584" y="12927" width="6191" height="1057"/>
       </children>
-      <children xmi:id="_4N_BpkFKEd-2RKxAw9ERhA">
-        <eAnnotations xmi:id="_4N_Bp0FKEd-2RKxAw9ERhA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
-          <details xmi:id="_4N_BqEFKEd-2RKxAw9ERhA" key="ImageModeStyle" value="true"/>
+      <children xmi:id="_DS-8TW2OEd-VQPINpFKzKQ">
+        <eAnnotations xmi:id="_DS-8Tm2OEd-VQPINpFKzKQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+          <details xmi:id="_DS-8T22OEd-VQPINpFKzKQ" key="ImageModeStyle" value="true"/>
         </eAnnotations>
-        <children xmi:id="_4N_BqUFKEd-2RKxAw9ERhA" type="ImageCompartment">
-          <layoutConstraint xmi:type="notation:Size" xmi:id="_4N_BqkFKEd-2RKxAw9ERhA" width="1296" height="1296"/>
+        <children xmi:id="_DS-8UG2OEd-VQPINpFKzKQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_DS-8UW2OEd-VQPINpFKzKQ" width="1296" height="1296"/>
         </children>
-        <children xmi:id="_4N_Bq0FKEd-2RKxAw9ERhA" type="Stereotype"/>
-        <children xmi:id="_4N_BrEFKEd-2RKxAw9ERhA" type="CommentBody"/>
-        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_4N_BrUFKEd-2RKxAw9ERhA" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
-        <element xmi:type="uml:Comment" href="Analysis%20Model.emx#_I1TD4EFJEd-2RKxAw9ERhA?Analysis%20Model/%3CComentario%3E?"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4N_BrkFKEd-2RKxAw9ERhA" x="1056" y="5674" width="9207" height="1057"/>
+        <children xmi:id="_DS-8Um2OEd-VQPINpFKzKQ" type="Stereotype"/>
+        <children xmi:id="_DS-8U22OEd-VQPINpFKzKQ" type="CommentBody"/>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_DS-8VG2OEd-VQPINpFKzKQ" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+        <element xmi:type="uml:Comment" href="Business%20Model.emx#_RJgcgG2NEd-VQPINpFKzKQ?Business%20Model/%3CComentario%3E?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DS-8VW2OEd-VQPINpFKzKQ" x="1584" y="10440" width="6191" height="1428"/>
       </children>
-      <children xmi:id="_4OIycEFKEd-2RKxAw9ERhA">
-        <eAnnotations xmi:id="_4OIycUFKEd-2RKxAw9ERhA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
-          <details xmi:id="_4OIyckFKEd-2RKxAw9ERhA" key="ImageModeStyle" value="true"/>
+      <children xmi:id="_DS-8Vm2OEd-VQPINpFKzKQ">
+        <eAnnotations xmi:id="_DS-8V22OEd-VQPINpFKzKQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+          <details xmi:id="_DS-8WG2OEd-VQPINpFKzKQ" key="ImageModeStyle" value="true"/>
         </eAnnotations>
-        <children xmi:id="_4OIyc0FKEd-2RKxAw9ERhA" type="ImageCompartment">
-          <layoutConstraint xmi:type="notation:Size" xmi:id="_4OIydEFKEd-2RKxAw9ERhA" width="1296" height="1296"/>
+        <children xmi:id="_DS-8WW2OEd-VQPINpFKzKQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_DS-8Wm2OEd-VQPINpFKzKQ" width="1296" height="1296"/>
         </children>
-        <children xmi:id="_4OIydUFKEd-2RKxAw9ERhA" type="Stereotype"/>
-        <children xmi:id="_4OIydkFKEd-2RKxAw9ERhA" type="CommentBody"/>
-        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_4OIyd0FKEd-2RKxAw9ERhA" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
-        <element xmi:type="uml:Comment" href="Analysis%20Model.emx#_nBy3sEFJEd-2RKxAw9ERhA?Analysis%20Model/%3CComentario%3E?"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4OIyeEFKEd-2RKxAw9ERhA" x="1056" y="7791" width="9207" height="1057"/>
+        <children xmi:id="_DS-8W22OEd-VQPINpFKzKQ" type="Stereotype"/>
+        <children xmi:id="_DS-8XG2OEd-VQPINpFKzKQ" type="CommentBody"/>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_DS-8XW2OEd-VQPINpFKzKQ" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+        <element xmi:type="uml:Comment" href="Business%20Model.emx#_TrWHIG2NEd-VQPINpFKzKQ?Business%20Model/%3CComentario%3E?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DS-8Xm2OEd-VQPINpFKzKQ" x="1558" y="11869" width="6191" height="1057"/>
       </children>
-      <children xmi:id="_4OIyeUFKEd-2RKxAw9ERhA">
-        <eAnnotations xmi:id="_4OIyekFKEd-2RKxAw9ERhA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
-          <details xmi:id="_4OIye0FKEd-2RKxAw9ERhA" key="ImageModeStyle" value="true"/>
+      <children xmi:id="_DS-8X22OEd-VQPINpFKzKQ">
+        <eAnnotations xmi:id="_DS-8YG2OEd-VQPINpFKzKQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+          <details xmi:id="_DS-8YW2OEd-VQPINpFKzKQ" key="ImageModeStyle" value="true"/>
         </eAnnotations>
-        <children xmi:id="_4OIyfEFKEd-2RKxAw9ERhA" type="ImageCompartment">
-          <layoutConstraint xmi:type="notation:Size" xmi:id="_4OIyfUFKEd-2RKxAw9ERhA" width="1296" height="1296"/>
+        <children xmi:id="_DS-8Ym2OEd-VQPINpFKzKQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_DS-8Y22OEd-VQPINpFKzKQ" width="1296" height="1296"/>
         </children>
-        <children xmi:id="_4OIyfkFKEd-2RKxAw9ERhA" type="Stereotype"/>
-        <children xmi:id="_4OIyf0FKEd-2RKxAw9ERhA" type="CommentBody"/>
-        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_4OIygEFKEd-2RKxAw9ERhA" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
-        <element xmi:type="uml:Comment" href="Analysis%20Model.emx#_kZ7BEEFKEd-2RKxAw9ERhA?Analysis%20Model/%3CComentario%3E?"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4OIygUFKEd-2RKxAw9ERhA" x="1056" y="14538" width="9207" height="1057"/>
+        <children xmi:id="_DS-8ZG2OEd-VQPINpFKzKQ" type="Stereotype"/>
+        <children xmi:id="_DS-8ZW2OEd-VQPINpFKzKQ" type="CommentBody"/>
+        <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_DS-8Zm2OEd-VQPINpFKzKQ" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+        <element xmi:type="uml:Comment" href="Business%20Model.emx#__7XVgG2MEd-VQPINpFKzKQ?Business%20Model/%3CComentario%3E?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DS-8Z22OEd-VQPINpFKzKQ" x="1584" y="4752" width="6191" height="1428"/>
       </children>
       <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_AUqnMy0fEd-KDLlLZTduXg"/>
     </contents>
