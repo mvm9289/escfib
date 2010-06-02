@@ -4123,13 +4123,21 @@
           </ownedAttribute>
           <ownedOperation xmi:id="_lSIKsG1YEd-yle_ekQci0w" name="Solucionado"/>
           <ownedOperation xmi:id="_oEEt4G1YEd-yle_ekQci0w" name="eliminaSolucionado"/>
+          <ownedOperation xmi:id="_1yRyIG47Ed-sVMtA4RT7sg" name="obtenSolucion"/>
+          <ownedOperation xmi:id="_3JmKYG47Ed-sVMtA4RT7sg" name="ponSolucion"/>
         </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_X2zL-2d-Ed-wdYDqL5v8Ow" name="Problema">
           <ownedAttribute xmi:id="_X2zL_2d-Ed-wdYDqL5v8Ow" name="descripción" visibility="private">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedAttribute>
+          <ownedAttribute xmi:id="_uAIrgG47Ed-sVMtA4RT7sg" name="identificador" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedAttribute>
           <ownedOperation xmi:id="_X2zMAGd-Ed-wdYDqL5v8Ow" name="eliminaProblema"/>
           <ownedOperation xmi:id="_iyii0G1YEd-yle_ekQci0w" name="Problema"/>
+          <ownedOperation xmi:id="_q8CBUG47Ed-sVMtA4RT7sg" name="obtenDescripcion"/>
+          <ownedOperation xmi:id="_xZ-8MG47Ed-sVMtA4RT7sg" name="obtenIdentificador"/>
+          <ownedOperation xmi:id="_zRWGcG47Ed-sVMtA4RT7sg" name="ponDescripcion"/>
         </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_4IjZkGgzEd-mdNn_ROZODw" name="Ayuda">
           <ownedAttribute xmi:id="_AzLAUGg0Ed-mdNn_ROZODw" name="descripción" visibility="private">
