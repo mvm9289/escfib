@@ -16465,7 +16465,7 @@ sino devuelve falso</body>
           </ownedParameter>
           <ownedParameter xmi:id="_KM6ct2hsEd-DOue_YMOOew" name="infoServicio" type="_O9jqg2h4Ed-1L_waRTjuMg"/>
         </ownedOperation>
-        <ownedOperation xmi:id="_KM6cuGhsEd-DOue_YMOOew" name="bajaProveedor"/>
+        <ownedOperation xmi:id="_KM6cuGhsEd-DOue_YMOOew" name="eliminaProveedor"/>
         <ownedOperation xmi:id="_KM6cuWhsEd-DOue_YMOOew" name="bajaServicio">
           <ownedParameter xmi:id="_KM6cumhsEd-DOue_YMOOew" name="nombreServicio">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
@@ -16647,6 +16647,18 @@ sino devuelve falso</body>
         <ownedOperation xmi:id="_KM7DpmhsEd-DOue_YMOOew" name="(idR, precio, cliente)"/>
         <ownedOperation xmi:id="_KM7Dp2hsEd-DOue_YMOOew" name="(idR, precio, dniC)"/>
         <ownedOperation xmi:id="_ws4lkGyOEd-_9-SwQ5-rmw" name="eliminaFactura"/>
+        <ownedOperation xmi:id="_LbnNsG4eEd-iF7wJZvrKSg" name="Factura">
+          <ownedParameter xmi:id="_MTmloG4eEd-iF7wJZvrKSg" name="Parámetro1" type="_KM7DnGhsEd-DOue_YMOOew" direction="return"/>
+          <ownedParameter xmi:id="_ilsHoG4eEd-iF7wJZvrKSg" name="precio">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_n3sz0G4eEd-iF7wJZvrKSg" name="descripcion">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_sG1GsG4eEd-iF7wJZvrKSg" name="dniCliente">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+        </ownedOperation>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM7DqGhsEd-DOue_YMOOew" name="HabitacionReservada">
         <eAnnotations xmi:id="_KM7DqWhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -16984,6 +16996,13 @@ sino devuelve falso</body>
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
           </ownedParameter>
         </ownedOperation>
+        <ownedOperation xmi:id="_RaPrIG4lEd-iF7wJZvrKSg" name="Restauracion">
+          <ownedParameter xmi:id="_Sd5ggG4lEd-iF7wJZvrKSg" name="restauracion" type="_KM7rWmhsEd-DOue_YMOOew" direction="return"/>
+          <ownedParameter xmi:id="_VyihEG4lEd-iF7wJZvrKSg" name="capacidadTotal">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_iqaycG4lEd-iF7wJZvrKSg" name="eliminaRestauracion"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM7EOWhsEd-DOue_YMOOew" name="Servicio">
         <eAnnotations xmi:id="_KM7EOmhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17125,6 +17144,20 @@ sino devuelve falso</body>
         <ownedOperation xmi:id="_KM7qxGhsEd-DOue_YMOOew" name="anadirPlato">
           <ownedParameter xmi:id="_KM7qxWhsEd-DOue_YMOOew" name="plato" type="_KM7rEGhsEd-DOue_YMOOew"/>
         </ownedOperation>
+        <ownedOperation xmi:id="_962akG4hEd-iF7wJZvrKSg" name="Menu">
+          <ownedParameter xmi:id="_-vduYG4hEd-iF7wJZvrKSg" name="menu" type="_KM7quWhsEd-DOue_YMOOew" direction="return"/>
+          <ownedParameter xmi:id="_Cw3uUG4iEd-iF7wJZvrKSg" name="nombre">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_ECZnoG4iEd-iF7wJZvrKSg" name="precio">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_GHfr4G4iEd-iF7wJZvrKSg" name="platos" type="_KM7rEGhsEd-DOue_YMOOew">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_0GVsMW4kEd-iF7wJZvrKSg" value="*"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_0GVsMG4kEd-iF7wJZvrKSg" value="1"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_YLgD4G4iEd-iF7wJZvrKSg" name="eliminaMenu"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM7qxmhsEd-DOue_YMOOew" name="Horario">
         <eAnnotations xmi:id="_KM7qx2hsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17133,16 +17166,21 @@ sino devuelve falso</body>
         <ownedAttribute xmi:id="_KM7qzGhsEd-DOue_YMOOew" name="días" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_KM7qzWhsEd-DOue_YMOOew" name="horaApertura" visibility="private">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_KM7qzmhsEd-DOue_YMOOew" name="horaCierre" visibility="private">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-        </ownedAttribute>
+        <ownedAttribute xmi:id="_KM7qzWhsEd-DOue_YMOOew" name="horaApertura" visibility="private" type="_BbYql2huEd-DOue_YMOOew"/>
+        <ownedAttribute xmi:id="_KM7qzmhsEd-DOue_YMOOew" name="horaCierre" visibility="private" type="_BbYql2huEd-DOue_YMOOew"/>
         <ownedAttribute xmi:id="_1EZtcGhyEd--e4Yikx9W6Q" name="bar" visibility="private" type="_KM8Ry2hsEd-DOue_YMOOew" association="_1EXRMGhyEd--e4Yikx9W6Q">
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_1EaUgWhyEd--e4Yikx9W6Q" value="1"/>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_1EaUgGhyEd--e4Yikx9W6Q" value="1"/>
         </ownedAttribute>
+        <ownedOperation xmi:id="_N52qYG4hEd-iF7wJZvrKSg" name="Horario">
+          <ownedParameter xmi:id="_OZcwcG4hEd-iF7wJZvrKSg" name="horario" type="_KM7qxmhsEd-DOue_YMOOew" direction="return"/>
+          <ownedParameter xmi:id="_TrGQQG4hEd-iF7wJZvrKSg" name="dias">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_U4cNIG4hEd-iF7wJZvrKSg" name="horaApertura" type="_BbYql2huEd-DOue_YMOOew"/>
+          <ownedParameter xmi:id="_e4fVwG4hEd-iF7wJZvrKSg" name="horaCierre" type="_BbYql2huEd-DOue_YMOOew"/>
+        </ownedOperation>
+        <ownedOperation xmi:id="_i9eOIG4hEd-iF7wJZvrKSg" name="eliminaHorario"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM7qz2hsEd-DOue_YMOOew" name="Local de Reunion">
         <eAnnotations xmi:id="_KM7q0GhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17171,6 +17209,13 @@ sino devuelve falso</body>
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
           </ownedParameter>
         </ownedOperation>
+        <ownedOperation xmi:id="_kgI6wG4hEd-iF7wJZvrKSg" name="LocalDeReunion">
+          <ownedParameter xmi:id="_lo4EcG4hEd-iF7wJZvrKSg" name="localDeReunion" type="_KM7qz2hsEd-DOue_YMOOew"/>
+          <ownedParameter xmi:id="_pvy2gG4hEd-iF7wJZvrKSg" name="numeroDeSalas">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_vLrQYG4hEd-iF7wJZvrKSg" name="eliminaLocalDeReunion"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM7q32hsEd-DOue_YMOOew" name="Tour">
         <eAnnotations xmi:id="_KM7q4GhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17185,12 +17230,8 @@ sino devuelve falso</body>
         <ownedAttribute xmi:id="_KM7q5GhsEd-DOue_YMOOew" name="precio" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_KM7q5WhsEd-DOue_YMOOew" name="horaInicio" visibility="private">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_KM7q5mhsEd-DOue_YMOOew" name="horaFin" visibility="private">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-        </ownedAttribute>
+        <ownedAttribute xmi:id="_KM7q5WhsEd-DOue_YMOOew" name="horaInicio" visibility="private" type="_BbYql2huEd-DOue_YMOOew"/>
+        <ownedAttribute xmi:id="_KM7q5mhsEd-DOue_YMOOew" name="horaFin" visibility="private" type="_BbYql2huEd-DOue_YMOOew"/>
         <ownedAttribute xmi:id="_K6hFIGhzEd--e4Yikx9W6Q" name="ocio" visibility="private" type="_KM8RqWhsEd-DOue_YMOOew" association="_K6eo4GhzEd--e4Yikx9W6Q">
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_K6iTQGhzEd--e4Yikx9W6Q" value="1"/>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_K6hsMGhzEd--e4Yikx9W6Q" value="1"/>
@@ -17225,6 +17266,19 @@ sino devuelve falso</body>
           <ownedParameter xmi:id="_KM7q-2hsEd-DOue_YMOOew" name="tour" type="_KM7q32hsEd-DOue_YMOOew" direction="return"/>
         </ownedOperation>
         <ownedOperation xmi:id="_KM7q_GhsEd-DOue_YMOOew" name="tieneReservasPendientes()"/>
+        <ownedOperation xmi:id="_Q3twYG4mEd-iF7wJZvrKSg" name="Tour">
+          <ownedParameter xmi:id="_SEmaQG4mEd-iF7wJZvrKSg" name="tour" type="_KM7q32hsEd-DOue_YMOOew" direction="return"/>
+          <ownedParameter xmi:id="_oiu0MG4mEd-iF7wJZvrKSg" name="nombreTour">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_VMk30G4mEd-iF7wJZvrKSg" name="descripcion">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_XnZ7gG4mEd-iF7wJZvrKSg" name="horaInicio" type="_BbYql2huEd-DOue_YMOOew"/>
+          <ownedParameter xmi:id="_gzQnEG4mEd-iF7wJZvrKSg" name="horaFin" type="_BbYql2huEd-DOue_YMOOew"/>
+          <ownedParameter xmi:id="_sHeGQG4mEd-iF7wJZvrKSg" name="precio"/>
+        </ownedOperation>
+        <ownedOperation xmi:id="_vywsQG4mEd-iF7wJZvrKSg" name="eliminaTour"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM7q_WhsEd-DOue_YMOOew" name="Visita">
         <eAnnotations xmi:id="_KM7q_mhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17233,12 +17287,8 @@ sino devuelve falso</body>
         <ownedAttribute xmi:id="_KM7rAGhsEd-DOue_YMOOew" name="descripción" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_KM7rAWhsEd-DOue_YMOOew" name="horaInicio" visibility="private">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_KM7rAmhsEd-DOue_YMOOew" name="horaFin" visibility="private">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-        </ownedAttribute>
+        <ownedAttribute xmi:id="_KM7rAWhsEd-DOue_YMOOew" name="horaInicio" visibility="private" type="_BbYql2huEd-DOue_YMOOew"/>
+        <ownedAttribute xmi:id="_KM7rAmhsEd-DOue_YMOOew" name="horaFin" visibility="private" type="_BbYql2huEd-DOue_YMOOew"/>
         <ownedAttribute xmi:id="_bQGzgGhzEd--e4Yikx9W6Q" name="tour" visibility="private" type="_KM7q32hsEd-DOue_YMOOew" association="_bQE-UGhzEd--e4Yikx9W6Q">
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_bQHakWhzEd--e4Yikx9W6Q" value="*"/>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_bQHakGhzEd--e4Yikx9W6Q" value="1"/>
@@ -17257,6 +17307,15 @@ sino devuelve falso</body>
         <ownedOperation xmi:id="_KM7rDmhsEd-DOue_YMOOew" name="anadirGuia">
           <ownedParameter xmi:id="_KM7rD2hsEd-DOue_YMOOew" name="guia" type="_QzKr0Gh5Ed-1L_waRTjuMg"/>
         </ownedOperation>
+        <ownedOperation xmi:id="_scuSoG4oEd-EbcQ8e08ROg" name="Visita">
+          <ownedParameter xmi:id="_tBho0G4oEd-EbcQ8e08ROg" name="visita" type="_KM7q_WhsEd-DOue_YMOOew" direction="return"/>
+          <ownedParameter xmi:id="_zwxvEG4oEd-EbcQ8e08ROg" name="descripcion">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_2QhH8G4oEd-EbcQ8e08ROg" name="horaInicio" type="_BbYql2huEd-DOue_YMOOew"/>
+          <ownedParameter xmi:id="_Cn7JgG4pEd-EbcQ8e08ROg" name="horaFin" type="_BbYql2huEd-DOue_YMOOew"/>
+        </ownedOperation>
+        <ownedOperation xmi:id="_GkXJ4G4pEd-EbcQ8e08ROg" name="eliminaVisita"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM7rEGhsEd-DOue_YMOOew" name="Plato">
         <eAnnotations xmi:id="_KM7rEWhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17279,6 +17338,19 @@ sino devuelve falso</body>
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_r_6OIWhyEd--e4Yikx9W6Q" value="1"/>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_r_6OIGhyEd--e4Yikx9W6Q" value="1"/>
         </ownedAttribute>
+        <ownedOperation xmi:id="_H2Z9YG4lEd-iF7wJZvrKSg" name="Plato">
+          <ownedParameter xmi:id="_IkADMG4lEd-iF7wJZvrKSg" name="plato" type="_KM7rEGhsEd-DOue_YMOOew"/>
+          <ownedParameter xmi:id="_LjesEG4lEd-iF7wJZvrKSg" name="descripcion">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_N1XPIG4lEd-iF7wJZvrKSg" name="nombre">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_PCZqAG4lEd-iF7wJZvrKSg" name="precio">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_Kiz5QG4lEd-iF7wJZvrKSg" name="eliminaPlato"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM7rHGhsEd-DOue_YMOOew" name="Descanso">
         <eAnnotations xmi:id="_KM7rHWhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17306,6 +17378,12 @@ sino devuelve falso</body>
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_KM7rKmhsEd-DOue_YMOOew" value="*"/>
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_KM7rK2hsEd-DOue_YMOOew"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_kch4AG4fEd-iF7wJZvrKSg" name="Descanso">
+          <ownedParameter xmi:id="_3amrkG4fEd-iF7wJZvrKSg" name="descanso" type="_KM7rHGhsEd-DOue_YMOOew" direction="return"/>
+          <ownedParameter xmi:id="_6-UC4G4fEd-iF7wJZvrKSg" name="tipo">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
         </ownedOperation>
       </packagedElement>
@@ -17338,6 +17416,13 @@ sino devuelve falso</body>
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
           </ownedParameter>
         </ownedOperation>
+        <ownedOperation xmi:id="_yUlv0G4mEd-iF7wJZvrKSg" name="Transporte">
+          <ownedParameter xmi:id="_y93WUG4mEd-iF7wJZvrKSg" name="transporte" type="_KM7rLGhsEd-DOue_YMOOew" direction="return"/>
+          <ownedParameter xmi:id="_AmCcMG4nEd-iF7wJZvrKSg" name="numeroVehiculos">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_O3oSgG4nEd-iF7wJZvrKSg" name="eliminaTransporte"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM7rPGhsEd-DOue_YMOOew" name="Vino">
         <eAnnotations xmi:id="_KM7rPWhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17346,7 +17431,7 @@ sino devuelve falso</body>
         <ownedAttribute xmi:id="_KM7rQmhsEd-DOue_YMOOew" name="nombre" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_KM7rQ2hsEd-DOue_YMOOew" name="año" visibility="private">
+        <ownedAttribute xmi:id="_KM7rQ2hsEd-DOue_YMOOew" name="ano" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
         </ownedAttribute>
         <ownedAttribute xmi:id="_KM7rRGhsEd-DOue_YMOOew" name="precio" visibility="private">
@@ -17356,6 +17441,19 @@ sino devuelve falso</body>
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_tMt_gWhyEd--e4Yikx9W6Q" value="1"/>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_tMt_gGhyEd--e4Yikx9W6Q" value="1"/>
         </ownedAttribute>
+        <ownedOperation xmi:id="_R1LowG4nEd-iF7wJZvrKSg" name="Vino">
+          <ownedParameter xmi:id="_SU64wG4nEd-iF7wJZvrKSg" name="vino" type="_KM7rPGhsEd-DOue_YMOOew" direction="return"/>
+          <ownedParameter xmi:id="_UsNDwG4oEd-EbcQ8e08ROg" name="ano">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_a4uQYG4oEd-EbcQ8e08ROg" name="nombre">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_d0LU4G4oEd-EbcQ8e08ROg" name="precio">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_qkK1kG4oEd-EbcQ8e08ROg" name="eliminaVino"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM7rRWhsEd-DOue_YMOOew" name="Oferta">
         <eAnnotations xmi:id="_KM7rRmhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17374,6 +17472,19 @@ sino devuelve falso</body>
         <ownedAttribute xmi:id="_ddT8AG2DEd-RhIpACeS0mQ" name="identificador" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
         </ownedAttribute>
+        <ownedOperation xmi:id="_455h0G4kEd-iF7wJZvrKSg" name="Oferta">
+          <ownedParameter xmi:id="_5fwA4G4kEd-iF7wJZvrKSg" name="oferta" type="_KM7rRWhsEd-DOue_YMOOew" direction="return"/>
+          <ownedParameter xmi:id="_8r5MwG4kEd-iF7wJZvrKSg" name="descripcion">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="__p4n4G4kEd-iF7wJZvrKSg" name="identificador">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_COZMAG4lEd-iF7wJZvrKSg" name="precio">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_EK9mYG4lEd-iF7wJZvrKSg" name="eliminaOferta"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM7rTWhsEd-DOue_YMOOew" name="Sala">
         <eAnnotations xmi:id="_KM7rTmhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17419,6 +17530,22 @@ sino devuelve falso</body>
           <ownedParameter xmi:id="_KM8Rp2hsEd-DOue_YMOOew" name="salaReservada" type="_KM7DumhsEd-DOue_YMOOew"/>
         </ownedOperation>
         <ownedOperation xmi:id="_KM8RqGhsEd-DOue_YMOOew" name="tieneReservasPendientes()"/>
+        <ownedOperation xmi:id="_woDK8G4lEd-iF7wJZvrKSg" name="Sala">
+          <ownedParameter xmi:id="_xAx0AG4lEd-iF7wJZvrKSg" name="sala" type="_KM7rTWhsEd-DOue_YMOOew" direction="return"/>
+          <ownedParameter xmi:id="_05yF4G4lEd-iF7wJZvrKSg" name="aforoMaximo">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_3DwqIG4lEd-iF7wJZvrKSg" name="numeroSala">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_5LqKwG4lEd-iF7wJZvrKSg" name="precioHora">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_7K6swG4lEd-iF7wJZvrKSg" name="prestaciones">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_J_0rgG4mEd-iF7wJZvrKSg" name="eliminaSala"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM8RqWhsEd-DOue_YMOOew" name="Ocio">
         <eAnnotations xmi:id="_KM8RqmhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17446,6 +17573,10 @@ sino devuelve falso</body>
         <ownedOperation xmi:id="_KM8RtmhsEd-DOue_YMOOew" name="anadirTour">
           <ownedParameter xmi:id="_KM8Rt2hsEd-DOue_YMOOew" name="infoTour" type="_QzHoi2h5Ed-1L_waRTjuMg"/>
         </ownedOperation>
+        <ownedOperation xmi:id="_tHJsgG4kEd-iF7wJZvrKSg" name="Ocio">
+          <ownedParameter xmi:id="_tmTGoG4kEd-iF7wJZvrKSg" name="ocio" type="_KM8RqWhsEd-DOue_YMOOew" direction="return"/>
+        </ownedOperation>
+        <ownedOperation xmi:id="_wsVqgG4kEd-iF7wJZvrKSg" name="eliminaOcio"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM8RuGhsEd-DOue_YMOOew" name="Mesa">
         <eAnnotations xmi:id="_KM8RuWhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17478,6 +17609,13 @@ sino devuelve falso</body>
           <ownedParameter xmi:id="_KM8RyWhsEd-DOue_YMOOew" name="mesaReservada" type="_KM7Dh2hsEd-DOue_YMOOew"/>
         </ownedOperation>
         <ownedOperation xmi:id="_KM8RymhsEd-DOue_YMOOew" name="tieneReservasPendientes()"/>
+        <ownedOperation xmi:id="_Z4vo0G4iEd-iF7wJZvrKSg" name="Mesa">
+          <ownedParameter xmi:id="_aXSmAG4iEd-iF7wJZvrKSg" name="mesa" type="_KM8RuGhsEd-DOue_YMOOew" direction="return"/>
+          <ownedParameter xmi:id="_c5bLkG4iEd-iF7wJZvrKSg" name="numeroMesa">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_pYJEIG4kEd-iF7wJZvrKSg" name="eliminaMesa"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM8Ry2hsEd-DOue_YMOOew" name="Bar">
         <eAnnotations xmi:id="_KM8RzGhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17499,6 +17637,7 @@ sino devuelve falso</body>
         <ownedOperation xmi:id="_KM8R2GhsEd-DOue_YMOOew" name="anadirOferta">
           <ownedParameter xmi:id="_KM8R2WhsEd-DOue_YMOOew" name="oferta" type="_KM7rRWhsEd-DOue_YMOOew"/>
         </ownedOperation>
+        <ownedOperation xmi:id="_dIqBwG4fEd-iF7wJZvrKSg" name="eliminaBar"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM8R2mhsEd-DOue_YMOOew" name="Guía">
         <eAnnotations xmi:id="_KM8R22hsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17514,6 +17653,16 @@ sino devuelve falso</body>
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_gNJVQGhzEd--e4Yikx9W6Q" value="*"/>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_gNIuMGhzEd--e4Yikx9W6Q"/>
         </ownedAttribute>
+        <ownedOperation xmi:id="_bvXeIG4gEd-iF7wJZvrKSg" name="Guia">
+          <ownedParameter xmi:id="_cXmi0G4gEd-iF7wJZvrKSg" name="guia" type="_KM8R2mhsEd-DOue_YMOOew" direction="return"/>
+          <ownedParameter xmi:id="_gedqgG4gEd-iF7wJZvrKSg" name="nombre">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_hiQp0G4gEd-iF7wJZvrKSg" name="telefonoContacto">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_4VjbcG4gEd-iF7wJZvrKSg" name="eliminaGuia"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM8R4mhsEd-DOue_YMOOew" name="Habitación">
         <eAnnotations xmi:id="_KM8R42hsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17558,6 +17707,25 @@ sino devuelve falso</body>
           <ownedParameter xmi:id="_KM8R92hsEd-DOue_YMOOew" name="habitacionReservada" type="_KM7DqGhsEd-DOue_YMOOew"/>
         </ownedOperation>
         <ownedOperation xmi:id="_KM8R-GhsEd-DOue_YMOOew" name="tieneReservasPendientes()"/>
+        <ownedOperation xmi:id="_6gbXkG4gEd-iF7wJZvrKSg" name="Habitacion">
+          <ownedParameter xmi:id="_7IhSUG4gEd-iF7wJZvrKSg" name="habitacion" type="_KM8R4mhsEd-DOue_YMOOew" direction="return"/>
+          <ownedParameter xmi:id="_H7f1kG4hEd-iF7wJZvrKSg" name="tipo">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_-FA4oG4gEd-iF7wJZvrKSg" name="numeroHabitacion">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_BIOK8G4hEd-iF7wJZvrKSg" name="planta">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_CsqZMG4hEd-iF7wJZvrKSg" name="precioNoche">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_ELIiUG4hEd-iF7wJZvrKSg" name="prestaciones">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_LOMVYG4hEd-iF7wJZvrKSg" name="eliminaHabitacion"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM8R-WhsEd-DOue_YMOOew" name="Grupo">
         <eAnnotations xmi:id="_KM8R-mhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17584,6 +17752,17 @@ sino devuelve falso</body>
           <ownedParameter xmi:id="_KM8SBmhsEd-DOue_YMOOew" name="tourReservado" type="_KM6c-GhsEd-DOue_YMOOew"/>
         </ownedOperation>
         <ownedOperation xmi:id="_KM8SB2hsEd-DOue_YMOOew" name="tieneReservasPendientes()"/>
+        <ownedOperation xmi:id="_KWAloG4gEd-iF7wJZvrKSg" name="Grupo">
+          <ownedParameter xmi:id="_LB-TwG4gEd-iF7wJZvrKSg" name="grupo" type="_KM8R-WhsEd-DOue_YMOOew" direction="return"/>
+          <ownedParameter xmi:id="_VPcNUG4gEd-iF7wJZvrKSg" name="tour" type="_KM7q32hsEd-DOue_YMOOew"/>
+          <ownedParameter xmi:id="_MsFFIG4gEd-iF7wJZvrKSg" name="numeroGrupo">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_O7SusG4gEd-iF7wJZvrKSg" name="tipo">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_aQlL8G4gEd-iF7wJZvrKSg" name="eliminaGrupo"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM8SCGhsEd-DOue_YMOOew" name="Asiento">
         <eAnnotations xmi:id="_KM8SCWhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17652,7 +17831,9 @@ sino devuelve falso</body>
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_tMv0sGhyEd--e4Yikx9W6Q" value="*"/>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_tMvNoGhyEd--e4Yikx9W6Q"/>
         </ownedAttribute>
-        <ownedOperation xmi:id="_KM8SKmhsEd-DOue_YMOOew" name="Restaurante"/>
+        <ownedOperation xmi:id="_KM8SKmhsEd-DOue_YMOOew" name="Restaurante">
+          <ownedParameter xmi:id="_mjkOQG4lEd-iF7wJZvrKSg" name="restaurante" type="_KM8SHWhsEd-DOue_YMOOew" direction="return"/>
+        </ownedOperation>
         <ownedOperation xmi:id="_KM8SK2hsEd-DOue_YMOOew" name="obtenInfo"/>
         <ownedOperation xmi:id="_KM8SLGhsEd-DOue_YMOOew" name="anadirMenu">
           <ownedParameter xmi:id="_KM8SLWhsEd-DOue_YMOOew" name="menu" type="_QzKr0Gh5Ed-1L_waRTjuMg"/>
@@ -17678,6 +17859,7 @@ sino devuelve falso</body>
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
         </ownedOperation>
+        <ownedOperation xmi:id="_rGJBkG4lEd-iF7wJZvrKSg" name="eliminaRestaurante"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM8SOGhsEd-DOue_YMOOew" name="Lugar">
         <eAnnotations xmi:id="_KM8SOWhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17696,6 +17878,19 @@ sino devuelve falso</body>
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iqHuAmhzEd--e4Yikx9W6Q" value="*"/>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_iqHuAWhzEd--e4Yikx9W6Q"/>
         </ownedAttribute>
+        <ownedOperation xmi:id="_t3wxcG4hEd-iF7wJZvrKSg" name="Lugar">
+          <ownedParameter xmi:id="_xtPOMG4hEd-iF7wJZvrKSg" name="Lugar" type="_KM8SOGhsEd-DOue_YMOOew" direction="return"/>
+          <ownedParameter xmi:id="_1W8f0G4hEd-iF7wJZvrKSg" name="localizacion">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_4FCdwG4hEd-iF7wJZvrKSg" name="nombre">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_5PQ1MG4hEd-iF7wJZvrKSg" name="precio">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_8aaikG4hEd-iF7wJZvrKSg" name="eliminaLugar"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_KM8SUGhsEd-DOue_YMOOew" name="GeneradorPacks">
         <eAnnotations xmi:id="_KM8SUWhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17708,6 +17903,10 @@ sino devuelve falso</body>
           </ownedParameter>
           <ownedParameter xmi:id="_AZL_AGySEd-_9-SwQ5-rmw" name="condiciones" type="_KM7EEmhsEd-DOue_YMOOew"/>
         </ownedOperation>
+        <ownedOperation xmi:id="_Ciov8G4gEd-iF7wJZvrKSg" name="GeneradorPacks">
+          <ownedParameter xmi:id="_DpH24G4gEd-iF7wJZvrKSg" name="generadorPacks" type="_KM8SUGhsEd-DOue_YMOOew" direction="return"/>
+        </ownedOperation>
+        <ownedOperation xmi:id="_HivMwG4gEd-iF7wJZvrKSg" name="eliminaGeneradorPacks"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_l_zNMGhvEd-DOue_YMOOew" name="Comentario">
         <eAnnotations xmi:id="_tYXWMGhvEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -17725,6 +17924,18 @@ sino devuelve falso</body>
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_0yK1UGhvEd-DOue_YMOOew" value="1"/>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_0yKOQWhvEd-DOue_YMOOew" value="1"/>
         </ownedAttribute>
+        <ownedOperation xmi:id="_erBzcG4fEd-iF7wJZvrKSg" name="Comentario">
+          <ownedParameter xmi:id="_g4LngG4fEd-iF7wJZvrKSg" name="comentario" type="_l_zNMGhvEd-DOue_YMOOew" direction="return"/>
+          <ownedParameter xmi:id="_nP-3EG4fEd-iF7wJZvrKSg" name="desripcion">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_suGsoG4fEd-iF7wJZvrKSg" name="dniCliente">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_x1GboG4fEd-iF7wJZvrKSg" name="fecha" type="_BbYqhGhuEd-DOue_YMOOew"/>
+          <ownedParameter xmi:id="_0l_O4G4fEd-iF7wJZvrKSg" name="hora" type="_BbYql2huEd-DOue_YMOOew"/>
+        </ownedOperation>
+        <ownedOperation xmi:id="_fsBWYG4fEd-iF7wJZvrKSg" name="eliminaComentario"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Association" xmi:id="_0yHyAGhvEd-DOue_YMOOew" memberEnd="_0yJAIGhvEd-DOue_YMOOew _0yKOQGhvEd-DOue_YMOOew"/>
       <packagedElement xmi:type="uml:Association" xmi:id="_nHPPAGhyEd--e4Yikx9W6Q" memberEnd="_nHSSUGhyEd--e4Yikx9W6Q _nHVVoGhyEd--e4Yikx9W6Q"/>
