@@ -3176,7 +3176,7 @@
           </ownedAttribute>
           <ownedOperation xmi:id="_X2xWk2d-Ed-wdYDqL5v8Ow" name="Cliente"/>
           <ownedOperation xmi:id="_X2xWmWd-Ed-wdYDqL5v8Ow" name="obtenPassword"/>
-          <ownedOperation xmi:id="_X2xWm2d-Ed-wdYDqL5v8Ow" name="modificaPassword"/>
+          <ownedOperation xmi:id="_X2xWm2d-Ed-wdYDqL5v8Ow" name="ponPassword"/>
           <ownedOperation xmi:id="_X2xWnWd-Ed-wdYDqL5v8Ow" name="obtenDni"/>
           <ownedOperation xmi:id="_X2xWn2d-Ed-wdYDqL5v8Ow" name="bajaReserva"/>
           <ownedOperation xmi:id="_X2xWoWd-Ed-wdYDqL5v8Ow" name="registraPagoReserva"/>
@@ -3188,7 +3188,6 @@
           <ownedOperation xmi:id="_pzON4G41Ed-sVMtA4RT7sg" name="obtenApellidos"/>
           <ownedOperation xmi:id="_51wdYG41Ed-sVMtA4RT7sg" name="ponNombre"/>
           <ownedOperation xmi:id="_-dQM8G41Ed-sVMtA4RT7sg" name="ponApellidos"/>
-          <ownedOperation xmi:id="__YQcoG41Ed-sVMtA4RT7sg" name="ponPassword"/>
         </packagedElement>
         <packagedElement xmi:type="uml:Association" xmi:id="_RJIUYGgvEd-mdNn_ROZODw" memberEnd="_RJI7cGgvEd-mdNn_ROZODw _RJKwoGgvEd-mdNn_ROZODw">
           <ownedEnd xmi:id="_RJKwoGgvEd-mdNn_ROZODw" name="cliente" visibility="private" type="_X2xWiGd-Ed-wdYDqL5v8Ow" association="_RJIUYGgvEd-mdNn_ROZODw">
@@ -3233,18 +3232,13 @@
           <ownedOperation xmi:id="_X2xWxWd-Ed-wdYDqL5v8Ow" name="eliminaProveedor"/>
           <ownedOperation xmi:id="_X2xWxmd-Ed-wdYDqL5v8Ow" name="bajaServicio"/>
           <ownedOperation xmi:id="_X2xWyGd-Ed-wdYDqL5v8Ow" name="obtenPassword"/>
-          <ownedOperation xmi:id="_X2xWymd-Ed-wdYDqL5v8Ow" name="modificaPassword"/>
           <ownedOperation xmi:id="_X2xWzGd-Ed-wdYDqL5v8Ow" name="obtenNif"/>
           <ownedOperation xmi:id="_X2xWzmd-Ed-wdYDqL5v8Ow" name="obtenNombre"/>
           <ownedOperation xmi:id="_X2xW0Gd-Ed-wdYDqL5v8Ow" name="obtenTelefono"/>
-          <ownedOperation xmi:id="_X2xW0md-Ed-wdYDqL5v8Ow" name="modificaTelefono"/>
           <ownedOperation xmi:id="_X2xW1Gd-Ed-wdYDqL5v8Ow" name="obtenDireccion"/>
-          <ownedOperation xmi:id="_X2xW1md-Ed-wdYDqL5v8Ow" name="modificaDireccion"/>
           <ownedOperation xmi:id="_X2xW2Gd-Ed-wdYDqL5v8Ow" name="estaActivo"/>
           <ownedOperation xmi:id="_X2xW2md-Ed-wdYDqL5v8Ow" name="desactiva"/>
           <ownedOperation xmi:id="_X2xW22d-Ed-wdYDqL5v8Ow" name="anadirInfo"/>
-          <ownedOperation xmi:id="_X2xW3Wd-Ed-wdYDqL5v8Ow" name="obten"/>
-          <ownedOperation xmi:id="_X2xW4Gd-Ed-wdYDqL5v8Ow" name="existeProveedor"/>
           <ownedOperation xmi:id="_X2xW4md-Ed-wdYDqL5v8Ow" name="loginCorrecto"/>
           <ownedOperation xmi:id="_DWnvoG42Ed-sVMtA4RT7sg" name="ponNombre"/>
           <ownedOperation xmi:id="_FqTCcG42Ed-sVMtA4RT7sg" name="ponTelefono"/>
@@ -3423,22 +3417,13 @@
           <ownedOperation xmi:id="_X2x9vWd-Ed-wdYDqL5v8Ow" name="eliminaReserva"/>
           <ownedOperation xmi:id="_X2x9vmd-Ed-wdYDqL5v8Ow" name="estaPagada"/>
           <ownedOperation xmi:id="_X2x9wGd-Ed-wdYDqL5v8Ow" name="obtenID"/>
-          <ownedOperation xmi:id="_X2x9wmd-Ed-wdYDqL5v8Ow" name="getPaga"/>
-          <ownedOperation xmi:id="_X2x9xGd-Ed-wdYDqL5v8Ow" name="getPrecio"/>
           <ownedOperation xmi:id="_X2x9xmd-Ed-wdYDqL5v8Ow" name="incrementaPaga"/>
           <ownedOperation xmi:id="_X2x9yGd-Ed-wdYDqL5v8Ow" name="anadeAsientoReservado"/>
           <ownedOperation xmi:id="_X2x9ymd-Ed-wdYDqL5v8Ow" name="anadeSalaReservada"/>
           <ownedOperation xmi:id="_X2x9zGd-Ed-wdYDqL5v8Ow" name="anadeTourReservado"/>
           <ownedOperation xmi:id="_X2x9zmd-Ed-wdYDqL5v8Ow" name="anadeMesaReservada"/>
           <ownedOperation xmi:id="_X2x90Gd-Ed-wdYDqL5v8Ow" name="anadeHabitacionReservada"/>
-          <ownedOperation xmi:id="_X2x90md-Ed-wdYDqL5v8Ow" name="bajaAsientoReservado"/>
-          <ownedOperation xmi:id="_X2x902d-Ed-wdYDqL5v8Ow" name="bajaSalaReservada"/>
-          <ownedOperation xmi:id="_X2x91Gd-Ed-wdYDqL5v8Ow" name="bajaTourReservado"/>
-          <ownedOperation xmi:id="_X2x91Wd-Ed-wdYDqL5v8Ow" name="bajaMesaReservada"/>
-          <ownedOperation xmi:id="_X2x91md-Ed-wdYDqL5v8Ow" name="bajaHabitacionReservada"/>
           <ownedOperation xmi:id="_X2x912d-Ed-wdYDqL5v8Ow" name="registraPagoReserva"/>
-          <ownedOperation xmi:id="_r_xIgG42Ed-sVMtA4RT7sg" name="ponId"/>
-          <ownedOperation xmi:id="_tEUVwG42Ed-sVMtA4RT7sg" name="ponPaga"/>
           <ownedOperation xmi:id="_uN7CIG42Ed-sVMtA4RT7sg" name="ponPrecio"/>
         </packagedElement>
         <packagedElement xmi:type="uml:Association" xmi:id="_9huagGgvEd-mdNn_ROZODw" memberEnd="_9hvooGgvEd-mdNn_ROZODw _9hxd0GgvEd-mdNn_ROZODw">
@@ -3605,6 +3590,7 @@
           <ownedOperation xmi:id="_2BtUIG1dEd-yle_ekQci0w" name="eliminaLocalDeReunion"/>
           <ownedOperation xmi:id="_3IhwMG43Ed-sVMtA4RT7sg" name="obtenNumeroSalas"/>
           <ownedOperation xmi:id="_5_NpcG43Ed-sVMtA4RT7sg" name="ponNumeroSalas"/>
+          <ownedOperation xmi:id="_ssXfEG5SEd-fc96Zk-o1cA" name="quitaSala"/>
         </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_X2x-UWd-Ed-wdYDqL5v8Ow" name="Tour">
           <ownedAttribute xmi:id="_X2x-Umd-Ed-wdYDqL5v8Ow" name="nombreTour" visibility="private">
@@ -3667,12 +3653,8 @@
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Vuzw8WgtEd-mdNn_ROZODw" value="1"/>
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Vuzw8GgtEd-mdNn_ROZODw" value="1"/>
           </ownedAttribute>
-          <ownedOperation xmi:id="_X2ykumd-Ed-wdYDqL5v8Ow" name="anadirLugar"/>
-          <ownedOperation xmi:id="_X2ykvGd-Ed-wdYDqL5v8Ow" name="anadirGuia"/>
           <ownedOperation xmi:id="_Xgr6cG1gEd-yle_ekQci0w" name="Visita"/>
           <ownedOperation xmi:id="_YWVJAG1gEd-yle_ekQci0w" name="eliminaVisita"/>
-          <ownedOperation xmi:id="_e1BqwG1gEd-yle_ekQci0w" name="quitaGuia"/>
-          <ownedOperation xmi:id="_gPxxgG1gEd-yle_ekQci0w" name="quitaLugar"/>
           <ownedOperation xmi:id="_LSExAG47Ed-sVMtA4RT7sg" name="obtenDescripcion"/>
           <ownedOperation xmi:id="_Mb11cG47Ed-sVMtA4RT7sg" name="obtenHoraInicio"/>
           <ownedOperation xmi:id="_NdjKEG47Ed-sVMtA4RT7sg" name="obtenHoraFin"/>
@@ -3710,6 +3692,8 @@
           <ownedOperation xmi:id="_XTmBAG1dEd-yle_ekQci0w" name="eliminaDescanso"/>
           <ownedOperation xmi:id="_I_Q9sG43Ed-sVMtA4RT7sg" name="obtenTipo"/>
           <ownedOperation xmi:id="_J_o1kG43Ed-sVMtA4RT7sg" name="ponTipo"/>
+          <ownedOperation xmi:id="_AdxCcG5SEd-fc96Zk-o1cA" name="anadeHabitacion"/>
+          <ownedOperation xmi:id="_q5oWIG5SEd-fc96Zk-o1cA" name="quitaHabitacion"/>
         </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_X2yk1md-Ed-wdYDqL5v8Ow" name="Transporte">
           <generalization xmi:id="_X2yk2Gd-Ed-wdYDqL5v8Ow" general="_X2x-A2d-Ed-wdYDqL5v8Ow"/>
@@ -3724,7 +3708,7 @@
           <ownedOperation xmi:id="_X2yk32d-Ed-wdYDqL5v8Ow" name="consultaDisponibilidad"/>
           <ownedOperation xmi:id="_LTHxYG1gEd-yle_ekQci0w" name="Transporte"/>
           <ownedOperation xmi:id="_MccJ4G1gEd-yle_ekQci0w" name="eliminaTransporte"/>
-          <ownedOperation xmi:id="_Scb9cG1gEd-yle_ekQci0w" name="bajaAsiento"/>
+          <ownedOperation xmi:id="_Scb9cG1gEd-yle_ekQci0w" name="quitaAsiento"/>
           <ownedOperation xmi:id="_YftFYG46Ed-sVMtA4RT7sg" name="obtenNumVehiculos"/>
           <ownedOperation xmi:id="_ZiUY8G46Ed-sVMtA4RT7sg" name="ponNumVehiculos"/>
         </packagedElement>
@@ -3774,7 +3758,7 @@
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_x-H70WgsEd-mdNn_ROZODw" value="1"/>
           </ownedAttribute>
           <ownedOperation xmi:id="_X2yk-Gd-Ed-wdYDqL5v8Ow" name="anadirMesa"/>
-          <ownedOperation xmi:id="_X2yk-md-Ed-wdYDqL5v8Ow" name="eliminarMesa"/>
+          <ownedOperation xmi:id="_X2yk-md-Ed-wdYDqL5v8Ow" name="quitaMesa"/>
           <ownedOperation xmi:id="_X2yk-2d-Ed-wdYDqL5v8Ow" name="consultaDisponibilidad"/>
           <ownedOperation xmi:id="_Ia5cgG1fEd-yle_ekQci0w" name="Restauracion"/>
           <ownedOperation xmi:id="_KOikYG1fEd-yle_ekQci0w" name="eliminaRestauracion"/>
@@ -3803,7 +3787,6 @@
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_WAVecGgwEd-mdNn_ROZODw"/>
           </ownedAttribute>
           <ownedOperation xmi:id="_X2ylC2d-Ed-wdYDqL5v8Ow" name="quitaSalaReservada"/>
-          <ownedOperation xmi:id="_X2ylDGd-Ed-wdYDqL5v8Ow" name="obten"/>
           <ownedOperation xmi:id="_X2ylDWd-Ed-wdYDqL5v8Ow" name="anadeSalaReservada"/>
           <ownedOperation xmi:id="_XmwisG1fEd-yle_ekQci0w" name="Sala"/>
           <ownedOperation xmi:id="_YbqKYG1fEd-yle_ekQci0w" name="eliminaSala"/>
@@ -3826,6 +3809,7 @@
           <ownedOperation xmi:id="_rvC8EG1eEd-yle_ekQci0w" name="bajaTour"/>
           <ownedOperation xmi:id="_ysmkEG1eEd-yle_ekQci0w" name="Ocio"/>
           <ownedOperation xmi:id="_zXOOYG1eEd-yle_ekQci0w" name="eliminaOcio"/>
+          <ownedOperation xmi:id="_uSJKEG5SEd-fc96Zk-o1cA" name="quitaTour"/>
         </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_X2ylG2d-Ed-wdYDqL5v8Ow" name="Mesa">
           <ownedAttribute xmi:id="_X2ylH2d-Ed-wdYDqL5v8Ow" name="numMesa" visibility="private">
@@ -11655,8 +11639,8 @@
         <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_V8J8wGemEd-CrNngbbZX2g" name="Eventodeoperacióndeenvío6" operation="_X2zLtWd-Ed-wdYDqL5v8Ow"/>
         <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_W8kQ4GemEd-CrNngbbZX2g" name="Eventodeoperaciónderecepción4" operation="_X2x9zGd-Ed-wdYDqL5v8Ow"/>
         <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_Xas-YGemEd-CrNngbbZX2g" name="Eventodeoperacióndeenvío7" operation="_X2x9zGd-Ed-wdYDqL5v8Ow"/>
-        <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_k_GXgGemEd-CrNngbbZX2g" name="Eventodeoperaciónderecepción5" operation="_X2ylDGd-Ed-wdYDqL5v8Ow"/>
-        <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_lK0fUGemEd-CrNngbbZX2g" name="Eventodeoperacióndeenvío8" operation="_X2ylDGd-Ed-wdYDqL5v8Ow"/>
+        <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_k_GXgGemEd-CrNngbbZX2g" name="Eventodeoperaciónderecepción5"/>
+        <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_lK0fUGemEd-CrNngbbZX2g" name="Eventodeoperacióndeenvío8"/>
         <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_n2QK0WemEd-CrNngbbZX2g" name="Eventodeoperacióndeenvío9"/>
         <packagedElement xmi:type="uml:CreationEvent" xmi:id="_n2Qx4WemEd-CrNngbbZX2g" name="Eventodecreación3"/>
         <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_tp-c8WemEd-CrNngbbZX2g" name="Eventodeoperaciónderecepción6" operation="_X2ylDWd-Ed-wdYDqL5v8Ow"/>
