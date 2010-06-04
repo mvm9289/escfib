@@ -9704,19 +9704,6 @@ presentación le pasa a Dominio.</body>
                     <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_KJbElWhsEd-DOue_YMOOew" fontName="Segoe UI" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KJbElmhsEd-DOue_YMOOew" x="29277" y="4828" height="1163"/>
                   </children>
-                  <children xmi:id="_kGIdQGyKEd-_9-SwQ5-rmw" type="Note">
-                    <children xmi:id="_kGIdRWyKEd-_9-SwQ5-rmw" type="DiagramName">
-                      <element xsi:nil="true"/>
-                    </children>
-                    <children xmi:id="_kGIdRmyKEd-_9-SwQ5-rmw" type="Description">
-                      <element xsi:nil="true"/>
-                    </children>
-                    <styles xmi:type="notation:ShapeStyle" xmi:id="_kGIdQWyKEd-_9-SwQ5-rmw" description="no se esta dando de baja todo aquello que cuelga de servicio (menus, etc.)" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
-                    <styles xmi:type="notation:TextStyle" xmi:id="_kGIdQmyKEd-_9-SwQ5-rmw"/>
-                    <styles xmi:type="notation:LineTypeStyle" xmi:id="_kGIdQ2yKEd-_9-SwQ5-rmw"/>
-                    <element xsi:nil="true"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kGIdRGyKEd-_9-SwQ5-rmw" x="34422" y="21722" width="5529" height="1560"/>
-                  </children>
                   <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_KJbEl2hsEd-DOue_YMOOew"/>
                 </children>
                 <children xmi:id="_KJbEmGhsEd-DOue_YMOOew" type="Name"/>
@@ -10038,18 +10025,18 @@ presentación le pasa a Dominio.</body>
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_KJdgcWhsEd-DOue_YMOOew" name="Eventodeoperaciónderecepción11"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJdgcmhsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío12"/>
       <packagedElement xmi:type="uml:DestructionEvent" xmi:id="_KJdgc2hsEd-DOue_YMOOew" name="Eventodedestrucción1"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJdgdGhsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío13" operation="_KM8RymhsEd-DOue_YMOOew"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_KJdgdWhsEd-DOue_YMOOew" name="Eventodeoperaciónderecepción12" operation="_KM8RymhsEd-DOue_YMOOew"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJdgdmhsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío14" operation="_KM8R-GhsEd-DOue_YMOOew"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_KJdgd2hsEd-DOue_YMOOew" name="Eventodeoperaciónderecepción13" operation="_KM8R-GhsEd-DOue_YMOOew"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJdgeGhsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío15" operation="_KM7q_GhsEd-DOue_YMOOew"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_KJdgeWhsEd-DOue_YMOOew" name="Eventodeoperaciónderecepción14" operation="_KM7q_GhsEd-DOue_YMOOew"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJdgemhsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío16" operation="_KM8SB2hsEd-DOue_YMOOew"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_KJdge2hsEd-DOue_YMOOew" name="Eventodeoperaciónderecepción15" operation="_KM8SB2hsEd-DOue_YMOOew"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJdgfGhsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío17" operation="_KM8SHGhsEd-DOue_YMOOew"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_KJdgfWhsEd-DOue_YMOOew" name="Eventodeoperaciónderecepción16" operation="_KM8SHGhsEd-DOue_YMOOew"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJdgfmhsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío18" operation="_KM8RqGhsEd-DOue_YMOOew"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_KJdgf2hsEd-DOue_YMOOew" name="Eventodeoperaciónderecepción17" operation="_KM8RqGhsEd-DOue_YMOOew"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJdgdGhsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío13"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_KJdgdWhsEd-DOue_YMOOew" name="Eventodeoperaciónderecepción12"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJdgdmhsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío14"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_KJdgd2hsEd-DOue_YMOOew" name="Eventodeoperaciónderecepción13"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJdgeGhsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío15"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_KJdgeWhsEd-DOue_YMOOew" name="Eventodeoperaciónderecepción14"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJdgemhsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío16"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_KJdge2hsEd-DOue_YMOOew" name="Eventodeoperaciónderecepción15"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJdgfGhsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío17"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_KJdgfWhsEd-DOue_YMOOew" name="Eventodeoperaciónderecepción16"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_KJdgfmhsEd-DOue_YMOOew" name="Eventodeoperacióndeenvío18"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_KJdgf2hsEd-DOue_YMOOew" name="Eventodeoperaciónderecepción17"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_juN3IG44Ed-EbcQ8e08ROg" name="Eventodeoperacióndeenvío19" operation="_KM6cv2hsEd-DOue_YMOOew"/>
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_juN3IW44Ed-EbcQ8e08ROg" name="Eventodeoperaciónderecepción18" operation="_KM6cv2hsEd-DOue_YMOOew"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_k7jM8G44Ed-EbcQ8e08ROg" name="Eventodeoperacióndeenvío20" operation="_KM6c0GhsEd-DOue_YMOOew"/>
@@ -11141,7 +11128,7 @@ presentación le pasa a Dominio.</body>
                     <children xmi:id="_KJeuEmhsEd-DOue_YMOOew" type="Name"/>
                     <children xmi:id="_KJeuE2hsEd-DOue_YMOOew" type="Parent"/>
                     <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_KJeuFGhsEd-DOue_YMOOew" fontName="Segoe UI" showStereotype="Label"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KJeuFWhsEd-DOue_YMOOew" x="3963" y="132" width="4524" height="77679"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KJeuFWhsEd-DOue_YMOOew" x="3963" y="132" width="4524" height="69111"/>
                   </children>
                   <children xmi:id="_KJeuFmhsEd-DOue_YMOOew" element="_KJgjQ2hsEd-DOue_YMOOew">
                     <eAnnotations xmi:id="_KJeuF2hsEd-DOue_YMOOew" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
@@ -11225,7 +11212,7 @@ presentación le pasa a Dominio.</body>
                   </children>
                   <children xmi:id="_KJeuVmhsEd-DOue_YMOOew" element="_KJgjWGhsEd-DOue_YMOOew">
                     <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_KJeuV2hsEd-DOue_YMOOew" fontName="Segoe UI" showStereotype="Label"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KJeuWGhsEd-DOue_YMOOew" x="-1" y="1269" height="608"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KJeuWGhsEd-DOue_YMOOew" x="-1" y="1269" height="1852"/>
                   </children>
                   <children xmi:id="_KJeuWWhsEd-DOue_YMOOew" element="_KJgjW2hsEd-DOue_YMOOew">
                     <children xmi:id="_KJeuWmhsEd-DOue_YMOOew" element="_KJgjXGhsEd-DOue_YMOOew">
@@ -11537,11 +11524,23 @@ presentación le pasa a Dominio.</body>
                     <children xmi:id="_KJfVL2hsEd-DOue_YMOOew" type="Name"/>
                     <children xmi:id="_KJfVMGhsEd-DOue_YMOOew" type="Parent"/>
                     <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_KJfVMWhsEd-DOue_YMOOew" fontName="Segoe UI" showStereotype="Label"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KJfVMmhsEd-DOue_YMOOew" x="264" y="37187"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KJfVMmhsEd-DOue_YMOOew" x="370" y="132" width="4127" height="71751"/>
                   </children>
                   <children xmi:id="_Gzrk8GyMEd-_9-SwQ5-rmw" element="_GzYC8WyMEd-_9-SwQ5-rmw">
                     <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_Gzrk8WyMEd-_9-SwQ5-rmw" showStereotype="Label"/>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Gzrk8myMEd-_9-SwQ5-rmw" x="-1" y="185"/>
+                  </children>
+                  <children xmi:id="_ZflHsG_fEd-FFcdV3Q2EXw" element="_ZfgPMG_fEd-FFcdV3Q2EXw">
+                    <eAnnotations xmi:id="_ZfmV0G_fEd-FFcdV3Q2EXw" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_Zfm84G_fEd-FFcdV3Q2EXw" key="ImageModeStyle" value="true"/>
+                    </eAnnotations>
+                    <children xmi:id="_Zfnj8G_fEd-FFcdV3Q2EXw" type="ImageCompartment">
+                      <layoutConstraint xmi:type="notation:Size" xmi:id="_Zfnj8W_fEd-FFcdV3Q2EXw" width="1320" height="1320"/>
+                    </children>
+                    <children xmi:id="_ZfoLAG_fEd-FFcdV3Q2EXw" type="Stereotype"/>
+                    <children xmi:id="_ZfoLAW_fEd-FFcdV3Q2EXw" type="CommentBody"/>
+                    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_ZflHsW_fEd-FFcdV3Q2EXw" fontName="Segoe UI" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZflHsm_fEd-FFcdV3Q2EXw" x="32049" y="71224"/>
                   </children>
                   <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_KJfVM2hsEd-DOue_YMOOew"/>
                 </children>
@@ -11613,7 +11612,7 @@ presentación le pasa a Dominio.</body>
                 </children>
                 <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_KJfVamhsEd-DOue_YMOOew" fontName="Segoe UI" showStereotype="Text"/>
                 <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_KJfVa2hsEd-DOue_YMOOew" points="[0, 0, 282, 0]$[-282, 0, 0, 0]"/>
-                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_KJfVbGhsEd-DOue_YMOOew" id="278:608"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_KJfVbGhsEd-DOue_YMOOew" id="278:1852"/>
                 <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_KJfVbWhsEd-DOue_YMOOew" id="6928:0"/>
               </edges>
               <edges xmi:id="_KJfVbmhsEd-DOue_YMOOew" element="_KJhKyWhsEd-DOue_YMOOew" source="_KJfVK2hsEd-DOue_YMOOew" target="_KJeuDmhsEd-DOue_YMOOew">
@@ -11937,7 +11936,7 @@ presentación le pasa a Dominio.</body>
                 </children>
                 <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_RXGaEW4xEd-EbcQ8e08ROg" showListSignature="true" showStereotype="Text"/>
                 <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_RXGaEm4xEd-EbcQ8e08ROg" points="[0, 0, -359, 0]$[359, 0, 0, 0]"/>
-                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_RXGaF24xEd-EbcQ8e08ROg" id="2031:1693"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_RXGaF24xEd-EbcQ8e08ROg" id="2031:1270"/>
                 <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_RXGaGG4xEd-EbcQ8e08ROg" id="2205:0"/>
               </edges>
               <edges xmi:id="_3SpkQG4xEd-EbcQ8e08ROg" element="_3RwMYG4xEd-EbcQ8e08ROg" source="_KJeuDmhsEd-DOue_YMOOew" target="_KJfVF2hsEd-DOue_YMOOew">
@@ -11961,6 +11960,13 @@ presentación le pasa a Dominio.</body>
                 <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_PuiEUm4yEd-EbcQ8e08ROg" points="[0, 0, -369, 0]$[369, 0, 0, 0]"/>
                 <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_PuiEV24yEd-EbcQ8e08ROg" id="2454:1191"/>
                 <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_PuiEWG4yEd-EbcQ8e08ROg" id="2526:0"/>
+              </edges>
+              <edges xmi:id="_ZgIhUG_fEd-FFcdV3Q2EXw" type="Reference" source="_ZflHsG_fEd-FFcdV3Q2EXw" target="_KJeuVmhsEd-DOue_YMOOew">
+                <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_ZgIhUW_fEd-FFcdV3Q2EXw" fontName="Segoe UI" showStereotype="Text"/>
+                <element xsi:nil="true"/>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ZgIhUm_fEd-FFcdV3Q2EXw" points="[0, -27, 979, 1216]$[0, -1243, 979, 0]$[-941, -1243, 38, 0]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6WxAIG_fEd-FFcdV3Q2EXw" id="(0.09463807,0.018906144)"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_o48eYG_fEd-FFcdV3Q2EXw" id="(0.8566038,0.9945872)"/>
               </edges>
             </contents>
           </eAnnotations>
@@ -12035,7 +12041,13 @@ presentación le pasa a Dominio.</body>
           <lifeline xmi:id="_KJgjPmhsEd-DOue_YMOOew" name="pantallaAnularReserva" represents="_KJhK82hsEd-DOue_YMOOew" coveredBy="_KJgjTmhsEd-DOue_YMOOew _KJhKwmhsEd-DOue_YMOOew _RV6HQG4xEd-EbcQ8e08ROg _PtVxgW4yEd-EbcQ8e08ROg"/>
           <lifeline xmi:id="_KJgjP2hsEd-DOue_YMOOew" name="controladorAnularReserva" represents="_KJhK9GhsEd-DOue_YMOOew" coveredBy="_KJgjT2hsEd-DOue_YMOOew _KJgjUGhsEd-DOue_YMOOew _KJhKwWhsEd-DOue_YMOOew _KJgjUWhsEd-DOue_YMOOew _KJgjVWhsEd-DOue_YMOOew _KJgjVmhsEd-DOue_YMOOew _KJhKwGhsEd-DOue_YMOOew _RV6HQm4xEd-EbcQ8e08ROg _PtVxg24yEd-EbcQ8e08ROg"/>
           <lifeline xmi:id="_KJgjQGhsEd-DOue_YMOOew" name="cliente" represents="_KJhK9WhsEd-DOue_YMOOew" coveredBy="_KJgjUmhsEd-DOue_YMOOew _KJgjU2hsEd-DOue_YMOOew _KJgjVGhsEd-DOue_YMOOew"/>
-          <lifeline xmi:id="_KJgjQWhsEd-DOue_YMOOew" name="cliente2" represents="_KJhLA2hsEd-DOue_YMOOew" coveredBy="_KJgjW2hsEd-DOue_YMOOew _KJgjWGhsEd-DOue_YMOOew _KJgjV2hsEd-DOue_YMOOew _KJhKv2hsEd-DOue_YMOOew _KJgjYWhsEd-DOue_YMOOew _KJhKMWhsEd-DOue_YMOOew _KJhKMmhsEd-DOue_YMOOew _KJhKNmhsEd-DOue_YMOOew _KJhKOmhsEd-DOue_YMOOew _KJhKvGhsEd-DOue_YMOOew"/>
+          <lifeline xmi:id="_KJgjQWhsEd-DOue_YMOOew" name="cliente2" represents="_KJhLA2hsEd-DOue_YMOOew" coveredBy="_KJgjW2hsEd-DOue_YMOOew _KJgjWGhsEd-DOue_YMOOew _KJgjV2hsEd-DOue_YMOOew _KJhKv2hsEd-DOue_YMOOew _KJgjYWhsEd-DOue_YMOOew _KJhKMWhsEd-DOue_YMOOew _KJhKMmhsEd-DOue_YMOOew _KJhKNmhsEd-DOue_YMOOew _KJhKOmhsEd-DOue_YMOOew _KJhKvGhsEd-DOue_YMOOew">
+            <ownedComment xmi:id="_ZfgPMG_fEd-FFcdV3Q2EXw" annotatedElement="_KJeIFWhsEd-DOue_YMOOew _KJgjWGhsEd-DOue_YMOOew">
+              <body>&lt;p>&#xD;
+    El cliente elimina la reserva de su lista de reservas&#xD;
+&lt;/p></body>
+            </ownedComment>
+          </lifeline>
           <lifeline xmi:id="_KJgjQmhsEd-DOue_YMOOew" name="reserva" represents="_KJhK9mhsEd-DOue_YMOOew" coveredBy="_KJgjW2hsEd-DOue_YMOOew _KJhKPWhsEd-DOue_YMOOew _KJhKVWhsEd-DOue_YMOOew _KJhKbWhsEd-DOue_YMOOew _KJhKhWhsEd-DOue_YMOOew _KJhKnWhsEd-DOue_YMOOew _KJhKRmhsEd-DOue_YMOOew _KJhKUGhsEd-DOue_YMOOew _KJhKXmhsEd-DOue_YMOOew _KJhKaGhsEd-DOue_YMOOew _KJhKdmhsEd-DOue_YMOOew _KJhKgGhsEd-DOue_YMOOew _KJhKjmhsEd-DOue_YMOOew _KJhKmGhsEd-DOue_YMOOew _KJhKpmhsEd-DOue_YMOOew _KJhKsGhsEd-DOue_YMOOew _KJhKtWhsEd-DOue_YMOOew _KJgjY2hsEd-DOue_YMOOew _KJgjYmhsEd-DOue_YMOOew _KJhKMGhsEd-DOue_YMOOew _KJhKPGhsEd-DOue_YMOOew _KJhKO2hsEd-DOue_YMOOew _KJhKu2hsEd-DOue_YMOOew _GzYC8WyMEd-_9-SwQ5-rmw _3RwMYW4xEd-EbcQ8e08ROg"/>
           <lifeline xmi:id="_KJgjQ2hsEd-DOue_YMOOew" name="asientoReservado" represents="_KJhK92hsEd-DOue_YMOOew" coveredBy="_KJhKPWhsEd-DOue_YMOOew _KJhKR2hsEd-DOue_YMOOew _KJhKSGhsEd-DOue_YMOOew _KJhKT2hsEd-DOue_YMOOew _KJhKSWhsEd-DOue_YMOOew _KJhKTmhsEd-DOue_YMOOew _6ruCsWyNEd-_9-SwQ5-rmw"/>
           <lifeline xmi:id="_KJgjRGhsEd-DOue_YMOOew" name="asiento" represents="_KJhK-GhsEd-DOue_YMOOew" coveredBy="_KJhKPWhsEd-DOue_YMOOew _KJhKSmhsEd-DOue_YMOOew _KJhKS2hsEd-DOue_YMOOew _KJhKTWhsEd-DOue_YMOOew"/>
@@ -12300,7 +12312,6 @@ presentación le pasa a Dominio.</body>
         <ownedAttribute xmi:id="_KJhK_WhsEd-DOue_YMOOew" name="salaReservada" type="_KM7DumhsEd-DOue_YMOOew"/>
         <ownedAttribute xmi:id="_KJhK_mhsEd-DOue_YMOOew" name="sala" type="_KM7rTWhsEd-DOue_YMOOew"/>
         <ownedAttribute xmi:id="_KJhK_2hsEd-DOue_YMOOew" name="tour Reservado" type="_KM6c-GhsEd-DOue_YMOOew"/>
-        <ownedAttribute xmi:id="_KJhLAGhsEd-DOue_YMOOew" name="tour" type="_KM7q32hsEd-DOue_YMOOew"/>
         <ownedAttribute xmi:id="_KJhLAWhsEd-DOue_YMOOew" name="grupo" type="_KM8R-WhsEd-DOue_YMOOew"/>
         <ownedAttribute xmi:id="_KJhLAmhsEd-DOue_YMOOew" name="factura" type="_KM7DnGhsEd-DOue_YMOOew"/>
         <ownedAttribute xmi:id="_KJhLA2hsEd-DOue_YMOOew" name="cl" type="_KM6ceGhsEd-DOue_YMOOew"/>
@@ -19457,7 +19468,6 @@ presentación le pasa a Dominio.</body>
           </ownedParameter>
           <ownedParameter xmi:id="_KM7q-2hsEd-DOue_YMOOew" name="tour" type="_KM7q32hsEd-DOue_YMOOew" direction="return"/>
         </ownedOperation>
-        <ownedOperation xmi:id="_KM7q_GhsEd-DOue_YMOOew" name="***tieneReservasPendientes()***"/>
         <ownedOperation xmi:id="_Q3twYG4mEd-iF7wJZvrKSg" name="Tour">
           <ownedParameter xmi:id="_SEmaQG4mEd-iF7wJZvrKSg" name="tour" type="_KM7q32hsEd-DOue_YMOOew" direction="return"/>
           <ownedParameter xmi:id="_oiu0MG4mEd-iF7wJZvrKSg" name="nombreTour">
@@ -19893,7 +19903,6 @@ presentación le pasa a Dominio.</body>
         <ownedOperation xmi:id="_KM8RpmhsEd-DOue_YMOOew" name="anadeSalaReservada">
           <ownedParameter xmi:id="_KM8Rp2hsEd-DOue_YMOOew" name="salaReservada" type="_KM7DumhsEd-DOue_YMOOew"/>
         </ownedOperation>
-        <ownedOperation xmi:id="_KM8RqGhsEd-DOue_YMOOew" name="***tieneReservasPendientes()***"/>
         <ownedOperation xmi:id="_woDK8G4lEd-iF7wJZvrKSg" name="Sala">
           <ownedParameter xmi:id="_xAx0AG4lEd-iF7wJZvrKSg" name="sala" type="_KM7rTWhsEd-DOue_YMOOew" direction="return"/>
           <ownedParameter xmi:id="_Yrr-AG5dEd-fc96Zk-o1cA" name="localDeReunion" type="_KM7qz2hsEd-DOue_YMOOew"/>
@@ -20013,7 +20022,6 @@ presentación le pasa a Dominio.</body>
         <ownedOperation xmi:id="_KM8RyGhsEd-DOue_YMOOew" name="anadeReservaMesa">
           <ownedParameter xmi:id="_KM8RyWhsEd-DOue_YMOOew" name="mesaReservada" type="_KM7Dh2hsEd-DOue_YMOOew"/>
         </ownedOperation>
-        <ownedOperation xmi:id="_KM8RymhsEd-DOue_YMOOew" name="***tieneReservasPendientes()***"/>
         <ownedOperation xmi:id="_Z4vo0G4iEd-iF7wJZvrKSg" name="Mesa">
           <ownedParameter xmi:id="_aXSmAG4iEd-iF7wJZvrKSg" name="mesa" type="_KM8RuGhsEd-DOue_YMOOew" direction="return"/>
           <ownedParameter xmi:id="_UimBsG5dEd-fc96Zk-o1cA" name="restauracion" type="_KM7rWmhsEd-DOue_YMOOew"/>
@@ -20138,7 +20146,6 @@ presentación le pasa a Dominio.</body>
         <ownedOperation xmi:id="_KM8R9mhsEd-DOue_YMOOew" name="anadeHabitacionReservada">
           <ownedParameter xmi:id="_KM8R92hsEd-DOue_YMOOew" name="habitacionReservada" type="_KM7DqGhsEd-DOue_YMOOew"/>
         </ownedOperation>
-        <ownedOperation xmi:id="_KM8R-GhsEd-DOue_YMOOew" name="***tieneReservasPendientes()***"/>
         <ownedOperation xmi:id="_6gbXkG4gEd-iF7wJZvrKSg" name="Habitacion">
           <ownedParameter xmi:id="_7IhSUG4gEd-iF7wJZvrKSg" name="habitacion" type="_KM8R4mhsEd-DOue_YMOOew" direction="return"/>
           <ownedParameter xmi:id="_etxcQG5dEd-fc96Zk-o1cA" name="descanso" type="_KM7rHGhsEd-DOue_YMOOew"/>
@@ -20224,7 +20231,6 @@ presentación le pasa a Dominio.</body>
         <ownedOperation xmi:id="_KM8SBWhsEd-DOue_YMOOew" name="anadeTourReservado">
           <ownedParameter xmi:id="_KM8SBmhsEd-DOue_YMOOew" name="tourReservado" type="_KM6c-GhsEd-DOue_YMOOew"/>
         </ownedOperation>
-        <ownedOperation xmi:id="_KM8SB2hsEd-DOue_YMOOew" name="***tieneReservasPendientes()***"/>
         <ownedOperation xmi:id="_KWAloG4gEd-iF7wJZvrKSg" name="Grupo">
           <ownedParameter xmi:id="_LB-TwG4gEd-iF7wJZvrKSg" name="grupo" type="_KM8R-WhsEd-DOue_YMOOew" direction="return"/>
           <ownedParameter xmi:id="_VPcNUG4gEd-iF7wJZvrKSg" name="tour" type="_KM7q32hsEd-DOue_YMOOew"/>
@@ -20283,7 +20289,6 @@ presentación le pasa a Dominio.</body>
         <ownedOperation xmi:id="_KM8SGmhsEd-DOue_YMOOew" name="anadeAsientoReservado">
           <ownedParameter xmi:id="_KM8SG2hsEd-DOue_YMOOew" name="asientoReservado" type="_KM6c5WhsEd-DOue_YMOOew"/>
         </ownedOperation>
-        <ownedOperation xmi:id="_KM8SHGhsEd-DOue_YMOOew" name="***tieneReservasPendientes()***"/>
         <ownedOperation xmi:id="_syH6IG2UEd-Ru5FGgpvQwg" name="eliminaAsiento"/>
         <ownedOperation xmi:id="_uaIZwG2UEd-Ru5FGgpvQwg" name="Asiento">
           <ownedParameter xmi:id="_ojWYEG5OEd-fc96Zk-o1cA" name="asiento" type="_KM8SCGhsEd-DOue_YMOOew" direction="return"/>
