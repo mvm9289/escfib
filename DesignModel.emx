@@ -17927,15 +17927,6 @@ presentación le pasa a Dominio.</body>
         </ownedParameter>
       </ownedOperation>
     </packagedElement>
-    <packagedElement xmi:type="uml:Class" xmi:id="_KM09KGhsEd-DOue_YMOOew" name="ControladorModificarServicio">
-      <eAnnotations xmi:id="_KM09KWhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
-        <details xmi:id="_KM09KmhsEd-DOue_YMOOew" key="SessionBean"/>
-      </eAnnotations>
-      <ownedOperation xmi:id="_bkRXsG48Ed-EbcQ8e08ROg" name="ControladorModificarServicio">
-        <ownedParameter xmi:id="_dG62MG48Ed-EbcQ8e08ROg" name="controladorModificarServicio" type="_KM09KGhsEd-DOue_YMOOew" direction="return"/>
-      </ownedOperation>
-      <ownedOperation xmi:id="_g91dYG48Ed-EbcQ8e08ROg" name="eliminaControladorModificarServicio"/>
-    </packagedElement>
     <packagedElement xmi:type="uml:Class" xmi:id="_KM09K2hsEd-DOue_YMOOew" name="ControladorAnularReserva">
       <eAnnotations xmi:id="_KM09LGhsEd-DOue_YMOOew" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <details xmi:id="_KM09LWhsEd-DOue_YMOOew" key="SessionBean"/>
