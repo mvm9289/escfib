@@ -3,7 +3,7 @@
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Plataforma de modelado de Rational (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:RUPAnalysis="http:///schemas/RUPAnalysis/3" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.2/Umlnotation" xsi:schemaLocation="http:///schemas/RUPAnalysis/3 pathmap://RUP_PROFILES/RUPAnalysis.epx#_DM6zsMmEEdqP1b5S0px2VQ?RUPAnalysis/RUPAnalysis?">
-  <uml:Package xmi:id="__d6VQGd9Ed-wdYDqL5v8Ow" name="AnalysisModel">
+  <uml:Package xmi:id="__d6VQGd9Ed-wdYDqL5v8Ow" name="Analysis Model">
     <eAnnotations xmi:id="__d6VQWd9Ed-wdYDqL5v8Ow" source="uml2.diagrams" references="__d6VQmd9Ed-wdYDqL5v8Ow">
       <contents xmi:type="notation:Diagram" xmi:id="__d6VQmd9Ed-wdYDqL5v8Ow" type="Freeform" name="Main">
         <children xmi:id="_mCjG0HGREd-3pYQGChdiYw" element="_5TMC8Gd-Ed-wdYDqL5v8Ow">

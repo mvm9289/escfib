@@ -2,7 +2,7 @@
 <!--xtools2_universal_type_manager-->
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Plataforma de modelado de Rational (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
-<uml:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.2/Umlnotation" xmi:id="_t6WlwGhrEd-DOue_YMOOew" name="DesignModel">
+<uml:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.2/Umlnotation" xmi:id="_t6WlwGhrEd-DOue_YMOOew" name="Design Model">
   <eAnnotations xmi:id="_t6WlwWhrEd-DOue_YMOOew" source="uml2.diagrams" references="_t6WlwmhrEd-DOue_YMOOew">
     <contents xmi:type="notation:Diagram" xmi:id="_t6WlwmhrEd-DOue_YMOOew" type="Freeform" name="Main">
       <children xmi:id="_h-az8HGaEd-3pYQGChdiYw">
@@ -3895,25 +3895,23 @@
             <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_ZQjSoXGfEd-3pYQGChdiYw" fontName="Segoe UI" showStereotype="Label"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZQjSonGfEd-3pYQGChdiYw" x="1056" y="924" width="8807" height="950"/>
           </children>
-          <children xmi:id="_i7l0kHGfEd-3pYQGChdiYw" type="Note">
-            <eAnnotations xmi:id="_i7mbonGfEd-3pYQGChdiYw" source="DiagramLink"/>
-            <children xmi:id="_i7mboHGfEd-3pYQGChdiYw" type="DiagramName"/>
-            <children xmi:id="_i7mboXGfEd-3pYQGChdiYw" type="Description"/>
-            <styles xmi:type="notation:ShapeStyle" xmi:id="_i7l0kXGfEd-3pYQGChdiYw" fontName="Segoe UI" lineWidth="1"/>
-            <styles xmi:type="notation:TextStyle" xmi:id="_i7l0knGfEd-3pYQGChdiYw"/>
-            <styles xmi:type="notation:LineTypeStyle" xmi:id="_i7l0k3GfEd-3pYQGChdiYw"/>
-            <element xmi:type="notation:Diagram" href="AnalysisModel.emx#_KWGKWGd_Ed-wdYDqL5v8Ow?AnalysisModel/Realizaciones%20casos%20de%20uso/Alta%20cliente/VOPC?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_i7l0lHGfEd-3pYQGChdiYw" x="1716" y="2376"/>
+          <children xmi:id="_NnLQMHGpEd-0oM7_xEFiJw" type="Note" element="_KJRSmGhsEd-DOue_YMOOew">
+            <eAnnotations xmi:id="_NnNFYXGpEd-0oM7_xEFiJw" source="DiagramLink"/>
+            <children xmi:id="_NnMeUHGpEd-0oM7_xEFiJw" type="DiagramName"/>
+            <children xmi:id="_NnNFYHGpEd-0oM7_xEFiJw" type="Description"/>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_NnLQMXGpEd-0oM7_xEFiJw" fontName="Segoe UI" lineWidth="1"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_NnLQMnGpEd-0oM7_xEFiJw"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_NnLQM3GpEd-0oM7_xEFiJw"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NnLQNHGpEd-0oM7_xEFiJw" x="2112" y="2376"/>
           </children>
-          <children xmi:id="_jW3bUHGfEd-3pYQGChdiYw" type="Note">
-            <eAnnotations xmi:id="_jW4CYnGfEd-3pYQGChdiYw" source="DiagramLink"/>
-            <children xmi:id="_jW4CYHGfEd-3pYQGChdiYw" type="DiagramName"/>
-            <children xmi:id="_jW4CYXGfEd-3pYQGChdiYw" type="Description"/>
-            <styles xmi:type="notation:ShapeStyle" xmi:id="_jW3bUXGfEd-3pYQGChdiYw" fontName="Segoe UI" lineWidth="1"/>
-            <styles xmi:type="notation:TextStyle" xmi:id="_jW3bUnGfEd-3pYQGChdiYw"/>
-            <styles xmi:type="notation:LineTypeStyle" xmi:id="_jW3bU3GfEd-3pYQGChdiYw"/>
-            <element xmi:type="notation:Diagram" href="AnalysisModel.emx#_1a7igGd_Ed-wdYDqL5v8Ow?AnalysisModel/Realizaciones%20casos%20de%20uso/Alta%20cliente/Alta%20cliente/Alta%20cliente/Alta%20cliente?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jW3bVHGfEd-3pYQGChdiYw" x="6072" y="2376"/>
+          <children xmi:id="_OYUZQHGpEd-0oM7_xEFiJw" type="Note" element="_KJR5wGhsEd-DOue_YMOOew">
+            <eAnnotations xmi:id="_OYVAUnGpEd-0oM7_xEFiJw" source="DiagramLink"/>
+            <children xmi:id="_OYVAUHGpEd-0oM7_xEFiJw" type="DiagramName"/>
+            <children xmi:id="_OYVAUXGpEd-0oM7_xEFiJw" type="Description"/>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_OYUZQXGpEd-0oM7_xEFiJw" fontName="Segoe UI" lineWidth="1"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_OYUZQnGpEd-0oM7_xEFiJw"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_OYUZQ3GpEd-0oM7_xEFiJw"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OYUZRHGpEd-0oM7_xEFiJw" x="5808" y="2376"/>
           </children>
           <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_KJRSl2hsEd-DOue_YMOOew"/>
           <element xsi:nil="true"/>
