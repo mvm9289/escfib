@@ -8263,7 +8263,7 @@
       <packagedElement xmi:type="uml:DestructionEvent" xmi:id="_BCiMgG6LEd-7Ib_JrYwa4w" name="Eventodedestrucción6"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_BajD4G6LEd-7Ib_JrYwa4w" name="Eventodeoperacióndeenvío44" operation="_d7gVMG6GEd-7Ib_JrYwa4w"/>
     </packagedElement>
-    <packagedElement xmi:type="uml:Package" xmi:id="_KJYnzGhsEd-DOue_YMOOew" name="***Alta servicio***">
+    <packagedElement xmi:type="uml:Package" xmi:id="_KJYnzGhsEd-DOue_YMOOew" name="Alta servicio">
       <eAnnotations xmi:id="_KJYnzWhsEd-DOue_YMOOew" source="uml2.diagrams" references="_KJYnzmhsEd-DOue_YMOOew">
         <contents xmi:type="notation:Diagram" xmi:id="_KJYnzmhsEd-DOue_YMOOew" type="Freeform" name="Principal">
           <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_KJYnz2hsEd-DOue_YMOOew"/>
@@ -9292,7 +9292,7 @@ presentación le pasa a Dominio.</body>
       <packagedElement xmi:type="uml:CreationEvent" xmi:id="_6kvNZG6wEd-OlrPe1bZibg" name="Eventodecreación8"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_7s5IQG6wEd-OlrPe1bZibg" name="Eventodeoperacióndeenvío31" operation="_kgI6wG4hEd-iF7wJZvrKSg"/>
     </packagedElement>
-    <packagedElement xmi:type="uml:Package" xmi:id="_KJbDomhsEd-DOue_YMOOew" name="***Baja servicio***">
+    <packagedElement xmi:type="uml:Package" xmi:id="_KJbDomhsEd-DOue_YMOOew" name="Baja servicio">
       <eAnnotations xmi:id="_KJbDo2hsEd-DOue_YMOOew" source="uml2.diagrams" references="_KJbDpGhsEd-DOue_YMOOew">
         <contents xmi:type="notation:Diagram" xmi:id="_KJbDpGhsEd-DOue_YMOOew" type="Freeform" name="Principal">
           <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_KJbDpWhsEd-DOue_YMOOew"/>
