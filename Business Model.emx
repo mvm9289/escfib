@@ -66,7 +66,7 @@
           <children xmi:id="_LuciB22NEd-VQPINpFKzKQ" type="Stereotype"/>
           <children xmi:id="_LuciCG2NEd-VQPINpFKzKQ" type="CommentBody"/>
           <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_LuciAW2NEd-VQPINpFKzKQ" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LuciAm2NEd-VQPINpFKzKQ" x="1428" y="7788" width="6216" height="1455"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LuciAm2NEd-VQPINpFKzKQ" x="1452" y="7788" width="6216" height="1455"/>
         </children>
         <children xmi:id="_RKZ0YG2NEd-VQPINpFKzKQ" element="_RJgcgG2NEd-VQPINpFKzKQ">
           <eAnnotations xmi:id="_RKZ0Y22NEd-VQPINpFKzKQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
@@ -90,7 +90,7 @@
           <children xmi:id="_TsO3922NEd-VQPINpFKzKQ" type="Stereotype"/>
           <children xmi:id="_TsO3-G2NEd-VQPINpFKzKQ" type="CommentBody"/>
           <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_TsO38W2NEd-VQPINpFKzKQ" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TsO38m2NEd-VQPINpFKzKQ" x="1428" y="11986" width="6217" height="1058"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TsO38m2NEd-VQPINpFKzKQ" x="1452" y="12012" width="6217" height="1058"/>
         </children>
         <children xmi:id="_VpQlUG2NEd-VQPINpFKzKQ" element="_VoODgG2NEd-VQPINpFKzKQ">
           <eAnnotations xmi:id="_VpQlU22NEd-VQPINpFKzKQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
